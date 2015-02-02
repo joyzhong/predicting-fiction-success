@@ -1,0 +1,908 @@
+******************DATASET: Adventure ***********************************
+
+****************** FOLD1 ***********************************
+SUCCESS: FileName: 103.txt ,Title: around the world in 80 days ,Author: "verne, jules, 1828-1905" ,Language: en ,DownloadCount: 3260
+SUCCESS: FileName: 1145.txt ,Title: rupert of hentzau ,Author: "hope, anthony, 1863-1933" ,Language: en ,DownloadCount: 141
+SUCCESS: FileName: 1947.txt ,Title: scaramouche ,Author: "sabatini, rafael, 1875-1950" ,Language: en ,DownloadCount: 434
+SUCCESS: FileName: 19513.txt ,Title: a journey to the center of the earth ,Author: "verne, jules, 1828-1905" ,Language: en ,DownloadCount: 336
+SUCCESS: FileName: 1965.txt ,Title: captain blood ,Author: "sabatini, rafael, 1875-1950" ,Language: en ,DownloadCount: 638
+SUCCESS: FileName: 2166.txt ,Title: king solomon's mines ,Author: "haggard, h. rider (henry rider), 1856-1925" ,Language: en ,DownloadCount: 1667
+SUCCESS: FileName: 24091.txt ,Title: despoilers of the golden empire ,Author: "garrett, randall, 1927-1987" ,Language: en ,DownloadCount: 115
+SUCCESS: FileName: 2727.txt ,Title: allan's wife ,Author: "haggard, h. rider (henry rider), 1856-1925" ,Language: en ,DownloadCount: 200
+SUCCESS: FileName: 393.txt ,Title: the blue lagoon: a romance ,Author: "stacpoole, h. de vere (henry de vere), 1863-1951" ,Language: en ,DownloadCount: 175
+SUCCESS: FileName: 95.txt ,Title: the prisoner of zenda ,Author: "hope, anthony, 1863-1933" ,Language: en ,DownloadCount: 669
+FAILURE:FileName: 10368.txt ,Title: the vizier of the two-horned alexander ,Author: "stockton, frank richard, 1834-1902" ,Language: en ,DownloadCount: 15
+FAILURE:FileName: 12190.txt ,Title: the adventures of captain horn ,Author: "stockton, frank richard, 1834-1902" ,Language: en ,DownloadCount: 17
+FAILURE:FileName: 13290.txt ,Title: martin rattler ,Author: "ballantyne, r. m. (robert michael), 1825-1894" ,Language: en ,DownloadCount: 13
+FAILURE:FileName: 15072.txt ,Title: marjorie's maytime ,Author: "wells, carolyn, 1862-1942" ,Language: en ,DownloadCount: 10
+FAILURE:FileName: 18399.txt ,Title: the shipwreck a story for the young ,Author: "spillman, joseph, 1842-1905" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 21393.txt ,Title: "hendricks the hunter the border farm, a tale of zululand" ,Author: "kingston, william henry giles, 1814-1880" ,Language: en ,DownloadCount: 15
+FAILURE:FileName: 21459.txt ,Title: dick onslow among the redskins ,Author: "kingston, william henry giles, 1814-1880" ,Language: en ,DownloadCount: 12
+FAILURE:FileName: 23662.txt ,Title: the heart of unaga ,Author: "cullum, ridgwell, 1867-1943" ,Language: en ,DownloadCount: 12
+FAILURE:FileName: 24695.txt ,Title: the snowshoe trail ,Author: "marshall, edison, 1894-1967" ,Language: en ,DownloadCount: 16
+FAILURE:FileName: 8493.txt ,Title: the last hope ,Author: "merriman, henry seton, 1862-1903" ,Language: en ,DownloadCount: 11
+
+****************** FOLD2 ***********************************
+SUCCESS: FileName: 106.txt ,Title: jungle tales of tarzan ,Author: "burroughs, edgar rice, 1875-1950" ,Language: en ,DownloadCount: 377
+SUCCESS: FileName: 123.txt ,Title: at the earth's core ,Author: "burroughs, edgar rice, 1875-1950" ,Language: en ,DownloadCount: 479
+SUCCESS: FileName: 126.txt ,Title: the poison belt ,Author: "doyle, arthur conan, sir, 1859-1930" ,Language: en ,DownloadCount: 413
+SUCCESS: FileName: 17047.txt ,Title: the half-hearted ,Author: "buchan, john, 1875-1940" ,Language: en ,DownloadCount: 252
+SUCCESS: FileName: 20898.txt ,Title: the galaxy primes ,Author: "smith, e. e. (edward elmer), 1890-1965" ,Language: en ,DownloadCount: 354
+SUCCESS: FileName: 25577.txt ,Title: all adrift or the goldwing club ,Author: "optic, oliver, 1822-1897" ,Language: en ,DownloadCount: 160
+SUCCESS: FileName: 3782.txt ,Title: huntingtower ,Author: "buchan, john, 1875-1940" ,Language: en ,DownloadCount: 126
+SUCCESS: FileName: 468.txt ,Title: manon lescaut ,Author: "pr�vost, abb�, 1697-1763" ,Language: en ,DownloadCount: 277
+SUCCESS: FileName: 9609.txt ,Title: "joseph andrews, vol. 2" ,Author: "fielding, henry, 1707-1754" ,Language: en ,DownloadCount: 139
+SUCCESS: FileName: 9611.txt ,Title: "joseph andrews, vol. 1" ,Author: "fielding, henry, 1707-1754" ,Language: en ,DownloadCount: 257
+FAILURE:FileName: 10690.txt ,Title: "a desperate chance or, the wizard tramp's revelation, a thrilling narrative" ,Author: "halsey, harlan page, 1839?-1898" ,Language: en ,DownloadCount: 17
+FAILURE:FileName: 12191.txt ,Title: the red axe ,Author: "crockett, s. r. (samuel rutherford), 1860-1914" ,Language: en ,DownloadCount: 17
+FAILURE:FileName: 13276.txt ,Title: the mission ,Author: "marryat, frederick, 1792-1848" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 13405.txt ,Title: "the travels and adventures of monsieur violet in california, sonora, and western texas" ,Author: "marryat, frederick, 1792-1848" ,Language: en ,DownloadCount: 17
+FAILURE:FileName: 19235.txt ,Title: under the great bear ,Author: "munroe, kirk, 1850-1930" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 21268.txt ,Title: the search for the silver city a tale of adventure in yucatan ,Author: "otis, james, 1848-1912" ,Language: en ,DownloadCount: 10
+FAILURE:FileName: 21539.txt ,Title: the blue envelope ,Author: "snell, roy j. (roy judson), 1878-1959" ,Language: en ,DownloadCount: 14
+FAILURE:FileName: 23725.txt ,Title: viking boys ,Author: "saxby, jessie margaret edmondston, 1842-1940" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 24996.txt ,Title: the tapu of banderah 1901 ,Author: "becke, louis, 1855-1913" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 9649.txt ,Title: with trapper jim in the north woods ,Author: "leslie, lawrence j." ,Language: en ,DownloadCount: 14
+
+****************** FOLD3 ***********************************
+SUCCESS: FileName: 10743.txt ,Title: moonfleet ,Author: "falkner, john meade, 1858-1932" ,Language: en ,DownloadCount: 270
+SUCCESS: FileName: 11866.txt ,Title: "the life and most surprising adventures of robinson crusoe, of york, mariner (1801)" ,Author: "defoe, daniel, 1661?-1731" ,Language: en ,DownloadCount: 108
+SUCCESS: FileName: 12623.txt ,Title: the life and adventures of robinson crusoe (1808) ,Author: "defoe, daniel, 1661?-1731" ,Language: en ,DownloadCount: 189
+SUCCESS: FileName: 12986.txt ,Title: "the card, a story of adventure in the five towns" ,Author: "bennett, arnold, 1867-1931" ,Language: en ,DownloadCount: 221
+SUCCESS: FileName: 1752.txt ,Title: "el dorado, an adventure of the scarlet pimpernel" ,Author: "orczy, baroness emmuska, 1865-1947" ,Language: en ,DownloadCount: 230
+SUCCESS: FileName: 19640.txt ,Title: adventures of huckleberry finn ,Author: "twain, mark, 1835-1910" ,Language: en ,DownloadCount: 1092
+SUCCESS: FileName: 19714.txt ,Title: with frederick the great a story of the seven years' war ,Author: "henty, g. a. (george alfred), 1832-1902" ,Language: en ,DownloadCount: 103
+SUCCESS: FileName: 2785.txt ,Title: the elusive pimpernel ,Author: "orczy, baroness emmuska, 1865-1947" ,Language: en ,DownloadCount: 210
+SUCCESS: FileName: 546.txt ,Title: under the andes ,Author: "stout, rex, 1886-1975" ,Language: en ,DownloadCount: 147
+SUCCESS: FileName: 7100.txt ,Title: "adventures of huckleberry finn, chapters 01 to 05" ,Author: "twain, mark, 1835-1910" ,Language: en ,DownloadCount: 746
+FAILURE:FileName: 12611.txt ,Title: the regent ,Author: "bennett, arnold, 1867-1931" ,Language: en ,DownloadCount: 17
+FAILURE:FileName: 15773.txt ,Title: round the world in seven days ,Author: "strang, herbert" ,Language: en ,DownloadCount: 17
+FAILURE:FileName: 20131.txt ,Title: the mask a story of love and adventure ,Author: "hornblow, arthur, 1865-1942" ,Language: en ,DownloadCount: 15
+FAILURE:FileName: 21313.txt ,Title: in honour's cause a tale of the days of george the first ,Author: "fenn, george manville, 1831-1909" ,Language: en ,DownloadCount: 11
+FAILURE:FileName: 21314.txt ,Title: king o' the beach a tropic tale ,Author: "fenn, george manville, 1831-1909" ,Language: en ,DownloadCount: 10
+FAILURE:FileName: 21795.txt ,Title: fred fearnot's new ranch and how he and terry managed it ,Author: "shackleford, h. k. (harvey king), 1841-1906" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 24297.txt ,Title: "the river of darkness, or, under africa" ,Author: "graydon, william murray, 1864-1946" ,Language: en ,DownloadCount: 12
+FAILURE:FileName: 24299.txt ,Title: the cryptogram a story of northwest canada ,Author: "graydon, william murray, 1864-1946" ,Language: en ,DownloadCount: 13
+FAILURE:FileName: 25079.txt ,Title: queensland cousins ,Author: "haverfield, eleanor luisa, 1870-" ,Language: en ,DownloadCount: 13
+FAILURE:FileName: 9873.txt ,Title: till the clock stops ,Author: "bell, j. j. (john joy), 1871-1934" ,Language: en ,DownloadCount: 11
+
+****************** FOLD4 ***********************************
+SUCCESS: FileName: 1083.txt ,Title: the arrow of gold a story between two notes ,Author: "conrad, joseph, 1857-1924" ,Language: en ,DownloadCount: 104
+SUCCESS: FileName: 1142.txt ,Title: typhoon ,Author: "conrad, joseph, 1857-1924" ,Language: en ,DownloadCount: 320
+SUCCESS: FileName: 13720.txt ,Title: "mardi: and a voyage thither, vol. i" ,Author: "melville, herman, 1819-1891" ,Language: en ,DownloadCount: 130
+SUCCESS: FileName: 13721.txt ,Title: "mardi: and a voyage thither, vol. ii" ,Author: "melville, herman, 1819-1891" ,Language: en ,DownloadCount: 169
+SUCCESS: FileName: 1376.txt ,Title: "the little white bird; or, adventures in kensington gardens" ,Author: "barrie, j. m. (james matthew), 1860-1937" ,Language: en ,DownloadCount: 284
+SUCCESS: FileName: 19678.txt ,Title: call of the wild ,Author: "london, jack, 1876-1916" ,Language: en ,DownloadCount: 503
+SUCCESS: FileName: 21338.txt ,Title: "the vnfortunate traveller, or the life of jack wilton with an essay on the life and writings of thomas nash by edmund gosse" ,Author: "nash, thomas, 1567-1601" ,Language: en ,DownloadCount: 257
+SUCCESS: FileName: 215.txt ,Title: the call of the wild ,Author: "london, jack, 1876-1916" ,Language: en ,DownloadCount: 3433
+SUCCESS: FileName: 2226.txt ,Title: kim ,Author: "kipling, rudyard, 1865-1936" ,Language: en ,DownloadCount: 1203
+SUCCESS: FileName: 2275.txt ,Title: the pioneers ,Author: "cooper, james fenimore, 1789-1851" ,Language: en ,DownloadCount: 262
+FAILURE:FileName: 10988.txt ,Title: the devil's admiral ,Author: "moore, frederick ferdinand, 1877-" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 11909.txt ,Title: "bob the castaway or, the wreck of the eagle" ,Author: "webster, frank v." ,Language: en ,DownloadCount: 12
+FAILURE:FileName: 12405.txt ,Title: "frank, the young naturalist" ,Author: "castlemon, harry, 1842-1915" ,Language: en ,DownloadCount: 14
+FAILURE:FileName: 13946.txt ,Title: camp and trail a story of the maine woods ,Author: "hornibrook, isabel, 1859-1952" ,Language: en ,DownloadCount: 17
+FAILURE:FileName: 14361.txt ,Title: carmen's messenger ,Author: "bindloss, harold, 1866-1945" ,Language: en ,DownloadCount: 13
+FAILURE:FileName: 16604.txt ,Title: poison island ,Author: "quiller-couch, arthur thomas, sir, 1863-1944" ,Language: en ,DownloadCount: 13
+FAILURE:FileName: 20261.txt ,Title: the adventures of harry revel ,Author: "quiller-couch, arthur thomas, sir, 1863-1944" ,Language: en ,DownloadCount: 13
+FAILURE:FileName: 22086.txt ,Title: "the son of monte-cristo, volume ii" ,Author: "lermina, jules, 1839-1915" ,Language: en ,DownloadCount: 17
+FAILURE:FileName: 25144.txt ,Title: a voyage with captain dynamite ,Author: "rich, charles edward" ,Language: en ,DownloadCount: 11
+FAILURE:FileName: 9927.txt ,Title: the bronze bell ,Author: "vance, louis joseph, 1879-1933" ,Language: en ,DownloadCount: 13
+
+****************** FOLD5 ***********************************
+SUCCESS: FileName: 1184.txt ,Title: the count of monte cristo ,Author: "dumas, alexandre, 1802-1870" ,Language: en ,DownloadCount: 6562
+SUCCESS: FileName: 12556.txt ,Title: a master of fortune being further adventures of captain kettle ,Author: "hyne, charles john cutcliffe wright, 1866-1944" ,Language: en ,DownloadCount: 304
+SUCCESS: FileName: 18883.txt ,Title: the four feathers ,Author: "mason, a. e. w. (alfred edward woodley), 1865-1948" ,Language: en ,DownloadCount: 161
+SUCCESS: FileName: 18997.txt ,Title: "the vicomte de bragelonne or ten years later being the completion of ""the three musketeers"" and ""twenty years after""" ,Author: "dumas, alexandre, 1802-1870" ,Language: en ,DownloadCount: 104
+SUCCESS: FileName: 21513.txt ,Title: "life and adventures of peter wilkins, vol. i. (of ii.)" ,Author: "paltock, robert, 1697-1767" ,Language: en ,DownloadCount: 110
+SUCCESS: FileName: 2360.txt ,Title: the riddle of the sands ,Author: "childers, erskine, 1870-1922" ,Language: en ,DownloadCount: 860
+SUCCESS: FileName: 23765.txt ,Title: "captain boldheart & the latin-grammar master a holiday romance from the pen of lieut-col. robin redforth, aged 9" ,Author: "dickens, charles, 1812-1870" ,Language: en ,DownloadCount: 134
+SUCCESS: FileName: 794.txt ,Title: the wouldbegoods ,Author: "nesbit, e. (edith), 1858-1924" ,Language: en ,DownloadCount: 106
+SUCCESS: FileName: 966.txt ,Title: maid marian ,Author: "peacock, thomas love, 1785-1866" ,Language: en ,DownloadCount: 100
+SUCCESS: FileName: 968.txt ,Title: martin chuzzlewit ,Author: "dickens, charles, 1812-1870" ,Language: en ,DownloadCount: 534
+FAILURE:FileName: 11997.txt ,Title: crusoes of the frozen north ,Author: "stables, gordon, 1840-1910" ,Language: en ,DownloadCount: 17
+FAILURE:FileName: 14882.txt ,Title: bobby of the labrador ,Author: "wallace, dillon, 1863-1939" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 15546.txt ,Title: the last of the peterkins with others of their kin ,Author: "hale, lucretia p. (lucretia peabody), 1820-1900" ,Language: en ,DownloadCount: 12
+FAILURE:FileName: 17131.txt ,Title: the colonel of the red huzzars ,Author: "scott, john reed, 1869-" ,Language: en ,DownloadCount: 10
+FAILURE:FileName: 20618.txt ,Title: "the boy land boomer or, dick arbuckle's adventures in oklahoma" ,Author: "stratemeyer, edward, 1862-1930" ,Language: en ,DownloadCount: 12
+FAILURE:FileName: 20870.txt ,Title: "the motor girls through new england or, held by the gypsies" ,Author: "penrose, margaret" ,Language: en ,DownloadCount: 14
+FAILURE:FileName: 22424.txt ,Title: frank merriwell down south ,Author: "standish, burt l., 1866-1945" ,Language: en ,DownloadCount: 13
+FAILURE:FileName: 24306.txt ,Title: the flaming jewel ,Author: "chambers, robert w. (robert william), 1865-1933" ,Language: en ,DownloadCount: 11
+FAILURE:FileName: 25316.txt ,Title: frank merriwell's son a chip off the old block ,Author: "standish, burt l., 1866-1945" ,Language: en ,DownloadCount: 11
+FAILURE:FileName: 9968.txt ,Title: "the young woodsman or, life in the forests of canada" ,Author: "oxley, j. macdonald (james macdonald), 1855-1907" ,Language: en ,DownloadCount: 4
+
+
+
+******************DATASET: Detective/Mystery ***********************************
+
+****************** FOLD1 ***********************************
+SUCCESS: FileName: 10067.txt ,Title: the mystery of the boule cabinet a detective story ,Author: "stevenson, burton egbert, 1872-1962" ,Language: en ,DownloadCount: 93
+SUCCESS: FileName: 11128.txt ,Title: the red thumb mark ,Author: "freeman, r. austin (richard austin), 1862-1943" ,Language: en ,DownloadCount: 190
+SUCCESS: FileName: 12187.txt ,Title: the mystery of 31 new inn ,Author: "freeman, r. austin (richard austin), 1862-1943" ,Language: en ,DownloadCount: 211
+SUCCESS: FileName: 13372.txt ,Title: the gloved hand ,Author: "stevenson, burton egbert, 1872-1962" ,Language: en ,DownloadCount: 133
+SUCCESS: FileName: 1695.txt ,Title: "the man who was thursday, a nightmare" ,Author: "chesterton, g. k. (gilbert keith), 1874-1936" ,Language: en ,DownloadCount: 1220
+SUCCESS: FileName: 1718.txt ,Title: manalive ,Author: "chesterton, g. k. (gilbert keith), 1874-1936" ,Language: en ,DownloadCount: 184
+SUCCESS: FileName: 20912.txt ,Title: the daffodil mystery ,Author: "wallace, edgar, 1875-1932" ,Language: en ,DownloadCount: 328
+SUCCESS: FileName: 21530.txt ,Title: the angel of terror ,Author: "wallace, edgar, 1875-1932" ,Language: en ,DownloadCount: 343
+SUCCESS: FileName: 3180.txt ,Title: a double barrelled detective story ,Author: "twain, mark, 1835-1910" ,Language: en ,DownloadCount: 311
+SUCCESS: FileName: 3181.txt ,Title: the stolen white elephant ,Author: "twain, mark, 1835-1910" ,Language: en ,DownloadCount: 228
+FAILURE:FileName: 10029.txt ,Title: the hunt ball mystery ,Author: "magnay, william, sir, 1855-1917" ,Language: en ,DownloadCount: 24
+FAILURE:FileName: 12195.txt ,Title: the mystery of metropolisville ,Author: "eggleston, edward, 1837-1902" ,Language: en ,DownloadCount: 17
+FAILURE:FileName: 14369.txt ,Title: "the young engineers on the gulf or, the dread mystery of the million dollar breakwater" ,Author: "hancock, h. irving (harrie irving), 1868-1922" ,Language: en ,DownloadCount: 17
+FAILURE:FileName: 18671.txt ,Title: never-fail blake ,Author: "stringer, arthur, 1874-1950" ,Language: en ,DownloadCount: 24
+FAILURE:FileName: 20152.txt ,Title: the winning clue ,Author: "hay, james, 1881-1936" ,Language: en ,DownloadCount: 15
+FAILURE:FileName: 24945.txt ,Title: mufti ,Author: "mcneile, h. c. (herman cyril), 1888-1937" ,Language: en ,DownloadCount: 23
+FAILURE:FileName: 25873.txt ,Title: "the motor girls on crystal bay or, the secret of the red oar" ,Author: "penrose, margaret" ,Language: en ,DownloadCount: 22
+FAILURE:FileName: 2789.txt ,Title: the motor girls on a tour ,Author: "penrose, margaret" ,Language: en ,DownloadCount: 17
+FAILURE:FileName: 28504.txt ,Title: the rival campers ashore the mystery of the mill ,Author: "smith, ruel perley, 1869-1937" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 9300.txt ,Title: "jennie baxter, journalist" ,Author: "barr, robert, 1850-1912" ,Language: en ,DownloadCount: 25
+
+****************** FOLD2 ***********************************
+SUCCESS: FileName: 108.txt ,Title: the return of sherlock holmes ,Author: "doyle, arthur conan, sir, 1859-1930" ,Language: en ,DownloadCount: 5293
+SUCCESS: FileName: 11451.txt ,Title: the rome express ,Author: "griffiths, arthur, 1838-1908" ,Language: en ,DownloadCount: 368
+SUCCESS: FileName: 16339.txt ,Title: the passenger from calais ,Author: "griffiths, arthur, 1838-1908" ,Language: en ,DownloadCount: 165
+SUCCESS: FileName: 19069.txt ,Title: the silent house ,Author: "hume, fergus, 1859-1932" ,Language: en ,DownloadCount: 94
+SUCCESS: FileName: 2014.txt ,Title: the lodger ,Author: "lowndes, marie belloc, 1868-1947" ,Language: en ,DownloadCount: 176
+SUCCESS: FileName: 2097.txt ,Title: the sign of the four ,Author: "doyle, arthur conan, sir, 1859-1930" ,Language: en ,DownloadCount: 2529
+SUCCESS: FileName: 3802.txt ,Title: the widow lerouge ,Author: "gaboriau, emile, 1832-1873" ,Language: en ,DownloadCount: 120
+SUCCESS: FileName: 4071.txt ,Title: monsieur lecoq ,Author: "gaboriau, emile, 1832-1873" ,Language: en ,DownloadCount: 119
+SUCCESS: FileName: 564.txt ,Title: the mystery of edwin drood ,Author: "dickens, charles, 1812-1870" ,Language: en ,DownloadCount: 643
+SUCCESS: FileName: 5660.txt ,Title: mary louise ,Author: "baum, l. frank (lyman frank), 1856-1919" ,Language: en ,DownloadCount: 92
+FAILURE:FileName: 10537.txt ,Title: the governors ,Author: "oppenheim, e. phillips (edward phillips), 1866-1946" ,Language: en ,DownloadCount: 22
+FAILURE:FileName: 10575.txt ,Title: the profiteers ,Author: "oppenheim, e. phillips (edward phillips), 1866-1946" ,Language: en ,DownloadCount: 14
+FAILURE:FileName: 14623.txt ,Title: six little bunkers at grandma bell's ,Author: "hope, laura lee" ,Language: en ,DownloadCount: 16
+FAILURE:FileName: 18965.txt ,Title: the substitute prisoner ,Author: "marcin, max, 1879-1948" ,Language: en ,DownloadCount: 13
+FAILURE:FileName: 22212.txt ,Title: the paternoster ruby ,Author: "walk, charles edmonds, 1875-" ,Language: en ,DownloadCount: 22
+FAILURE:FileName: 25695.txt ,Title: the diamond coterie ,Author: "lynch, lawrence l." ,Language: en ,DownloadCount: 18
+FAILURE:FileName: 25847.txt ,Title: patty's friends ,Author: "wells, carolyn, 1862-1942" ,Language: en ,DownloadCount: 18
+FAILURE:FileName: 25875.txt ,Title: the woman from outside [on swan river] ,Author: "footner, hulbert, 1879-1944" ,Language: en ,DownloadCount: 20
+FAILURE:FileName: 2883.txt ,Title: the gold bag ,Author: "wells, carolyn, 1862-1942" ,Language: en ,DownloadCount: 22
+FAILURE:FileName: 9635.txt ,Title: the end of her honeymoon ,Author: "lowndes, marie belloc, 1868-1947" ,Language: en ,DownloadCount: 12
+
+****************** FOLD3 ***********************************
+SUCCESS: FileName: 10373.txt ,Title: the middle temple murder ,Author: "fletcher, j. s. (joseph smith), 1863-1935" ,Language: en ,DownloadCount: 283
+SUCCESS: FileName: 1155.txt ,Title: secret adversary ,Author: "christie, agatha, 1890-1976" ,Language: en ,DownloadCount: 4971
+SUCCESS: FileName: 1167.txt ,Title: a strange disappearance ,Author: "green, anna katharine, 1846-1935" ,Language: en ,DownloadCount: 226
+SUCCESS: FileName: 12239.txt ,Title: dead men's money ,Author: "fletcher, j. s. (joseph smith), 1863-1935" ,Language: en ,DownloadCount: 222
+SUCCESS: FileName: 155.txt ,Title: the moonstone ,Author: "collins, wilkie, 1824-1889" ,Language: en ,DownloadCount: 1650
+SUCCESS: FileName: 1622.txt ,Title: the law and the lady ,Author: "collins, wilkie, 1824-1889" ,Language: en ,DownloadCount: 110
+SUCCESS: FileName: 172.txt ,Title: the haunted bookshop ,Author: "morley, christopher, 1890-1957" ,Language: en ,DownloadCount: 293
+SUCCESS: FileName: 17763.txt ,Title: the mystery of the hasty arrow ,Author: "green, anna katharine, 1846-1935" ,Language: en ,DownloadCount: 180
+SUCCESS: FileName: 6864.txt ,Title: average jones ,Author: "adams, samuel hopkins, 1871-1958" ,Language: en ,DownloadCount: 91
+SUCCESS: FileName: 863.txt ,Title: the mysterious affair at styles ,Author: "christie, agatha, 1890-1976" ,Language: en ,DownloadCount: 4941
+FAILURE:FileName: 12678.txt ,Title: "the house of mystery an episode in the career of rosalie le grange, clairvoyant" ,Author: "irwin, will, 1873-1948" ,Language: en ,DownloadCount: 24
+FAILURE:FileName: 13880.txt ,Title: triple spies ,Author: "snell, roy j. (roy judson), 1878-1959" ,Language: en ,DownloadCount: 13
+FAILURE:FileName: 19335.txt ,Title: "oscar the detective or, dudie dunne, the exquisite detective" ,Author: "halsey, harlan page, 1839?-1898" ,Language: en ,DownloadCount: 22
+FAILURE:FileName: 22820.txt ,Title: the crooked house ,Author: "fleming, brandon" ,Language: en ,DownloadCount: 14
+FAILURE:FileName: 25787.txt ,Title: "on the edge of the arctic or, an aeroplane in snowland" ,Author: "sayler, h. l. (harry lincoln), 1863-" ,Language: en ,DownloadCount: 13
+FAILURE:FileName: 26155.txt ,Title: two wonderful detectives jack and gil's marvelous skill ,Author: "halsey, harlan page, 1839?-1898" ,Language: en ,DownloadCount: 20
+FAILURE:FileName: 26372.txt ,Title: panther eye ,Author: "snell, roy j. (roy judson), 1878-1959" ,Language: en ,DownloadCount: 10
+FAILURE:FileName: 27097.txt ,Title: the boy ranchers in death valley or diamond x and the poison mystery ,Author: "baker, willard f." ,Language: en ,DownloadCount: 24
+FAILURE:FileName: 431.txt ,Title: the fortune hunter ,Author: "phillips, david graham, 1867-1911" ,Language: en ,DownloadCount: 18
+FAILURE:FileName: 9808.txt ,Title: the loudwater mystery ,Author: "jepson, edgar, 1863-1938" ,Language: en ,DownloadCount: 14
+
+****************** FOLD4 ***********************************
+SUCCESS: FileName: 1076.txt ,Title: the wallet of kai lung ,Author: "bramah, ernest, 1869?-1942" ,Language: en ,DownloadCount: 99
+SUCCESS: FileName: 1159.txt ,Title: fire-tongue ,Author: "rohmer, sax, 1883-1959" ,Language: en ,DownloadCount: 104
+SUCCESS: FileName: 1182.txt ,Title: dope ,Author: "rohmer, sax, 1883-1959" ,Language: en ,DownloadCount: 146
+SUCCESS: FileName: 12509.txt ,Title: the moon rock ,Author: "rees, arthur j. (arthur john), 1872-1942" ,Language: en ,DownloadCount: 100
+SUCCESS: FileName: 13058.txt ,Title: the teeth of the tiger ,Author: "leblanc, maurice, 1864-1941" ,Language: en ,DownloadCount: 141
+SUCCESS: FileName: 14332.txt ,Title: cleek: the man of the forty faces ,Author: "hanshew, thomas w., 1857-1914" ,Language: en ,DownloadCount: 123
+SUCCESS: FileName: 1563.txt ,Title: the crystal stopper ,Author: "leblanc, maurice, 1864-1941" ,Language: en ,DownloadCount: 189
+SUCCESS: FileName: 20494.txt ,Title: the shrieking pit ,Author: "rees, arthur j. (arthur john), 1872-1942" ,Language: en ,DownloadCount: 103
+SUCCESS: FileName: 2568.txt ,Title: trent's last case ,Author: "bentley, e. c. (edmund clerihew), 1875-1956" ,Language: en ,DownloadCount: 305
+SUCCESS: FileName: 4715.txt ,Title: an african millionaire episodes in the life of the illustrious colonel clay ,Author: "allen, grant, 1848-1899" ,Language: en ,DownloadCount: 244
+FAILURE:FileName: 10584.txt ,Title: "air service boys over the atlantic or, the longest flight on record" ,Author: "beach, charles amory" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 14096.txt ,Title: "with links of steel or, the peril of the unknown" ,Author: "carter, nicholas" ,Language: en ,DownloadCount: 23
+FAILURE:FileName: 15695.txt ,Title: 'doc.' gordon ,Author: "freeman, mary eleanor wilkins, 1852-1930" ,Language: en ,DownloadCount: 17
+FAILURE:FileName: 15965.txt ,Title: in friendship's guise ,Author: "graydon, william murray, 1864-1946" ,Language: en ,DownloadCount: 11
+FAILURE:FileName: 24033.txt ,Title: "dave porter in the gold fields or, the search for the landslide mine" ,Author: "stratemeyer, edward, 1862-1930" ,Language: en ,DownloadCount: 18
+FAILURE:FileName: 2691.txt ,Title: "nan sherwood at pine camp or, the old lumberman's secret" ,Author: "carr, annie roe" ,Language: en ,DownloadCount: 21
+FAILURE:FileName: 26925.txt ,Title: the bradys beyond their depth the great swamp mystery ,Author: "doughty, francis worcester, 1850-1917" ,Language: en ,DownloadCount: 16
+FAILURE:FileName: 4660.txt ,Title: timothy crump's ward a story of american life ,Author: "alger, horatio, 1832-1899" ,Language: en ,DownloadCount: 23
+FAILURE:FileName: 5002.txt ,Title: "the rover boys in business or, the search for the missing bonds" ,Author: "stratemeyer, edward, 1862-1930" ,Language: en ,DownloadCount: 20
+FAILURE:FileName: 9853.txt ,Title: the mystery of the four fingers ,Author: "white, fred m. (fred merrick), 1859-" ,Language: en ,DownloadCount: 20
+
+****************** FOLD5 ***********************************
+SUCCESS: FileName: 11127.txt ,Title: the case of jennie brice ,Author: "rinehart, mary roberts, 1876-1958" ,Language: en ,DownloadCount: 92
+SUCCESS: FileName: 1601.txt ,Title: the breaking point ,Author: "rinehart, mary roberts, 1876-1958" ,Language: en ,DownloadCount: 130
+SUCCESS: FileName: 1686.txt ,Title: the secret of the night ,Author: "leroux, gaston, 1868-1927" ,Language: en ,DownloadCount: 164
+SUCCESS: FileName: 1703.txt ,Title: dead men tell no tales ,Author: "hornung, e. w. (ernest william), 1866-1921" ,Language: en ,DownloadCount: 274
+SUCCESS: FileName: 17866.txt ,Title: murder in the gunroom ,Author: "piper, h. beam, 1904-1964" ,Language: en ,DownloadCount: 297
+SUCCESS: FileName: 1814.txt ,Title: the agony column ,Author: "biggers, earl derr, 1884-1933" ,Language: en ,DownloadCount: 97
+SUCCESS: FileName: 1872.txt ,Title: the red house mystery ,Author: "milne, a. a. (alan alexander), 1882-1956" ,Language: en ,DownloadCount: 723
+SUCCESS: FileName: 20559.txt ,Title: "r. holmes & co. being the remarkable adventures of raffles holmes, esq., detective and amateur cracksman by birth" ,Author: "bangs, john kendrick, 1862-1922" ,Language: en ,DownloadCount: 121
+SUCCESS: FileName: 546.txt ,Title: under the andes ,Author: "stout, rex, 1886-1975" ,Language: en ,DownloadCount: 147
+SUCCESS: FileName: 9746.txt ,Title: the ashiel mystery: a detective story ,Author: "bryce, charles, mrs." ,Language: en ,DownloadCount: 167
+FAILURE:FileName: 11085.txt ,Title: "m. or n. ""similia similibus curantur.""" ,Author: "whyte-melville, g. j. (george john), 1821-1878" ,Language: en ,DownloadCount: 17
+FAILURE:FileName: 14167.txt ,Title: the red redmaynes ,Author: "phillpotts, eden, 1862-1960" ,Language: en ,DownloadCount: 20
+FAILURE:FileName: 17762.txt ,Title: the burglar's fate and the detectives ,Author: "pinkerton, allan, 1819-1884" ,Language: en ,DownloadCount: 21
+FAILURE:FileName: 19523.txt ,Title: a husband by proxy ,Author: "steele, jack" ,Language: en ,DownloadCount: 16
+FAILURE:FileName: 19901.txt ,Title: the castle of the shadows ,Author: "williamson, a. m. (alice muriel), 1869-1933" ,Language: en ,DownloadCount: 25
+FAILURE:FileName: 24102.txt ,Title: "owen clancy's happy trail or, the motor wizard in california" ,Author: "standish, burt l., 1866-1945" ,Language: en ,DownloadCount: 23
+FAILURE:FileName: 25849.txt ,Title: the launch boys' adventures in northern waters ,Author: "ellis, edward sylvester, 1840-1916" ,Language: en ,DownloadCount: 11
+FAILURE:FileName: 26657.txt ,Title: the motor pirate ,Author: "paternoster, g. sidney, 1866-" ,Language: en ,DownloadCount: 10
+FAILURE:FileName: 27890.txt ,Title: the merriweather girls in quest of treasure ,Author: "edholm, lizette m." ,Language: en ,DownloadCount: 12
+FAILURE:FileName: 9974.txt ,Title: the yellow streak ,Author: "williams, valentine, 1883-1946" ,Language: en ,DownloadCount: 23
+
+
+
+******************DATASET: Fiction ***********************************
+
+****************** FOLD1 ***********************************
+SUCCESS: FileName: 1027.txt ,Title: "the lone star ranger, a romance of the border" ,Author: "grey, zane, 1872-1939" ,Language: en ,DownloadCount: 333
+SUCCESS: FileName: 1095.txt ,Title: light of the western stars ,Author: "grey, zane, 1872-1939" ,Language: en ,DownloadCount: 183
+SUCCESS: FileName: 165.txt ,Title: mcteague ,Author: "norris, frank, 1870-1902" ,Language: en ,DownloadCount: 245
+SUCCESS: FileName: 1897.txt ,Title: the seventh man ,Author: "brand, max, 1892-1944" ,Language: en ,DownloadCount: 140
+SUCCESS: FileName: 243.txt ,Title: the forged coupon ,Author: "tolstoy, leo, graf, 1828-1910" ,Language: en ,DownloadCount: 237
+SUCCESS: FileName: 331.txt ,Title: the mucker ,Author: "burroughs, edgar rice, 1875-1950" ,Language: en ,DownloadCount: 146
+SUCCESS: FileName: 363.txt ,Title: the oakdale affair ,Author: "burroughs, edgar rice, 1875-1950" ,Language: en ,DownloadCount: 132
+SUCCESS: FileName: 5240.txt ,Title: the confessions of harry lorrequer � complete ,Author: "lever, charles james, 1806-1872" ,Language: en ,DownloadCount: 166
+SUCCESS: FileName: 525.txt ,Title: "youth, a narrative" ,Author: "conrad, joseph, 1857-1924" ,Language: en ,DownloadCount: 237
+SUCCESS: FileName: 689.txt ,Title: the kreutzer sonata and other stories ,Author: "tolstoy, leo, graf, 1828-1910" ,Language: en ,DownloadCount: 560
+FAILURE:FileName: 11005.txt ,Title: o+f ,Author: "wetterau, john moncure" ,Language: en ,DownloadCount: 2
+FAILURE:FileName: 13238.txt ,Title: six women ,Author: "cross, victoria, 1868-1952" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 15181.txt ,Title: my mother's rival everyday life library no. 4 ,Author: "brame, charlotte m., 1836-1884" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 15182.txt ,Title: marion arleigh's penance everyday life library no. 5 ,Author: "brame, charlotte m., 1836-1884" ,Language: en ,DownloadCount: 5
+FAILURE:FileName: 15793.txt ,Title: an unpardonable liar ,Author: "parker, gilbert, 1862-1932" ,Language: en ,DownloadCount: 4
+FAILURE:FileName: 1762.txt ,Title: the consul ,Author: "davis, richard harding, 1864-1916" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 1819.txt ,Title: the messengers ,Author: "davis, richard harding, 1864-1916" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 20615.txt ,Title: the master-knot of human fate ,Author: "meredith, ellis, 1865-" ,Language: en ,DownloadCount: 3
+FAILURE:FileName: 22961.txt ,Title: "nell, of shorne mills or, one heart's burden" ,Author: "garvice, charles, -1920" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 5236.txt ,Title: the confessions of harry lorrequer � volume 3 ,Author: "lever, charles james, 1806-1872" ,Language: en ,DownloadCount: 2
+
+****************** FOLD2 ***********************************
+SUCCESS: FileName: 1032.txt ,Title: the pupil ,Author: "james, henry, 1843-1916" ,Language: en ,DownloadCount: 125
+SUCCESS: FileName: 1093.txt ,Title: the beast in the jungle ,Author: "james, henry, 1843-1916" ,Language: en ,DownloadCount: 711
+SUCCESS: FileName: 1156.txt ,Title: babbitt ,Author: "lewis, sinclair, 1885-1951" ,Language: en ,DownloadCount: 482
+SUCCESS: FileName: 1253.txt ,Title: a simple soul ,Author: "flaubert, gustave, 1821-1880" ,Language: en ,DownloadCount: 656
+SUCCESS: FileName: 1290.txt ,Title: salammbo ,Author: "flaubert, gustave, 1821-1880" ,Language: en ,DownloadCount: 208
+SUCCESS: FileName: 17047.txt ,Title: the half-hearted ,Author: "buchan, john, 1875-1940" ,Language: en ,DownloadCount: 252
+SUCCESS: FileName: 2028.txt ,Title: the yellow claw ,Author: "rohmer, sax, 1883-1959" ,Language: en ,DownloadCount: 164
+SUCCESS: FileName: 24920.txt ,Title: the book of all-power ,Author: "wallace, edgar, 1875-1932" ,Language: en ,DownloadCount: 345
+SUCCESS: FileName: 39293.txt ,Title: the gentlemen's book of etiquette and manual of politeness being a complete guide for a gentleman's conduct in all his relations towards society ,Author: "hartley, cecil b." ,Language: en ,DownloadCount: 152
+SUCCESS: FileName: 543.txt ,Title: main street ,Author: "lewis, sinclair, 1885-1951" ,Language: en ,DownloadCount: 473
+FAILURE:FileName: 13261.txt ,Title: jason a romance ,Author: "forman, justus miles, 1875-1915" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 15103.txt ,Title: the imaginary marriage ,Author: "cooper, henry st. john, 1908-1973" ,Language: en ,DownloadCount: 5
+FAILURE:FileName: 15244.txt ,Title: "lewie or, the bended twig" ,Author: "bradford, sarah h. (sarah hopkins), 1818-" ,Language: en ,DownloadCount: 5
+FAILURE:FileName: 16137.txt ,Title: the hoyden ,Author: "duchess, 1855?-1897" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 16836.txt ,Title: "mark hurdlestone or, the two brothers" ,Author: "moodie, susanna, 1803-1885" ,Language: en ,DownloadCount: 3
+FAILURE:FileName: 18280.txt ,Title: enter bridget ,Author: "cobb, thomas, 1854-1932" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 20835.txt ,Title: "the monctons: a novel, volume i" ,Author: "moodie, susanna, 1803-1885" ,Language: en ,DownloadCount: 3
+FAILURE:FileName: 23010.txt ,Title: "gulmore, the boss" ,Author: "harris, frank, 1856-1931" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 23012.txt ,Title: elder conklin ,Author: "harris, frank, 1856-1931" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 726.txt ,Title: a psychological counter-current in recent fiction ,Author: "howells, william dean, 1837-1920" ,Language: en ,DownloadCount: 7
+
+****************** FOLD3 ***********************************
+SUCCESS: FileName: 1074.txt ,Title: the sea wolf ,Author: "london, jack, 1876-1916" ,Language: en ,DownloadCount: 655
+SUCCESS: FileName: 1162.txt ,Title: the jacket (star-rover) ,Author: "london, jack, 1876-1916" ,Language: en ,DownloadCount: 212
+SUCCESS: FileName: 1595.txt ,Title: whirligigs ,Author: "henry, o., 1862-1910" ,Language: en ,DownloadCount: 177
+SUCCESS: FileName: 1601.txt ,Title: the breaking point ,Author: "rinehart, mary roberts, 1876-1958" ,Language: en ,DownloadCount: 130
+SUCCESS: FileName: 1646.txt ,Title: roads of destiny ,Author: "henry, o., 1862-1910" ,Language: en ,DownloadCount: 159
+SUCCESS: FileName: 21767.txt ,Title: agatha's husband a novel ,Author: "craik, dinah maria mulock, 1826-1887" ,Language: en ,DownloadCount: 132
+SUCCESS: FileName: 2675.txt ,Title: burlesques ,Author: "thackeray, william makepeace, 1811-1863" ,Language: en ,DownloadCount: 128
+SUCCESS: FileName: 343.txt ,Title: fables ,Author: "stevenson, robert louis, 1850-1894" ,Language: en ,DownloadCount: 137
+SUCCESS: FileName: 434.txt ,Title: the circular staircase ,Author: "rinehart, mary roberts, 1876-1958" ,Language: en ,DownloadCount: 281
+SUCCESS: FileName: 546.txt ,Title: under the andes ,Author: "stout, rex, 1886-1975" ,Language: en ,DownloadCount: 147
+FAILURE:FileName: 12181.txt ,Title: the story of bessie costrell ,Author: "ward, humphry, mrs., 1851-1920" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 12935.txt ,Title: the song of the blood-red flower ,Author: "linnankoski, johannes, 1869-1913" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 1367.txt ,Title: findelkind ,Author: "ouida, 1839-1908" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 15123.txt ,Title: david lockwin�the people's idol ,Author: "mcgovern, john, 1850-1917" ,Language: en ,DownloadCount: 4
+FAILURE:FileName: 15315.txt ,Title: "gladys, the reaper" ,Author: "beale, anne" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 16398.txt ,Title: what necessity knows ,Author: "dougall, l. (lily), 1858-1923" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 16993.txt ,Title: miss dexie a romance of the provinces ,Author: "eveleth, stanford" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 19173.txt ,Title: the cow puncher ,Author: "stead, robert j. c., 1880-1959" ,Language: en ,DownloadCount: 5
+FAILURE:FileName: 21690.txt ,Title: "flint his faults, his friendships and his fortunes" ,Author: "goodwin, maud wilder, 1856-1935" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 9087.txt ,Title: eleanor ,Author: "ward, humphry, mrs., 1851-1920" ,Language: en ,DownloadCount: 6
+
+****************** FOLD4 ***********************************
+SUCCESS: FileName: 1204.txt ,Title: cabin fever ,Author: "bower, b. m., 1874-1940" ,Language: en ,DownloadCount: 140
+SUCCESS: FileName: 13541.txt ,Title: "the collected works of ambrose bierce, volume 1" ,Author: "bierce, ambrose, 1842-1914?" ,Language: en ,DownloadCount: 322
+SUCCESS: FileName: 14420.txt ,Title: the exemplary novels of cervantes ,Author: "cervantes saavedra, miguel de, 1547-1616" ,Language: en ,DownloadCount: 472
+SUCCESS: FileName: 1743.txt ,Title: twelve stories and a dream ,Author: "wells, h. g. (herbert george), 1866-1946" ,Language: en ,DownloadCount: 266
+SUCCESS: FileName: 222.txt ,Title: moon and sixpence ,Author: "maugham, w. somerset (william somerset), 1874-1965" ,Language: en ,DownloadCount: 604
+SUCCESS: FileName: 2684.txt ,Title: five tales ,Author: "galsworthy, john, 1867-1933" ,Language: en ,DownloadCount: 200
+SUCCESS: FileName: 325.txt ,Title: "phantastes, a faerie romance for men and women" ,Author: "macdonald, george, 1824-1905" ,Language: en ,DownloadCount: 312
+SUCCESS: FileName: 346.txt ,Title: the troll garden and selected stories ,Author: "cather, willa, 1873-1947" ,Language: en ,DownloadCount: 135
+SUCCESS: FileName: 351.txt ,Title: of human bondage ,Author: "maugham, w. somerset (william somerset), 1874-1965" ,Language: en ,DownloadCount: 845
+SUCCESS: FileName: 524.txt ,Title: "ann veronica, a modern love story" ,Author: "wells, h. g. (herbert george), 1866-1946" ,Language: en ,DownloadCount: 267
+FAILURE:FileName: 12972.txt ,Title: people like that a novel ,Author: "bosher, kate langley, 1865-1932" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 14425.txt ,Title: "mona or, the secret of a royal mirror" ,Author: "sheldon, georgie, mrs., 1843-1926" ,Language: en ,DownloadCount: 4
+FAILURE:FileName: 15179.txt ,Title: the inner sisterhood a social study in high colors ,Author: "sherley, douglass, 1857-1917" ,Language: en ,DownloadCount: 4
+FAILURE:FileName: 15382.txt ,Title: jess of the rebel trail ,Author: "cody, h. a. (hiram alfred), 1872-1948" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 16803.txt ,Title: lydia of the pines ,Author: "morrow, honor�, 1880-1940" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 20462.txt ,Title: "ernest linwood or, the inner life of the author" ,Author: "hentz, caroline lee, 1800-1856" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 22205.txt ,Title: in direst peril ,Author: "murray, david christie, 1847-1907" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 22206.txt ,Title: "an old meerschaum from coals of fire and other stories, volume ii. (of iii.)" ,Author: "murray, david christie, 1847-1907" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 23106.txt ,Title: "helen and arthur or, miss thusa's spinning wheel" ,Author: "hentz, caroline lee, 1800-1856" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 9926.txt ,Title: "the two guardians or, home in this world" ,Author: "yonge, charlotte m. (charlotte mary), 1823-1901" ,Language: en ,DownloadCount: 7
+
+****************** FOLD5 ***********************************
+SUCCESS: FileName: 1097.txt ,Title: mrs. warren's profession ,Author: "shaw, bernard, 1856-1950" ,Language: en ,DownloadCount: 999
+SUCCESS: FileName: 1213.txt ,Title: the man that corrupted hadleyburg ,Author: "twain, mark, 1835-1910" ,Language: en ,DownloadCount: 202
+SUCCESS: FileName: 1354.txt ,Title: chronicles of avonlea ,Author: "montgomery, l. m. (lucy maud), 1874-1942" ,Language: en ,DownloadCount: 503
+SUCCESS: FileName: 142.txt ,Title: "the 30,000 dollar bequest and other stories" ,Author: "twain, mark, 1835-1910" ,Language: en ,DownloadCount: 545
+SUCCESS: FileName: 144.txt ,Title: the voyage out ,Author: "woolf, virginia, 1882-1941" ,Language: en ,DownloadCount: 474
+SUCCESS: FileName: 1840.txt ,Title: "the financier, a novel" ,Author: "dreiser, theodore, 1871-1945" ,Language: en ,DownloadCount: 256
+SUCCESS: FileName: 1848.txt ,Title: montezuma's daughter ,Author: "haggard, h. rider (henry rider), 1856-1925" ,Language: en ,DownloadCount: 178
+SUCCESS: FileName: 22480.txt ,Title: the prussian officer ,Author: "lawrence, d. h. (david herbert), 1885-1930" ,Language: en ,DownloadCount: 176
+SUCCESS: FileName: 294.txt ,Title: the captain of the polestar ,Author: "doyle, arthur conan, sir, 1859-1930" ,Language: en ,DownloadCount: 265
+SUCCESS: FileName: 8496.txt ,Title: the quest ,Author: "baroja, p�o, 1872-1956" ,Language: en ,DownloadCount: 162
+FAILURE:FileName: 13178.txt ,Title: broken to the plow a novel ,Author: "dobie, charles caldwell, 1881-1943" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 14490.txt ,Title: a daughter of to-day ,Author: "duncan, sara jeannette, 1861-1922" ,Language: en ,DownloadCount: 3
+FAILURE:FileName: 14523.txt ,Title: sister carmen ,Author: "corvus, m." ,Language: en ,DownloadCount: 4
+FAILURE:FileName: 15430.txt ,Title: the lever a novel ,Author: "orcutt, william dana, 1870-1953" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 16497.txt ,Title: the moon out of reach ,Author: "pedler, margaret, -1948" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 16574.txt ,Title: the twins a domestic novel ,Author: "tupper, martin farquhar, 1810-1889" ,Language: en ,DownloadCount: 4
+FAILURE:FileName: 18052.txt ,Title: medoline selwyn's work ,Author: "colter, j. j., mrs." ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 20235.txt ,Title: heart a social novel ,Author: "tupper, martin farquhar, 1810-1889" ,Language: en ,DownloadCount: 4
+FAILURE:FileName: 2685.txt ,Title: the way to peace ,Author: "deland, margaret wade campbell, 1857-1945" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 9967.txt ,Title: mr. waddington of wyck ,Author: "sinclair, may, 1863-1946" ,Language: en ,DownloadCount: 3
+
+
+
+******************DATASET: Historical Fiction ***********************************
+
+****************** FOLD1 ***********************************
+SUCCESS: FileName: 11228.txt ,Title: the marrow of tradition ,Author: "chesnutt, charles w. (charles waddell), 1858-1932" ,Language: en ,DownloadCount: 147
+SUCCESS: FileName: 11413.txt ,Title: the refugees a tale of two continents ,Author: "doyle, arthur conan, sir, 1859-1930" ,Language: en ,DownloadCount: 129
+SUCCESS: FileName: 17221.txt ,Title: history of the plague in london ,Author: "defoe, daniel, 1661?-1731" ,Language: en ,DownloadCount: 247
+SUCCESS: FileName: 1880.txt ,Title: "pathfinder; or, the inland sea" ,Author: "cooper, james fenimore, 1789-1851" ,Language: en ,DownloadCount: 185
+SUCCESS: FileName: 2275.txt ,Title: the pioneers ,Author: "cooper, james fenimore, 1789-1851" ,Language: en ,DownloadCount: 262
+SUCCESS: FileName: 2845.txt ,Title: sir nigel ,Author: "doyle, arthur conan, sir, 1859-1930" ,Language: en ,DownloadCount: 228
+SUCCESS: FileName: 30344.txt ,Title: the fortunate mistress (parts 1 and 2) or a history of the life of mademoiselle de beleau known by the name of the lady roxana ,Author: "defoe, daniel, 1661?-1731" ,Language: en ,DownloadCount: 304
+SUCCESS: FileName: 30723.txt ,Title: fathers and children ,Author: "turgenev, ivan sergeevich, 1818-1883" ,Language: en ,DownloadCount: 369
+SUCCESS: FileName: 7037.txt ,Title: beric the briton : a story of the roman invasion ,Author: "henty, g. a. (george alfred), 1832-1902" ,Language: en ,DownloadCount: 188
+SUCCESS: FileName: 7060.txt ,Title: at agincourt ,Author: "henty, g. a. (george alfred), 1832-1902" ,Language: en ,DownloadCount: 116
+FAILURE:FileName: 10094.txt ,Title: a soldier of virginia a tale of colonel washington and braddock's defeat ,Author: "stevenson, burton egbert, 1872-1962" ,Language: en ,DownloadCount: 11
+FAILURE:FileName: 12558.txt ,Title: "snarleyyow, or, the dog fiend" ,Author: "marryat, frederick, 1792-1848" ,Language: en ,DownloadCount: 15
+FAILURE:FileName: 12959.txt ,Title: newton forster ,Author: "marryat, frederick, 1792-1848" ,Language: en ,DownloadCount: 21
+FAILURE:FileName: 14656.txt ,Title: the sword maker ,Author: "barr, robert, 1850-1912" ,Language: en ,DownloadCount: 23
+FAILURE:FileName: 18182.txt ,Title: "heralds of empire being the story of one ramsay stanhope, lieutenant to pierre radisson in the northern fur trade" ,Author: "laut, agnes c. (agnes christina), 1871-1936" ,Language: en ,DownloadCount: 16
+FAILURE:FileName: 20418.txt ,Title: lords of the north ,Author: "laut, agnes c. (agnes christina), 1871-1936" ,Language: en ,DownloadCount: 24
+FAILURE:FileName: 2059.txt ,Title: the little shepherd of kingdom come ,Author: "fox, john, 1863-1919" ,Language: en ,DownloadCount: 24
+FAILURE:FileName: 22304.txt ,Title: nicanor - teller of tales a story of roman britain ,Author: "taylor, c. bryson, 1880-" ,Language: en ,DownloadCount: 21
+FAILURE:FileName: 3339.txt ,Title: the wandering jew � volume 01 ,Author: "sue, eug�ne, 1804-1857" ,Language: en ,DownloadCount: 19
+FAILURE:FileName: 3340.txt ,Title: the wandering jew � volume 02 ,Author: "sue, eug�ne, 1804-1857" ,Language: en ,DownloadCount: 9
+
+****************** FOLD2 ***********************************
+SUCCESS: FileName: 135.txt ,Title: les mis�rables ,Author: "hugo, victor, 1802-1885" ,Language: en ,DownloadCount: 10605
+SUCCESS: FileName: 17460.txt ,Title: lorna doone a romance of exmoor ,Author: "blackmore, r. d. (richard doddridge), 1825-1900" ,Language: en ,DownloadCount: 399
+SUCCESS: FileName: 19194.txt ,Title: rebel raider ,Author: "piper, h. beam, 1904-1964" ,Language: en ,DownloadCount: 140
+SUCCESS: FileName: 2600.txt ,Title: war and peace ,Author: "tolstoy, leo, graf, 1828-1910" ,Language: en ,DownloadCount: 7782
+SUCCESS: FileName: 2610.txt ,Title: notre-dame de paris ,Author: "hugo, victor, 1802-1885" ,Language: en ,DownloadCount: 1231
+SUCCESS: FileName: 2853.txt ,Title: quo vadis: a narrative of the time of nero ,Author: "sienkiewicz, henryk, 1846-1916" ,Language: en ,DownloadCount: 307
+SUCCESS: FileName: 369.txt ,Title: the outlaw of torn ,Author: "burroughs, edgar rice, 1875-1950" ,Language: en ,DownloadCount: 300
+SUCCESS: FileName: 467.txt ,Title: the princess of cleves ,Author: "la fayette, madame de (marie-madeleine pioche de la vergne), 1634-1693" ,Language: en ,DownloadCount: 560
+SUCCESS: FileName: 8123.txt ,Title: the virginians ,Author: "thackeray, william makepeace, 1811-1863" ,Language: en ,DownloadCount: 118
+SUCCESS: FileName: 840.txt ,Title: lorna doone; a romance of exmoor ,Author: "blackmore, r. d. (richard doddridge), 1825-1900" ,Language: en ,DownloadCount: 162
+FAILURE:FileName: 10455.txt ,Title: a golden book of venice ,Author: "turnbull, lawrence, mrs., -1927" ,Language: en ,DownloadCount: 20
+FAILURE:FileName: 13215.txt ,Title: edwy the fair or the first chronicle of aescendune a tale of the days of saint dunstan ,Author: "crake, a. d. (augustine david), 1836-1890" ,Language: en ,DownloadCount: 19
+FAILURE:FileName: 15228.txt ,Title: lady good-for-nothing a man's portrait of a woman ,Author: "quiller-couch, arthur thomas, sir, 1863-1944" ,Language: en ,DownloadCount: 14
+FAILURE:FileName: 16890.txt ,Title: hetty wesley ,Author: "quiller-couch, arthur thomas, sir, 1863-1944" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 17012.txt ,Title: the house of walderne a tale of the cloister and the forest in the days of the barons' wars ,Author: "crake, a. d. (augustine david), 1836-1890" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 19485.txt ,Title: the long night ,Author: "weyman, stanley john, 1855-1928" ,Language: en ,DownloadCount: 18
+FAILURE:FileName: 20911.txt ,Title: the rose of old st. louis ,Author: "dillon, mary (mary c. johnson)" ,Language: en ,DownloadCount: 23
+FAILURE:FileName: 22334.txt ,Title: in kings' byways ,Author: "weyman, stanley john, 1855-1928" ,Language: en ,DownloadCount: 11
+FAILURE:FileName: 23675.txt ,Title: under the rose ,Author: "isham, frederic stewart, 1866-1922" ,Language: en ,DownloadCount: 24
+FAILURE:FileName: 24120.txt ,Title: "the hour and the man, an historical romance" ,Author: "martineau, harriet, 1802-1876" ,Language: en ,DownloadCount: 18
+
+****************** FOLD3 ***********************************
+SUCCESS: FileName: 15868.txt ,Title: the man without a country and other tales ,Author: "hale, edward everett, 1822-1909" ,Language: en ,DownloadCount: 180
+SUCCESS: FileName: 1606.txt ,Title: kenilworth ,Author: "scott, walter, sir, 1771-1832" ,Language: en ,DownloadCount: 195
+SUCCESS: FileName: 1752.txt ,Title: "el dorado, an adventure of the scarlet pimpernel" ,Author: "orczy, baroness emmuska, 1865-1947" ,Language: en ,DownloadCount: 230
+SUCCESS: FileName: 1947.txt ,Title: scaramouche ,Author: "sabatini, rafael, 1875-1950" ,Language: en ,DownloadCount: 434
+SUCCESS: FileName: 1965.txt ,Title: captain blood ,Author: "sabatini, rafael, 1875-1950" ,Language: en ,DownloadCount: 638
+SUCCESS: FileName: 2785.txt ,Title: the elusive pimpernel ,Author: "orczy, baroness emmuska, 1865-1947" ,Language: en ,DownloadCount: 210
+SUCCESS: FileName: 2948.txt ,Title: where angels fear to tread ,Author: "forster, e. m. (edward morgan), 1879-1970" ,Language: en ,DownloadCount: 280
+SUCCESS: FileName: 3942.txt ,Title: the confession of a child of the century � complete ,Author: "musset, alfred de, 1810-1857" ,Language: en ,DownloadCount: 273
+SUCCESS: FileName: 4537.txt ,Title: sylvia's lovers � complete ,Author: "gaskell, elizabeth cleghorn, 1810-1865" ,Language: en ,DownloadCount: 139
+SUCCESS: FileName: 471.txt ,Title: the bride of lammermoor ,Author: "scott, walter, sir, 1771-1832" ,Language: en ,DownloadCount: 216
+FAILURE:FileName: 12256.txt ,Title: mistress penwick ,Author: "payne, dutton" ,Language: en ,DownloadCount: 4
+FAILURE:FileName: 12270.txt ,Title: the doomswoman an historical romance of old california ,Author: "atherton, gertrude franklin horn, 1857-1948" ,Language: en ,DownloadCount: 11
+FAILURE:FileName: 13315.txt ,Title: a prince of cornwall a story of glastonbury and the west in the days of ina of wessex ,Author: "whistler, charles w. (charles watts), 1856-1913" ,Language: en ,DownloadCount: 13
+FAILURE:FileName: 13438.txt ,Title: a king's comrade a story of old hereford ,Author: "whistler, charles w. (charles watts), 1856-1913" ,Language: en ,DownloadCount: 13
+FAILURE:FileName: 15470.txt ,Title: inez a tale of the alamo ,Author: "evans, augusta j. (augusta jane), 1835-1909" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 20219.txt ,Title: the lion's brood ,Author: "osborne, duffield, 1858-1917" ,Language: en ,DownloadCount: 14
+FAILURE:FileName: 22779.txt ,Title: "the false chevalier or, the lifeguard of marie antoinette" ,Author: "lighthall, w. d. (william douw), 1857-1954" ,Language: en ,DownloadCount: 14
+FAILURE:FileName: 24140.txt ,Title: the northern iron ,Author: "birmingham, george a., 1865-1950" ,Language: en ,DownloadCount: 12
+FAILURE:FileName: 4534.txt ,Title: sylvia's lovers � volume 1 ,Author: "gaskell, elizabeth cleghorn, 1810-1865" ,Language: en ,DownloadCount: 19
+FAILURE:FileName: 9869.txt ,Title: the confession of a child of the century ,Author: "musset, alfred de, 1810-1857" ,Language: en ,DownloadCount: 17
+
+****************** FOLD4 ***********************************
+SUCCESS: FileName: 1184.txt ,Title: the count of monte cristo ,Author: "dumas, alexandre, 1802-1870" ,Language: en ,DownloadCount: 6562
+SUCCESS: FileName: 1257.txt ,Title: the three musketeers ,Author: "dumas, alexandre, 1802-1870" ,Language: en ,DownloadCount: 2516
+SUCCESS: FileName: 1692.txt ,Title: 1492 ,Author: "johnston, mary, 1870-1936" ,Language: en ,DownloadCount: 168
+SUCCESS: FileName: 1837.txt ,Title: the prince and the pauper ,Author: "twain, mark, 1835-1910" ,Language: en ,DownloadCount: 2522
+SUCCESS: FileName: 2145.txt ,Title: ben-hur; a tale of the christ ,Author: "wallace, lewis, 1827-1905" ,Language: en ,DownloadCount: 465
+SUCCESS: FileName: 24680.txt ,Title: the martyr of the catacombs a tale of ancient rome ,Author: anonymous ,Language: en ,DownloadCount: 117
+SUCCESS: FileName: 26282.txt ,Title: the witch of salem or credulity run mad ,Author: "musick, john r. (john roy), 1849-1901" ,Language: en ,DownloadCount: 128
+SUCCESS: FileName: 421.txt ,Title: kidnapped ,Author: "stevenson, robert louis, 1850-1894" ,Language: en ,DownloadCount: 1221
+SUCCESS: FileName: 6308.txt ,Title: hypatia � or new foes with an old face ,Author: "kingsley, charles, 1819-1875" ,Language: en ,DownloadCount: 119
+SUCCESS: FileName: 848.txt ,Title: the black arrow ,Author: "stevenson, robert louis, 1850-1894" ,Language: en ,DownloadCount: 519
+FAILURE:FileName: 11534.txt ,Title: the lions of the lord a tale of the old west ,Author: "wilson, harry leon, 1867-1939" ,Language: en ,DownloadCount: 17
+FAILURE:FileName: 12560.txt ,Title: port o' gold a history-romance of the san francisco argonauts ,Author: "stellman, louis j. (louis john), 1877-1961" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 13404.txt ,Title: tom tufton's travels ,Author: "everett-green, evelyn, 1856-1932" ,Language: en ,DownloadCount: 22
+FAILURE:FileName: 15534.txt ,Title: children of the market place ,Author: "masters, edgar lee, 1868-1950" ,Language: en ,DownloadCount: 16
+FAILURE:FileName: 17183.txt ,Title: atm� a romance ,Author: "frazer, c. a. (caroline augusta)" ,Language: en ,DownloadCount: 23
+FAILURE:FileName: 2029.txt ,Title: lahoma ,Author: "ellis, j. breckenridge (john breckenridge), 1870-1956" ,Language: en ,DownloadCount: 5
+FAILURE:FileName: 2139.txt ,Title: "alvira, the heroine of vesuvius" ,Author: "o'reilly, a. j. (augustine j.)" ,Language: en ,DownloadCount: 12
+FAILURE:FileName: 22902.txt ,Title: "the liberty boys running the blockade or, getting out of new york" ,Author: "moore, harry" ,Language: en ,DownloadCount: 19
+FAILURE:FileName: 24417.txt ,Title: the forest king wild hunter of the adaca ,Author: "keyes, hervey" ,Language: en ,DownloadCount: 16
+FAILURE:FileName: 7155.txt ,Title: "the prince and the pauper, part 2." ,Author: "twain, mark, 1835-1910" ,Language: en ,DownloadCount: 23
+
+****************** FOLD5 ***********************************
+SUCCESS: FileName: 1261.txt ,Title: betty zane ,Author: "grey, zane, 1872-1939" ,Language: en ,DownloadCount: 171
+SUCCESS: FileName: 1711.txt ,Title: child of storm ,Author: "haggard, h. rider (henry rider), 1856-1925" ,Language: en ,DownloadCount: 167
+SUCCESS: FileName: 1842.txt ,Title: "michael strogoff or, the courier of the czar" ,Author: "verne, jules, 1828-1905" ,Language: en ,DownloadCount: 210
+SUCCESS: FileName: 20840.txt ,Title: rebel spurs ,Author: "norton, andre, 1912-2005" ,Language: en ,DownloadCount: 161
+SUCCESS: FileName: 24020.txt ,Title: romola ,Author: "eliot, george, 1819-1880" ,Language: en ,DownloadCount: 151
+SUCCESS: FileName: 25344.txt ,Title: the scarlet letter ,Author: "hawthorne, nathaniel, 1804-1864" ,Language: en ,DownloadCount: 1902
+SUCCESS: FileName: 26240.txt ,Title: the clansman an historical romance of the ku klux klan ,Author: "dixon, thomas, 1864-1946" ,Language: en ,DownloadCount: 158
+SUCCESS: FileName: 30486.txt ,Title: shirley ,Author: "bront�, charlotte, 1816-1855" ,Language: en ,DownloadCount: 464
+SUCCESS: FileName: 463.txt ,Title: the red badge of courage ,Author: "crane, stephen, 1871-1900" ,Language: en ,DownloadCount: 126
+SUCCESS: FileName: 917.txt ,Title: barnaby rudge: a tale of the riots of 'eighty ,Author: "dickens, charles, 1812-1870" ,Language: en ,DownloadCount: 594
+FAILURE:FileName: 11379.txt ,Title: round anvil rock a romance ,Author: "banks, nancy huston" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 11690.txt ,Title: calvert of strathore ,Author: "goodloe, abbe carter, 1867-" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 12725.txt ,Title: "the vale of cedars or, the martyr" ,Author: "aguilar, grace, 1816-1847" ,Language: en ,DownloadCount: 16
+FAILURE:FileName: 15808.txt ,Title: "the history of richard raynal, solitary" ,Author: "benson, robert hugh, 1871-1914" ,Language: en ,DownloadCount: 14
+FAILURE:FileName: 1665.txt ,Title: "derrick vaughan, novelist" ,Author: "lyall, edna, 1857-1903" ,Language: en ,DownloadCount: 10
+FAILURE:FileName: 17690.txt ,Title: the master of appleby a novel tale concerning itself in part with the great struggle in the two carolinas; but chiefly with the adventures therein of two gentlemen who loved one and the same lady ,Author: "lynde, francis, 1856-1930" ,Language: en ,DownloadCount: 16
+FAILURE:FileName: 21234.txt ,Title: the gold that glitters the mistakes of jenny lavender ,Author: "holt, emily sarah, 1836-1893" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 21492.txt ,Title: a true hero a story of the days of william penn ,Author: "kingston, william henry giles, 1814-1880" ,Language: en ,DownloadCount: 12
+FAILURE:FileName: 22942.txt ,Title: clare avery a story of the spanish armada ,Author: "holt, emily sarah, 1836-1893" ,Language: en ,DownloadCount: 16
+FAILURE:FileName: 24483.txt ,Title: the justice of the king ,Author: "drummond, hamilton, 1857-1935" ,Language: en ,DownloadCount: 10
+
+
+
+******************DATASET: Love Story ***********************************
+
+****************** FOLD1 ***********************************
+SUCCESS: FileName: 1028.txt ,Title: the professor ,Author: "bront�, charlotte, 1816-1855" ,Language: en ,DownloadCount: 350
+SUCCESS: FileName: 1260.txt ,Title: jane eyre ,Author: "bront�, charlotte, 1816-1855" ,Language: en ,DownloadCount: 9375
+SUCCESS: FileName: 145.txt ,Title: middlemarch ,Author: "eliot, george, 1819-1880" ,Language: en ,DownloadCount: 2367
+SUCCESS: FileName: 157.txt ,Title: daddy-long-legs ,Author: "webster, jean, 1876-1916" ,Language: en ,DownloadCount: 759
+SUCCESS: FileName: 17460.txt ,Title: lorna doone a romance of exmoor ,Author: "blackmore, r. d. (richard doddridge), 1825-1900" ,Language: en ,DownloadCount: 399
+SUCCESS: FileName: 19782.txt ,Title: daddy-long-legs ,Author: "webster, jean, 1876-1916" ,Language: en ,DownloadCount: 101
+SUCCESS: FileName: 2834.txt ,Title: the portrait of a lady � volume 2 ,Author: "james, henry, 1843-1916" ,Language: en ,DownloadCount: 496
+SUCCESS: FileName: 29452.txt ,Title: "the wings of the dove, volume 1 of 2" ,Author: "james, henry, 1843-1916" ,Language: en ,DownloadCount: 164
+SUCCESS: FileName: 507.txt ,Title: adam bede ,Author: "eliot, george, 1819-1880" ,Language: en ,DownloadCount: 570
+SUCCESS: FileName: 840.txt ,Title: lorna doone; a romance of exmoor ,Author: "blackmore, r. d. (richard doddridge), 1825-1900" ,Language: en ,DownloadCount: 162
+FAILURE:FileName: 10452.txt ,Title: peter's mother ,Author: "de la pasture, henry, mrs., 1866-1945" ,Language: en ,DownloadCount: 13
+FAILURE:FileName: 11379.txt ,Title: round anvil rock a romance ,Author: "banks, nancy huston" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 12971.txt ,Title: the man in lonely land ,Author: "bosher, kate langley, 1865-1932" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 14153.txt ,Title: westways a village chronicle ,Author: "mitchell, s. weir (silas weir), 1829-1914" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 15406.txt ,Title: the little red chimney being the love story of a candy man ,Author: "leonard, mary finley, 1862-" ,Language: en ,DownloadCount: 14
+FAILURE:FileName: 17301.txt ,Title: on with torchy ,Author: "ford, sewell, 1868-1946" ,Language: en ,DownloadCount: 15
+FAILURE:FileName: 18902.txt ,Title: flood tide ,Author: "bassett, sara ware, 1872-1968" ,Language: en ,DownloadCount: 11
+FAILURE:FileName: 20661.txt ,Title: the romance of an old fool ,Author: "field, roswell martin, 1851-1919" ,Language: en ,DownloadCount: 11
+FAILURE:FileName: 21099.txt ,Title: more about peggy ,Author: "vaizey, george de horne, mrs., 1857-1917" ,Language: en ,DownloadCount: 13
+FAILURE:FileName: 21120.txt ,Title: the fortunes of the farrells ,Author: "vaizey, george de horne, mrs., 1857-1917" ,Language: en ,DownloadCount: 13
+
+****************** FOLD2 ***********************************
+SUCCESS: FileName: 107.txt ,Title: far from the madding crowd ,Author: "hardy, thomas, 1840-1928" ,Language: en ,DownloadCount: 547
+SUCCESS: FileName: 122.txt ,Title: the return of the native ,Author: "hardy, thomas, 1840-1928" ,Language: en ,DownloadCount: 474
+SUCCESS: FileName: 1476.txt ,Title: chance: a tale in two parts ,Author: "conrad, joseph, 1857-1924" ,Language: en ,DownloadCount: 90
+SUCCESS: FileName: 17498.txt ,Title: "when knighthood was in flower or, the love story of charles brandon and mary tudor the king's sister, and happening in the reign of his august majesty king henry the eighth" ,Author: "major, charles, 1856-1913" ,Language: en ,DownloadCount: 90
+SUCCESS: FileName: 20533.txt ,Title: jill the reckless ,Author: "wodehouse, p. g. (pelham grenville), 1881-1975" ,Language: en ,DownloadCount: 294
+SUCCESS: FileName: 22002.txt ,Title: a simple story ,Author: "inchbald, mrs., 1753-1821" ,Language: en ,DownloadCount: 123
+SUCCESS: FileName: 23506.txt ,Title: chance: a tale in two parts ,Author: "conrad, joseph, 1857-1924" ,Language: en ,DownloadCount: 160
+SUCCESS: FileName: 23727.txt ,Title: the lost girl ,Author: "lawrence, d. h. (david herbert), 1885-1930" ,Language: en ,DownloadCount: 124
+SUCCESS: FileName: 4075.txt ,Title: the intrusion of jimmy ,Author: "wodehouse, p. g. (pelham grenville), 1881-1975" ,Language: en ,DownloadCount: 226
+SUCCESS: FileName: 4240.txt ,Title: women in love ,Author: "lawrence, d. h. (david herbert), 1885-1930" ,Language: en ,DownloadCount: 946
+FAILURE:FileName: 10608.txt ,Title: "the turquoise cup, and, the desert" ,Author: "smith, arthur cosslett, 1852-1926" ,Language: en ,DownloadCount: 5
+FAILURE:FileName: 11912.txt ,Title: the brown study ,Author: "richmond, grace s. (grace smith), 1866-1959" ,Language: en ,DownloadCount: 16
+FAILURE:FileName: 13071.txt ,Title: helena ,Author: "ward, humphry, mrs., 1851-1920" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 14406.txt ,Title: the intriguers ,Author: "bindloss, harold, 1866-1945" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 16343.txt ,Title: beth woodburn ,Author: "petitt, maud" ,Language: en ,DownloadCount: 5
+FAILURE:FileName: 17690.txt ,Title: the master of appleby a novel tale concerning itself in part with the great struggle in the two carolinas; but chiefly with the adventures therein of two gentlemen who loved one and the same lady ,Author: "lynde, francis, 1856-1930" ,Language: en ,DownloadCount: 16
+FAILURE:FileName: 19411.txt ,Title: the woman's way ,Author: "garvice, charles, -1920" ,Language: en ,DownloadCount: 16
+FAILURE:FileName: 20901.txt ,Title: in apple-blossom time a fairy-tale to date ,Author: "burnham, clara louise, 1854-1927" ,Language: en ,DownloadCount: 14
+FAILURE:FileName: 21625.txt ,Title: play the game! ,Author: "mitchell, ruth comfort, 1882-1954" ,Language: en ,DownloadCount: 14
+FAILURE:FileName: 24910.txt ,Title: the last woman ,Author: "beeckman, ross" ,Language: en ,DownloadCount: 14
+
+****************** FOLD3 ***********************************
+SUCCESS: FileName: 11640.txt ,Title: love and mr. lewisham ,Author: "wells, h. g. (herbert george), 1866-1946" ,Language: en ,DownloadCount: 207
+SUCCESS: FileName: 1245.txt ,Title: night and day ,Author: "woolf, virginia, 1882-1941" ,Language: en ,DownloadCount: 731
+SUCCESS: FileName: 1250.txt ,Title: anthem ,Author: "rand, ayn, 1905-1982" ,Language: en ,DownloadCount: 2432
+SUCCESS: FileName: 1845.txt ,Title: "zuleika dobson, or, an oxford love story" ,Author: "beerbohm, max, sir, 1872-1956" ,Language: en ,DownloadCount: 156
+SUCCESS: FileName: 2070.txt ,Title: to the last man ,Author: "grey, zane, 1872-1939" ,Language: en ,DownloadCount: 203
+SUCCESS: FileName: 3155.txt ,Title: she ,Author: "haggard, h. rider (henry rider), 1856-1925" ,Language: en ,DownloadCount: 800
+SUCCESS: FileName: 467.txt ,Title: the princess of cleves ,Author: "la fayette, madame de (marie-madeleine pioche de la vergne), 1634-1693" ,Language: en ,DownloadCount: 560
+SUCCESS: FileName: 4684.txt ,Title: the u. p. trail ,Author: "grey, zane, 1872-1939" ,Language: en ,DownloadCount: 112
+SUCCESS: FileName: 583.txt ,Title: the woman in white ,Author: "collins, wilkie, 1824-1889" ,Language: en ,DownloadCount: 1606
+SUCCESS: FileName: 805.txt ,Title: this side of paradise ,Author: "fitzgerald, f. scott (francis scott), 1896-1940" ,Language: en ,DownloadCount: 1572
+FAILURE:FileName: 10932.txt ,Title: over the pass ,Author: "palmer, frederick, 1873-1958" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 12557.txt ,Title: the penalty ,Author: "morris, gouverneur, 1876-1953" ,Language: en ,DownloadCount: 10
+FAILURE:FileName: 13282.txt ,Title: the island of faith ,Author: "sangster, margaret e. (margaret elizabeth), 1894-1981" ,Language: en ,DownloadCount: 3
+FAILURE:FileName: 14708.txt ,Title: the laurel bush an old-fashioned love story ,Author: "craik, dinah maria mulock, 1826-1887" ,Language: en ,DownloadCount: 15
+FAILURE:FileName: 16497.txt ,Title: the moon out of reach ,Author: "pedler, margaret, -1948" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 17891.txt ,Title: evelina's garden ,Author: "freeman, mary eleanor wilkins, 1852-1930" ,Language: en ,DownloadCount: 16
+FAILURE:FileName: 21095.txt ,Title: "she and i, volume 1 a love story. a life history." ,Author: "hutcheson, john c. (john conroy)" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 21096.txt ,Title: "she and i, volume 2 a love story. a life history." ,Author: "hutcheson, john c. (john conroy)" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 21834.txt ,Title: the black colonel ,Author: "milne, james, 1865-1951" ,Language: en ,DownloadCount: 12
+FAILURE:FileName: 26135.txt ,Title: love at paddington ,Author: "ridge, w. pett (william pett), -1930" ,Language: en ,DownloadCount: 13
+
+****************** FOLD4 ***********************************
+SUCCESS: FileName: 121.txt ,Title: northanger abbey ,Author: "austen, jane, 1775-1817" ,Language: en ,DownloadCount: 1989
+SUCCESS: FileName: 12280.txt ,Title: the grandissimes ,Author: "cable, george washington, 1844-1925" ,Language: en ,DownloadCount: 88
+SUCCESS: FileName: 16389.txt ,Title: the enchanted april ,Author: "von arnim, elizabeth, 1866-1941" ,Language: en ,DownloadCount: 136
+SUCCESS: FileName: 18883.txt ,Title: the four feathers ,Author: "mason, a. e. w. (alfred edward woodley), 1865-1948" ,Language: en ,DownloadCount: 161
+SUCCESS: FileName: 21094.txt ,Title: the girl in the golden atom ,Author: "cummings, ray, 1887-1957" ,Language: en ,DownloadCount: 257
+SUCCESS: FileName: 23810.txt ,Title: at fault ,Author: "chopin, kate, 1850-1904" ,Language: en ,DownloadCount: 157
+SUCCESS: FileName: 35247.txt ,Title: that affair at elizabeth ,Author: "stevenson, burton egbert, 1872-1962" ,Language: en ,DownloadCount: 106
+SUCCESS: FileName: 6784.txt ,Title: love and intrigue ,Author: "schiller, friedrich, 1759-1805" ,Language: en ,DownloadCount: 217
+SUCCESS: FileName: 883.txt ,Title: our mutual friend ,Author: "dickens, charles, 1812-1870" ,Language: en ,DownloadCount: 2046
+SUCCESS: FileName: 963.txt ,Title: little dorrit ,Author: "dickens, charles, 1812-1870" ,Language: en ,DownloadCount: 995
+FAILURE:FileName: 11106.txt ,Title: the girl at cobhurst ,Author: "stockton, frank richard, 1834-1902" ,Language: en ,DownloadCount: 14
+FAILURE:FileName: 12639.txt ,Title: spanish doubloons ,Author: "kenyon, camilla" ,Language: en ,DownloadCount: 14
+FAILURE:FileName: 13396.txt ,Title: sweetapple cove ,Author: "van schaick, george, 1861-1924" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 14854.txt ,Title: martha by-the-day ,Author: "lippmann, julie mathilde, 1864-1952" ,Language: en ,DownloadCount: 4
+FAILURE:FileName: 16699.txt ,Title: glen of the high north ,Author: "cody, h. a. (hiram alfred), 1872-1948" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 18057.txt ,Title: flower of the dusk ,Author: "reed, myrtle, 1874-1911" ,Language: en ,DownloadCount: 16
+FAILURE:FileName: 19798.txt ,Title: the farringdons ,Author: "fowler, ellen thorneycroft, 1860-1929" ,Language: en ,DownloadCount: 16
+FAILURE:FileName: 19861.txt ,Title: the lady paramount ,Author: "harland, henry, 1861-1905" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 22076.txt ,Title: the second chance ,Author: "mcclung, nellie l., 1873-1951" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 504.txt ,Title: the fifth string ,Author: "sousa, john philip, 1854-1932" ,Language: en ,DownloadCount: 10
+
+****************** FOLD5 ***********************************
+SUCCESS: FileName: 1399.txt ,Title: anna karenina ,Author: "tolstoy, leo, graf, 1828-1910" ,Language: en ,DownloadCount: 4538
+SUCCESS: FileName: 166.txt ,Title: summer ,Author: "wharton, edith, 1862-1937" ,Language: en ,DownloadCount: 136
+SUCCESS: FileName: 19500.txt ,Title: can you forgive her? ,Author: "trollope, anthony, 1815-1882" ,Language: en ,DownloadCount: 263
+SUCCESS: FileName: 21415.txt ,Title: "the young visiters or, mr. salteena's plan" ,Author: "ashford, daisy, 1881-1972" ,Language: en ,DownloadCount: 738
+SUCCESS: FileName: 24000.txt ,Title: miss mackenzie ,Author: "trollope, anthony, 1815-1882" ,Language: en ,DownloadCount: 131
+SUCCESS: FileName: 3957.txt ,Title: l'abbe constantin � complete ,Author: "hal�vy, ludovic, 1834-1908" ,Language: en ,DownloadCount: 96
+SUCCESS: FileName: 471.txt ,Title: the bride of lammermoor ,Author: "scott, walter, sir, 1771-1832" ,Language: en ,DownloadCount: 216
+SUCCESS: FileName: 541.txt ,Title: the age of innocence ,Author: "wharton, edith, 1862-1937" ,Language: en ,DownloadCount: 1161
+SUCCESS: FileName: 768.txt ,Title: wuthering heights ,Author: "bront�, emily, 1818-1848" ,Language: en ,DownloadCount: 5023
+SUCCESS: FileName: 966.txt ,Title: maid marian ,Author: "peacock, thomas love, 1785-1866" ,Language: en ,DownloadCount: 100
+FAILURE:FileName: 11166.txt ,Title: for gold or soul? the story of a great department store ,Author: "sheldon, lurana" ,Language: en ,DownloadCount: 14
+FAILURE:FileName: 12876.txt ,Title: a young girl's wooing ,Author: "roe, edward payson, 1838-1888" ,Language: en ,DownloadCount: 16
+FAILURE:FileName: 13679.txt ,Title: andrew the glad ,Author: "daviess, maria thompson, 1872-1924" ,Language: en ,DownloadCount: 13
+FAILURE:FileName: 15243.txt ,Title: over paradise ridge a romance ,Author: "daviess, maria thompson, 1872-1924" ,Language: en ,DownloadCount: 12
+FAILURE:FileName: 16777.txt ,Title: the heart of the desert kut-le of the desert ,Author: "morrow, honor�, 1880-1940" ,Language: en ,DownloadCount: 14
+FAILURE:FileName: 18426.txt ,Title: sunny slopes ,Author: "hueston, ethel, 1887-" ,Language: en ,DownloadCount: 12
+FAILURE:FileName: 20563.txt ,Title: terry a tale of the hill people ,Author: "thomson, charles goff" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 23695.txt ,Title: the little gray lady 1909 ,Author: "smith, francis hopkinson, 1838-1915" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 24771.txt ,Title: tutors' lane ,Author: "lewis, w. s. (wilmarth sheldon), 1895-1979" ,Language: en ,DownloadCount: 11
+FAILURE:FileName: 787.txt ,Title: "the man between, an international romance" ,Author: "barr, amelia edith huddleston, 1831-1919" ,Language: en ,DownloadCount: 15
+
+
+
+******************DATASET: Poetry ***********************************
+
+****************** FOLD1 ***********************************
+SUCCESS: FileName: 12843.txt ,Title: poems household edition ,Author: "emerson, ralph waldo, 1803-1882" ,Language: en ,DownloadCount: 146
+SUCCESS: FileName: 1322.txt ,Title: leaves of grass ,Author: "whitman, walt, 1819-1892" ,Language: en ,DownloadCount: 11765
+SUCCESS: FileName: 15963.txt ,Title: may-day and other pieces ,Author: "emerson, ralph waldo, 1803-1882" ,Language: en ,DownloadCount: 75
+SUCCESS: FileName: 22531.txt ,Title: amores poems ,Author: "lawrence, d. h. (david herbert), 1885-1930" ,Language: en ,DownloadCount: 120
+SUCCESS: FileName: 23394.txt ,Title: look! we have come through! ,Author: "lawrence, d. h. (david herbert), 1885-1930" ,Language: en ,DownloadCount: 73
+SUCCESS: FileName: 2665.txt ,Title: the professor at the breakfast-table ,Author: "holmes, oliver wendell, 1809-1894" ,Language: en ,DownloadCount: 99
+SUCCESS: FileName: 2666.txt ,Title: the poet at the breakfast-table ,Author: "holmes, oliver wendell, 1809-1894" ,Language: en ,DownloadCount: 112
+SUCCESS: FileName: 27494.txt ,Title: the patriotic poems of walt whitman ,Author: "whitman, walt, 1819-1892" ,Language: en ,DownloadCount: 224
+SUCCESS: FileName: 5720.txt ,Title: a shropshire lad ,Author: "housman, a. e. (alfred edward), 1859-1936" ,Language: en ,DownloadCount: 398
+SUCCESS: FileName: 791.txt ,Title: the princess ,Author: "tennyson, alfred tennyson, baron, 1809-1892" ,Language: en ,DownloadCount: 110
+FAILURE:FileName: 10457.txt ,Title: the lonely dancer and other poems ,Author: "le gallienne, richard, 1866-1947" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 11215.txt ,Title: poems (1828) ,Author: "gent, thomas, 1780-" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 11983.txt ,Title: poetic sketches a collection of miscellaneous poetry ,Author: "gent, thomas, 1780-" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 15078.txt ,Title: idle hour stories ,Author: "potts, eugenia dunlap" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 16535.txt ,Title: myth and romance being a book of verses ,Author: "cawein, madison julius, 1865-1914" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 17619.txt ,Title: a jongleur strayed verses on love and other matters sacred and profane ,Author: "le gallienne, richard, 1866-1947" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 19443.txt ,Title: our profession and other poems ,Author: "barhite, jared" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 22289.txt ,Title: the conuercyon of swerers (the conversion of swearers) ,Author: "hawes, stephen, -1523" ,Language: en ,DownloadCount: 5
+FAILURE:FileName: 22326.txt ,Title: the c�forte of louers the comfort of lovers ,Author: "hawes, stephen, -1523" ,Language: en ,DownloadCount: 3
+FAILURE:FileName: 27700.txt ,Title: the rose-jar ,Author: "jones, thomas s. (thomas samuel), 1882-1932" ,Language: en ,DownloadCount: 7
+
+****************** FOLD2 ***********************************
+SUCCESS: FileName: 1246.txt ,Title: the house of dust; a symphony ,Author: "aiken, conrad, 1889-1973" ,Language: en ,DownloadCount: 94
+SUCCESS: FileName: 16229.txt ,Title: the poems of henry van dyke ,Author: "van dyke, henry, 1852-1933" ,Language: en ,DownloadCount: 74
+SUCCESS: FileName: 1745.txt ,Title: the poetical works of john milton ,Author: "milton, john, 1608-1674" ,Language: en ,DownloadCount: 322
+SUCCESS: FileName: 19819.txt ,Title: milton's comus ,Author: "milton, john, 1608-1674" ,Language: en ,DownloadCount: 160
+SUCCESS: FileName: 20158.txt ,Title: the works of lord byron. vol. 4 ,Author: "byron, george gordon byron, baron, 1788-1824" ,Language: en ,DownloadCount: 488
+SUCCESS: FileName: 21628.txt ,Title: imaginary conversations and poems a selection ,Author: "landor, walter savage, 1775-1864" ,Language: en ,DownloadCount: 85
+SUCCESS: FileName: 27199.txt ,Title: japanese prints ,Author: "fletcher, john gould, 1886-1950" ,Language: en ,DownloadCount: 173
+SUCCESS: FileName: 30501.txt ,Title: collected poems volume one ,Author: "noyes, alfred, 1880-1958" ,Language: en ,DownloadCount: 75
+SUCCESS: FileName: 574.txt ,Title: poems of william blake ,Author: "blake, william, 1757-1827" ,Language: en ,DownloadCount: 486
+SUCCESS: FileName: 841.txt ,Title: "men, women and ghosts" ,Author: "lowell, amy, 1874-1925" ,Language: en ,DownloadCount: 70
+FAILURE:FileName: 13908.txt ,Title: pipes o'pan at zekesbury ,Author: "riley, james whitcomb, 1849-1916" ,Language: en ,DownloadCount: 1
+FAILURE:FileName: 14531.txt ,Title: the singing man a book of songs and shadows ,Author: "peabody, josephine preston, 1874-1922" ,Language: en ,DownloadCount: 2
+FAILURE:FileName: 15079.txt ,Title: "green fields and running brooks, and other poems" ,Author: "riley, james whitcomb, 1849-1916" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 16735.txt ,Title: "lays of ancient virginia, and other poems" ,Author: "bartley, james avis, 1830-" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 17936.txt ,Title: poems ,Author: "hensley, sophia margaretta, 1866-1913" ,Language: en ,DownloadCount: 3
+FAILURE:FileName: 19836.txt ,Title: early spring ,Author: "inchfawn, fay, 1880-" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 22637.txt ,Title: a little window ,Author: "snyder, jean m." ,Language: en ,DownloadCount: 5
+FAILURE:FileName: 26611.txt ,Title: enthusiasm and other poems ,Author: "moodie, susanna, 1803-1885" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 27731.txt ,Title: the new world ,Author: "bynner, witter, 1881-1968" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 9372.txt ,Title: songs out of doors ,Author: "van dyke, henry, 1852-1933" ,Language: en ,DownloadCount: 9
+
+****************** FOLD3 ***********************************
+SUCCESS: FileName: 10133.txt ,Title: "the vigil of venus and other poems by ""q""" ,Author: "quiller-couch, arthur thomas, sir, 1863-1944" ,Language: en ,DownloadCount: 146
+SUCCESS: FileName: 13621.txt ,Title: "the poems of jonathan swift, d.d., volume 2" ,Author: "swift, jonathan, 1667-1745" ,Language: en ,DownloadCount: 100
+SUCCESS: FileName: 14353.txt ,Title: "the poems of jonathan swift, d.d., volume 1" ,Author: "swift, jonathan, 1667-1745" ,Language: en ,DownloadCount: 108
+SUCCESS: FileName: 16839.txt ,Title: sixteen poems ,Author: "allingham, william, 1824-1889" ,Language: en ,DownloadCount: 96
+SUCCESS: FileName: 19978.txt ,Title: 35 sonnets ,Author: "pessoa, fernando ant�nio nogueira, 1888-1935" ,Language: en ,DownloadCount: 152
+SUCCESS: FileName: 21777.txt ,Title: the years between ,Author: "kipling, rudyard, 1865-1936" ,Language: en ,DownloadCount: 70
+SUCCESS: FileName: 23538.txt ,Title: hugh selwyn mauberley ,Author: "pound, ezra, 1885-1972" ,Language: en ,DownloadCount: 390
+SUCCESS: FileName: 30568.txt ,Title: "kipling stories and poems every child should know, book ii" ,Author: "kipling, rudyard, 1865-1936" ,Language: en ,DownloadCount: 216
+SUCCESS: FileName: 8795.txt ,Title: "the divine comedy by dante, illustrated, purgatory, complete" ,Author: "dante alighieri, 1265-1321" ,Language: en ,DownloadCount: 566
+SUCCESS: FileName: 8799.txt ,Title: "the divine comedy by dante, illustrated, paradise, complete" ,Author: "dante alighieri, 1265-1321" ,Language: en ,DownloadCount: 728
+FAILURE:FileName: 10367.txt ,Title: poems ,Author: "carr, john, sir, 1772-1832" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 10518.txt ,Title: poems ,Author: "hay, john, 1838-1905" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 11564.txt ,Title: "an essay on war, in blank verse; honington green, a ballad; the culprit, an elegy; and other poems, on various subjects" ,Author: "bloomfield, nathaniel" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 14869.txt ,Title: soldier songs and love songs ,Author: "laidlaw, a. h. (alexander hamilton), 1869-1908" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 15101.txt ,Title: the mountain spring and other poems ,Author: "glass, nancy rebecca campbell, 1842-" ,Language: en ,DownloadCount: 4
+FAILURE:FileName: 16821.txt ,Title: the scarlet gown being verses by a st. andrews man ,Author: "murray, r. f. (robert fuller), 1863-1894" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 18009.txt ,Title: "sagittulae, random verses" ,Author: "bowling, edward woodley, 1837-1907" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 21509.txt ,Title: "rowena & harold a romance in rhyme of an olden time, of hastyngs and normanhurst" ,Author: "pryer, william stephen" ,Language: en ,DownloadCount: 3
+FAILURE:FileName: 22803.txt ,Title: helen redeemed and other poems ,Author: "hewlett, maurice, 1861-1923" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 26675.txt ,Title: the masque of the elements ,Author: "scheffauer, herman george, 1878-1927" ,Language: en ,DownloadCount: 4
+
+****************** FOLD4 ***********************************
+SUCCESS: FileName: 1459.txt ,Title: prufrock and other observations ,Author: "eliot, t. s. (thomas stearns), 1888-1965" ,Language: en ,DownloadCount: 740
+SUCCESS: FileName: 1567.txt ,Title: poems ,Author: "eliot, t. s. (thomas stearns), 1888-1965" ,Language: en ,DownloadCount: 845
+SUCCESS: FileName: 19315.txt ,Title: the poems of giacomo leopardi ,Author: "leopardi, giacomo, 1798-1837" ,Language: en ,DownloadCount: 262
+SUCCESS: FileName: 2002.txt ,Title: sonnets from the portuguese ,Author: "browning, elizabeth barrett, 1806-1861" ,Language: en ,DownloadCount: 221
+SUCCESS: FileName: 22403.txt ,Title: poems of gerard manley hopkins now first published ,Author: "hopkins, gerard manley, 1844-1889?" ,Language: en ,DownloadCount: 220
+SUCCESS: FileName: 25631.txt ,Title: a poetical cook-book ,Author: "moss, maria j." ,Language: en ,DownloadCount: 79
+SUCCESS: FileName: 28665.txt ,Title: sea garden ,Author: "h. d. (hilda doolittle), 1886-1961" ,Language: en ,DownloadCount: 83
+SUCCESS: FileName: 36773.txt ,Title: oxford lectures on poetry ,Author: "bradley, a. c. (andrew cecil), 1851-1935" ,Language: en ,DownloadCount: 94
+SUCCESS: FileName: 6081.txt ,Title: biographia literaria ,Author: "coleridge, samuel taylor, 1772-1834" ,Language: en ,DownloadCount: 618
+SUCCESS: FileName: 6796.txt ,Title: the poems of schiller � third period ,Author: "schiller, friedrich, 1759-1805" ,Language: en ,DownloadCount: 146
+FAILURE:FileName: 11006.txt ,Title: the book with the yellow cover ,Author: "wetterau, john moncure" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 12095.txt ,Title: more bywords ,Author: "yonge, charlotte m. (charlotte mary), 1823-1901" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 14871.txt ,Title: poems ,Author: "walton, mary alice" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 16108.txt ,Title: debris selections from poems ,Author: "wagner, madge morris, 1862-1924" ,Language: en ,DownloadCount: 3
+FAILURE:FileName: 17065.txt ,Title: "interludes being two essays, a story, and some verses" ,Author: "smith, horace, 1836-1922" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 18658.txt ,Title: in macao ,Author: "gunnison, charles a., 1861-1897" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 22032.txt ,Title: later poems ,Author: "meynell, alice christiana thompson, 1847-1922" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 23392.txt ,Title: the hours of fiammetta a sonnet sequence ,Author: "taylor, rachel annand, 1876-1960" ,Language: en ,DownloadCount: 3
+FAILURE:FileName: 27139.txt ,Title: a leaf from the old forest ,Author: "cossar, john d." ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 9465.txt ,Title: songs of two ,Author: "hardy, arthur sherburne, 1847-1930" ,Language: en ,DownloadCount: 2
+
+****************** FOLD5 ***********************************
+SUCCESS: FileName: 1211.txt ,Title: a selection from the lyrical poems of robert herrick ,Author: "herrick, robert, 1591-1674" ,Language: en ,DownloadCount: 100
+SUCCESS: FileName: 12977.txt ,Title: black beetles in amber ,Author: "bierce, ambrose, 1842-1914?" ,Language: en ,DownloadCount: 72
+SUCCESS: FileName: 17081.txt ,Title: cottage poems ,Author: "bront�, patrick, 1777-1861" ,Language: en ,DownloadCount: 101
+SUCCESS: FileName: 2003.txt ,Title: spirits in bondage; a cycle of lyrics ,Author: "lewis, c. s. (clive staples), 1898-1963" ,Language: en ,DownloadCount: 278
+SUCCESS: FileName: 22421.txt ,Title: the hesperides & noble numbers: vol. 1 and 2 ,Author: "herrick, robert, 1591-1674" ,Language: en ,DownloadCount: 255
+SUCCESS: FileName: 28903.txt ,Title: all that matters ,Author: "guest, edgar a. (edgar albert), 1881-1959" ,Language: en ,DownloadCount: 120
+SUCCESS: FileName: 30357.txt ,Title: select poems of thomas gray ,Author: "gray, thomas, 1716-1771" ,Language: en ,DownloadCount: 128
+SUCCESS: FileName: 442.txt ,Title: love songs ,Author: "teasdale, sara, 1884-1933" ,Language: en ,DownloadCount: 83
+SUCCESS: FileName: 715.txt ,Title: the moon endureth: tales and fancies ,Author: "buchan, john, 1875-1940" ,Language: en ,DownloadCount: 74
+SUCCESS: FileName: 9870.txt ,Title: war is kind ,Author: "crane, stephen, 1871-1900" ,Language: en ,DownloadCount: 84
+FAILURE:FileName: 11194.txt ,Title: vignettes in verse ,Author: "betham, matilda, 1776-1852" ,Language: en ,DownloadCount: 3
+FAILURE:FileName: 13052.txt ,Title: the mistress of the manse ,Author: "holland, j. g. (josiah gilbert), 1819-1881" ,Language: en ,DownloadCount: 1
+FAILURE:FileName: 14906.txt ,Title: "songs, sonnets & miscellaneous poems" ,Author: "runciman, thomas, 1841-1909" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 16144.txt ,Title: harry ,Author: "hart, fanny wheeler" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 17448.txt ,Title: the auld doctor and other poems and songs in scots ,Author: "rorie, david, 1867-1946" ,Language: en ,DownloadCount: 3
+FAILURE:FileName: 18739.txt ,Title: zophiel a poem ,Author: "brooks, maria gowen, 1795?-1845" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 24312.txt ,Title: the minstrel a collection of poems ,Author: "amott, lennox" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 26505.txt ,Title: the old hanging fork and other poems ,Author: "doneghy, george w." ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 27333.txt ,Title: pan and �olus: poems ,Author: "musgrove, charles hamilton" ,Language: en ,DownloadCount: 4
+FAILURE:FileName: 9653.txt ,Title: a wreath of virginia bay leaves poems of james barron hope ,Author: "j. b. h. (james barron hope), 1829-1887" ,Language: en ,DownloadCount: 8
+
+
+
+******************DATASET: Sci-Fi ***********************************
+
+****************** FOLD1 ***********************************
+SUCCESS: FileName: 18109.txt ,Title: graveyard of dreams ,Author: "piper, h. beam, 1904-1964" ,Language: en ,DownloadCount: 115
+SUCCESS: FileName: 18342.txt ,Title: the answer ,Author: "piper, h. beam, 1904-1964" ,Language: en ,DownloadCount: 131
+SUCCESS: FileName: 19029.txt ,Title: the gifts of asti ,Author: "norton, andre, 1912-2005" ,Language: en ,DownloadCount: 144
+SUCCESS: FileName: 24517.txt ,Title: accidental death ,Author: "baily, peter" ,Language: en ,DownloadCount: 171
+SUCCESS: FileName: 26955.txt ,Title: advanced chemistry ,Author: "huekels, jack g." ,Language: en ,DownloadCount: 137
+SUCCESS: FileName: 29019.txt ,Title: all cats are gray ,Author: "norton, andre, 1912-2005" ,Language: en ,DownloadCount: 376
+SUCCESS: FileName: 29458.txt ,Title: cost of living ,Author: "sheckley, robert, 1928-2005" ,Language: en ,DownloadCount: 106
+SUCCESS: FileName: 29548.txt ,Title: warrior race ,Author: "sheckley, robert, 1928-2005" ,Language: en ,DownloadCount: 108
+SUCCESS: FileName: 29559.txt ,Title: they twinkled like jewels ,Author: "farmer, philip jos�, 1918-2009" ,Language: en ,DownloadCount: 285
+SUCCESS: FileName: 30199.txt ,Title: mcilvaine's star ,Author: "derleth, august william, 1909-1971" ,Language: en ,DownloadCount: 196
+FAILURE:FileName: 10391.txt ,Title: the wolf's long howl ,Author: "waterloo, stanley, 1846-1913" ,Language: en ,DownloadCount: 30
+FAILURE:FileName: 24927.txt ,Title: a matter of magnitude ,Author: "sevcik, al" ,Language: en ,DownloadCount: 29
+FAILURE:FileName: 28156.txt ,Title: minor detail ,Author: "sharkey, jack, 1931-" ,Language: en ,DownloadCount: 22
+FAILURE:FileName: 29601.txt ,Title: see? ,Author: "robles, edward g." ,Language: en ,DownloadCount: 29
+FAILURE:FileName: 30329.txt ,Title: black eyes and the daily grind ,Author: "marlowe, stephen, 1928-2008" ,Language: en ,DownloadCount: 23
+FAILURE:FileName: 30382.txt ,Title: "say ""hello"" for me" ,Author: "coggins, frank w." ,Language: en ,DownloadCount: 12
+FAILURE:FileName: 30386.txt ,Title: the one and the many ,Author: "marlowe, stephen, 1928-2008" ,Language: en ,DownloadCount: 23
+FAILURE:FileName: 30438.txt ,Title: the eyes have it ,Author: "mckimmey, james, 1923-" ,Language: en ,DownloadCount: 27
+FAILURE:FileName: 30528.txt ,Title: the day of the dog ,Author: "horne, anderson" ,Language: en ,DownloadCount: 21
+FAILURE:FileName: 30680.txt ,Title: all day wednesday ,Author: "olin, richard" ,Language: en ,DownloadCount: 24
+
+****************** FOLD2 ***********************************
+SUCCESS: FileName: 22073.txt ,Title: the repairman ,Author: "harrison, harry, 1925-" ,Language: en ,DownloadCount: 328
+SUCCESS: FileName: 22966.txt ,Title: toy shop ,Author: "harrison, harry, 1925-" ,Language: en ,DownloadCount: 224
+SUCCESS: FileName: 22967.txt ,Title: the stoker and the stars ,Author: "budrys, algis, 1931-2008" ,Language: en ,DownloadCount: 129
+SUCCESS: FileName: 23210.txt ,Title: missing link ,Author: "herbert, frank, 1920-1986" ,Language: en ,DownloadCount: 177
+SUCCESS: FileName: 26066.txt ,Title: the cosmic express ,Author: "williamson, jack, 1908-2006" ,Language: en ,DownloadCount: 108
+SUCCESS: FileName: 28554.txt ,Title: beyond lies the wub ,Author: "dick, philip k., 1928-1982" ,Language: en ,DownloadCount: 1086
+SUCCESS: FileName: 28698.txt ,Title: the crystal crypt ,Author: "dick, philip k., 1928-1982" ,Language: en ,DownloadCount: 874
+SUCCESS: FileName: 29492.txt ,Title: old rambling house ,Author: "herbert, frank, 1920-1986" ,Language: en ,DownloadCount: 179
+SUCCESS: FileName: 29614.txt ,Title: the game of rat and dragon ,Author: "linebarger, paul myron anthony, 1913-1966" ,Language: en ,DownloadCount: 245
+SUCCESS: FileName: 30234.txt ,Title: dead ringer ,Author: "del rey, lester, 1915-1993" ,Language: en ,DownloadCount: 178
+FAILURE:FileName: 21541.txt ,Title: "quiet, please" ,Author: "scott, kevin" ,Language: en ,DownloadCount: 23
+FAILURE:FileName: 25094.txt ,Title: daughters of doom ,Author: "livingston, herbert b." ,Language: en ,DownloadCount: 25
+FAILURE:FileName: 28460.txt ,Title: bolden's pets ,Author: "wallace, f. l. (floyd l.), 1915-2004" ,Language: en ,DownloadCount: 23
+FAILURE:FileName: 29675.txt ,Title: less than human ,Author: "blade, zo�" ,Language: en ,DownloadCount: 29
+FAILURE:FileName: 29676.txt ,Title: identity ,Author: "blade, zo�" ,Language: en ,DownloadCount: 25
+FAILURE:FileName: 30330.txt ,Title: high dragon bump ,Author: "thompson, don, 1935-1994" ,Language: en ,DownloadCount: 21
+FAILURE:FileName: 30383.txt ,Title: spies die hard! ,Author: "marmor, arnold" ,Language: en ,DownloadCount: 16
+FAILURE:FileName: 30454.txt ,Title: blind spot ,Author: "jones, bascom" ,Language: en ,DownloadCount: 24
+FAILURE:FileName: 30539.txt ,Title: the terrible answer ,Author: "hill, arthur g." ,Language: en ,DownloadCount: 24
+FAILURE:FileName: 30683.txt ,Title: the unthinking destroyer ,Author: "phillips, rog, 1909-1965" ,Language: en ,DownloadCount: 30
+
+****************** FOLD3 ***********************************
+SUCCESS: FileName: 21279.txt ,Title: 2 b r 0 2 b ,Author: "vonnegut, kurt, 1922-2007" ,Language: en ,DownloadCount: 2811
+SUCCESS: FileName: 22579.txt ,Title: bread overhead ,Author: "leiber, fritz, 1910-1992" ,Language: en ,DownloadCount: 117
+SUCCESS: FileName: 27392.txt ,Title: lease to doomsday ,Author: "archer, lee" ,Language: en ,DownloadCount: 173
+SUCCESS: FileName: 28063.txt ,Title: the next logical step ,Author: "bova, ben, 1932-" ,Language: en ,DownloadCount: 364
+SUCCESS: FileName: 28650.txt ,Title: year of the big thaw ,Author: "bradley, marion zimmer, 1930-1999" ,Language: en ,DownloadCount: 174
+SUCCESS: FileName: 29133.txt ,Title: shipwreck in the sky ,Author: "binder, eando" ,Language: en ,DownloadCount: 196
+SUCCESS: FileName: 29140.txt ,Title: the mathematicians ,Author: "feldman, arthur" ,Language: en ,DownloadCount: 110
+SUCCESS: FileName: 29504.txt ,Title: what's he doing in there? ,Author: "leiber, fritz, 1910-1992" ,Language: en ,DownloadCount: 103
+SUCCESS: FileName: 29643.txt ,Title: death of a spaceman ,Author: "miller, walter m., 1923-1996" ,Language: en ,DownloadCount: 100
+SUCCESS: FileName: 30240.txt ,Title: the big trip up yonder ,Author: "vonnegut, kurt, 1922-2007" ,Language: en ,DownloadCount: 972
+FAILURE:FileName: 22470.txt ,Title: the bell tone ,Author: "leftwich, edmund h." ,Language: en ,DownloadCount: 29
+FAILURE:FileName: 28894.txt ,Title: two plus two makes crazy ,Author: "sheldon, walter j., 1917-" ,Language: en ,DownloadCount: 29
+FAILURE:FileName: 28922.txt ,Title: compatible ,Author: "smith, richard r." ,Language: en ,DownloadCount: 11
+FAILURE:FileName: 28954.txt ,Title: this is klon calling ,Author: "sheldon, walter j., 1917-" ,Language: en ,DownloadCount: 24
+FAILURE:FileName: 29160.txt ,Title: operation lorelie ,Author: "salton, william p." ,Language: en ,DownloadCount: 30
+FAILURE:FileName: 29272.txt ,Title: no hiding place ,Author: "smith, richard r." ,Language: en ,DownloadCount: 21
+FAILURE:FileName: 29356.txt ,Title: such blooming talk ,Author: "reynolds, l. major" ,Language: en ,DownloadCount: 16
+FAILURE:FileName: 30468.txt ,Title: "holes, incorporated" ,Author: "reynolds, l. major" ,Language: en ,DownloadCount: 19
+FAILURE:FileName: 30649.txt ,Title: last resort ,Author: "bartholomew, stephen" ,Language: en ,DownloadCount: 26
+FAILURE:FileName: 30761.txt ,Title: the minus woman ,Author: "winterbotham, r. r. (russell robert), 1904-1971" ,Language: en ,DownloadCount: 18
+
+****************** FOLD4 ***********************************
+SUCCESS: FileName: 22958.txt ,Title: one-shot ,Author: "blish, james, 1921-1975" ,Language: en ,DownloadCount: 269
+SUCCESS: FileName: 23868.txt ,Title: vanishing point ,Author: "beck, c. c." ,Language: en ,DownloadCount: 124
+SUCCESS: FileName: 26206.txt ,Title: pandemic ,Author: "bone, jesse f. (jesse franklin), 1916-1986" ,Language: en ,DownloadCount: 111
+SUCCESS: FileName: 26521.txt ,Title: earthmen bearing gifts ,Author: "brown, fredric, 1906-1972" ,Language: en ,DownloadCount: 233
+SUCCESS: FileName: 27053.txt ,Title: the day time stopped moving ,Author: "buckner, bradner" ,Language: en ,DownloadCount: 158
+SUCCESS: FileName: 27462.txt ,Title: the last evolution ,Author: "campbell, john wood, 1910-1971" ,Language: en ,DownloadCount: 295
+SUCCESS: FileName: 29142.txt ,Title: keep out ,Author: "brown, fredric, 1906-1972" ,Language: en ,DownloadCount: 139
+SUCCESS: FileName: 29503.txt ,Title: the hated ,Author: "pohl, frederik, 1919-" ,Language: en ,DownloadCount: 158
+SUCCESS: FileName: 29750.txt ,Title: zen ,Author: "bixby, jerome, 1923-1998" ,Language: en ,DownloadCount: 179
+SUCCESS: FileName: 30399.txt ,Title: pythias ,Author: "pohl, frederik, 1919-" ,Language: en ,DownloadCount: 134
+FAILURE:FileName: 22596.txt ,Title: measure for a loner ,Author: "harmon, jim, 1933-2010" ,Language: en ,DownloadCount: 28
+FAILURE:FileName: 25740.txt ,Title: ambush a terran empire vignette ,Author: "wilson, ann" ,Language: en ,DownloadCount: 18
+FAILURE:FileName: 25742.txt ,Title: hostage a terran empire story ,Author: "wilson, ann" ,Language: en ,DownloadCount: 13
+FAILURE:FileName: 29749.txt ,Title: the flying cuspidors ,Author: "francis, v. r." ,Language: en ,DownloadCount: 27
+FAILURE:FileName: 30361.txt ,Title: the stowaway ,Author: "heiner, alvin" ,Language: en ,DownloadCount: 19
+FAILURE:FileName: 30379.txt ,Title: field trip ,Author: "hunter, gene" ,Language: en ,DownloadCount: 11
+FAILURE:FileName: 30405.txt ,Title: the clean and wholesome land ,Author: "sholto, ralph" ,Language: en ,DownloadCount: 10
+FAILURE:FileName: 30475.txt ,Title: with a vengeance ,Author: "woodley, j. b." ,Language: en ,DownloadCount: 16
+FAILURE:FileName: 30670.txt ,Title: mr. chipfellow's jackpot ,Author: "purcell, dick" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 30798.txt ,Title: sonny ,Author: "raphael, rick, 1919-1994" ,Language: en ,DownloadCount: 17
+
+****************** FOLD5 ***********************************
+SUCCESS: FileName: 21627.txt ,Title: gambler's world ,Author: "laumer, keith, 1925-1993" ,Language: en ,DownloadCount: 198
+SUCCESS: FileName: 21782.txt ,Title: the yillian way ,Author: "laumer, keith, 1925-1993" ,Language: en ,DownloadCount: 117
+SUCCESS: FileName: 23146.txt ,Title: and all the earth a grave ,Author: "macapp, c. c., 1917-1971" ,Language: en ,DownloadCount: 107
+SUCCESS: FileName: 24149.txt ,Title: the ambulance made two trips ,Author: "leinster, murray, 1896-1975" ,Language: en ,DownloadCount: 145
+SUCCESS: FileName: 26741.txt ,Title: i'm a stranger here myself ,Author: "reynolds, mack, 1917-1983" ,Language: en ,DownloadCount: 106
+SUCCESS: FileName: 28062.txt ,Title: the man who saw the future ,Author: "hamilton, edmond, 1904-1977" ,Language: en ,DownloadCount: 126
+SUCCESS: FileName: 28893.txt ,Title: of time and texas ,Author: "nolan, william f., 1928-" ,Language: en ,DownloadCount: 132
+SUCCESS: FileName: 29303.txt ,Title: operation earthworm ,Author: "archibald, joe, 1898-1989" ,Language: en ,DownloadCount: 122
+SUCCESS: FileName: 29908.txt ,Title: the adventurer ,Author: "kornbluth, c. m. (cyril m.), 1924-1958" ,Language: en ,DownloadCount: 140
+SUCCESS: FileName: 32436.txt ,Title: duel on syrtis ,Author: "anderson, poul william, 1926-2001" ,Language: en ,DownloadCount: 172
+FAILURE:FileName: 24864.txt ,Title: the great potlatch riots ,Author: "lang, allen kim, 1928-" ,Language: en ,DownloadCount: 29
+FAILURE:FileName: 26883.txt ,Title: the sword and the atopen ,Author: "greenfield, taylor h." ,Language: en ,DownloadCount: 29
+FAILURE:FileName: 28953.txt ,Title: when i grow up ,Author: "lowe, richard e." ,Language: en ,DownloadCount: 28
+FAILURE:FileName: 29599.txt ,Title: homesick ,Author: "venable, lyn" ,Language: en ,DownloadCount: 26
+FAILURE:FileName: 29790.txt ,Title: pleasant journey ,Author: "thieme, richard f." ,Language: en ,DownloadCount: 29
+FAILURE:FileName: 30381.txt ,Title: prelude to space ,Author: "haseltine, robert w." ,Language: en ,DownloadCount: 20
+FAILURE:FileName: 30437.txt ,Title: larson's luck ,Author: "vance, gerald" ,Language: en ,DownloadCount: 24
+FAILURE:FileName: 30491.txt ,Title: vital ingredient ,Author: "de vet, charles v. (charles vincent), 1911-1997" ,Language: en ,DownloadCount: 18
+FAILURE:FileName: 30673.txt ,Title: sound of terror ,Author: "berry, don" ,Language: en ,DownloadCount: 21
+FAILURE:FileName: 31123.txt ,Title: the observers ,Author: "vandenburg, g. l." ,Language: en ,DownloadCount: 20
+
+
+
+******************DATASET: Short Stories ***********************************
+
+****************** FOLD1 ***********************************
+SUCCESS: FileName: 10150.txt ,Title: dracula's guest ,Author: "stoker, bram, 1847-1912" ,Language: en ,DownloadCount: 618
+SUCCESS: FileName: 1883.txt ,Title: "the wife, and other stories" ,Author: "chekhov, anton pavlovich, 1860-1904" ,Language: en ,DownloadCount: 238
+SUCCESS: FileName: 1944.txt ,Title: the witch and other stories ,Author: "chekhov, anton pavlovich, 1860-1904" ,Language: en ,DownloadCount: 225
+SUCCESS: FileName: 21279.txt ,Title: 2 b r 0 2 b ,Author: "vonnegut, kurt, 1922-2007" ,Language: en ,DownloadCount: 2811
+SUCCESS: FileName: 23661.txt ,Title: the book of dragons ,Author: "nesbit, e. (edith), 1858-1924" ,Language: en ,DownloadCount: 463
+SUCCESS: FileName: 25519.txt ,Title: little wizard stories of oz ,Author: "baum, l. frank (lyman frank), 1856-1919" ,Language: en ,DownloadCount: 309
+SUCCESS: FileName: 2781.txt ,Title: just so stories ,Author: "kipling, rudyard, 1865-1936" ,Language: en ,DownloadCount: 1703
+SUCCESS: FileName: 29019.txt ,Title: all cats are gray ,Author: "norton, andre, 1912-2005" ,Language: en ,DownloadCount: 376
+SUCCESS: FileName: 30240.txt ,Title: the big trip up yonder ,Author: "vonnegut, kurt, 1922-2007" ,Language: en ,DownloadCount: 972
+SUCCESS: FileName: 4357.txt ,Title: american fairy tales ,Author: "baum, l. frank (lyman frank), 1856-1919" ,Language: en ,DownloadCount: 507
+FAILURE:FileName: 11003.txt ,Title: michelangelo's shoulder ,Author: "wetterau, john moncure" ,Language: en ,DownloadCount: 0
+FAILURE:FileName: 13908.txt ,Title: pipes o'pan at zekesbury ,Author: "riley, james whitcomb, 1849-1916" ,Language: en ,DownloadCount: 1
+FAILURE:FileName: 15986.txt ,Title: th' barrel organ ,Author: "waugh, edwin, 1817-1890" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 18509.txt ,Title: nick baba's last drink and other sketches ,Author: "goff, george paul" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 20255.txt ,Title: the unruly sprite a partial fairy tale ,Author: "van dyke, henry, 1852-1933" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 23015.txt ,Title: run to seed 1891 ,Author: "page, thomas nelson, 1853-1922" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 23016.txt ,Title: p'laski's tunament 1891 ,Author: "page, thomas nelson, 1853-1922" ,Language: en ,DownloadCount: 3
+FAILURE:FileName: 23168.txt ,Title: a ride with a mad horse in a freight-car 1898 ,Author: "murray, w. h. h. (william henry harrison), 1840-1904" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 23549.txt ,Title: wolf's head 1911 ,Author: "murfree, mary noailles, 1850-1922" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 23550.txt ,Title: una of the hill country 1911 ,Author: "murfree, mary noailles, 1850-1922" ,Language: en ,DownloadCount: 6
+
+****************** FOLD2 ***********************************
+SUCCESS: FileName: 1074.txt ,Title: the sea wolf ,Author: "london, jack, 1876-1916" ,Language: en ,DownloadCount: 655
+SUCCESS: FileName: 13707.txt ,Title: twice told tales ,Author: "hawthorne, nathaniel, 1804-1864" ,Language: en ,DownloadCount: 788
+SUCCESS: FileName: 14967.txt ,Title: a gentleman vagabond and some others ,Author: "smith, francis hopkinson, 1838-1915" ,Language: en ,DownloadCount: 229
+SUCCESS: FileName: 22958.txt ,Title: one-shot ,Author: "blish, james, 1921-1975" ,Language: en ,DownloadCount: 269
+SUCCESS: FileName: 24811.txt ,Title: viking tales ,Author: "hall, jennie, 1875-1921" ,Language: en ,DownloadCount: 367
+SUCCESS: FileName: 27085.txt ,Title: rootabaga stories ,Author: "sandburg, carl, 1878-1967" ,Language: en ,DownloadCount: 297
+SUCCESS: FileName: 28063.txt ,Title: the next logical step ,Author: "bova, ben, 1932-" ,Language: en ,DownloadCount: 364
+SUCCESS: FileName: 29542.txt ,Title: the valor of cappen varra ,Author: "anderson, poul william, 1926-2001" ,Language: en ,DownloadCount: 304
+SUCCESS: FileName: 3181.txt ,Title: the stolen white elephant ,Author: "twain, mark, 1835-1910" ,Language: en ,DownloadCount: 228
+SUCCESS: FileName: 512.txt ,Title: mosses from an old manse and other stories ,Author: "hawthorne, nathaniel, 1804-1864" ,Language: en ,DownloadCount: 1816
+FAILURE:FileName: 12095.txt ,Title: more bywords ,Author: "yonge, charlotte m. (charlotte mary), 1823-1901" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 16860.txt ,Title: a lover in homespun and other stories ,Author: "smith, f. clifford (frank clifford), 1865-1937" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 18605.txt ,Title: a pair of patient lovers ,Author: "howells, william dean, 1837-1920" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 20493.txt ,Title: stories and sketches ,Author: "caswell, harriet s., 1834-" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 22837.txt ,Title: the lost dahlia ,Author: "mitford, mary russell, 1787-1855" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 22842.txt ,Title: the widow's dog ,Author: "mitford, mary russell, 1787-1855" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 23170.txt ,Title: "a brace of boys 1867, from ""little brother""" ,Author: "ludlow, fitz hugh, 1836-1870" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 23221.txt ,Title: the story of the little mamsell ,Author: "niese, charlotte, 1854-1935" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 23695.txt ,Title: the little gray lady 1909 ,Author: "smith, francis hopkinson, 1838-1915" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 3380.txt ,Title: staccato notes of a vanished summer (from literature and life) ,Author: "howells, william dean, 1837-1920" ,Language: en ,DownloadCount: 2
+
+****************** FOLD3 ***********************************
+SUCCESS: FileName: 1197.txt ,Title: taras bulba and other tales ,Author: "gogol, nikolai vasilievich, 1809-1852" ,Language: en ,DownloadCount: 455
+SUCCESS: FileName: 15859.txt ,Title: the piazza tales ,Author: "melville, herman, 1819-1891" ,Language: en ,DownloadCount: 592
+SUCCESS: FileName: 17860.txt ,Title: stories from hans andersen ,Author: "andersen, h. c. (hans christian), 1805-1875" ,Language: en ,DownloadCount: 739
+SUCCESS: FileName: 22073.txt ,Title: the repairman ,Author: "harrison, harry, 1925-" ,Language: en ,DownloadCount: 328
+SUCCESS: FileName: 22966.txt ,Title: toy shop ,Author: "harrison, harry, 1925-" ,Language: en ,DownloadCount: 224
+SUCCESS: FileName: 27200.txt ,Title: fairy tales of hans christian andersen ,Author: "andersen, h. c. (hans christian), 1805-1875" ,Language: en ,DownloadCount: 858
+SUCCESS: FileName: 2814.txt ,Title: dubliners ,Author: "joyce, james, 1882-1941" ,Language: en ,DownloadCount: 5293
+SUCCESS: FileName: 29559.txt ,Title: they twinkled like jewels ,Author: "farmer, philip jos�, 1918-2009" ,Language: en ,DownloadCount: 285
+SUCCESS: FileName: 3688.txt ,Title: the chronicles of clovis ,Author: "saki, 1870-1916" ,Language: en ,DownloadCount: 545
+SUCCESS: FileName: 689.txt ,Title: the kreutzer sonata and other stories ,Author: "tolstoy, leo, graf, 1828-1910" ,Language: en ,DownloadCount: 560
+FAILURE:FileName: 15078.txt ,Title: idle hour stories ,Author: "potts, eugenia dunlap" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 17065.txt ,Title: "interludes being two essays, a story, and some verses" ,Author: "smith, horace, 1836-1922" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 18658.txt ,Title: in macao ,Author: "gunnison, charles a., 1861-1897" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 20541.txt ,Title: the rocky island and other similitudes ,Author: "wilberforce, samuel, 1805-1873" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 23003.txt ,Title: "the new minister's great opportunity first published in the ""century magazine""" ,Author: "chaplin, heman white, 1847-1924" ,Language: en ,DownloadCount: 4
+FAILURE:FileName: 23004.txt ,Title: in madeira place 1887 ,Author: "chaplin, heman white, 1847-1924" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 23165.txt ,Title: "the man who stole a meeting-house 1878, from ""coupon bonds""" ,Author: "trowbridge, j. t. (john townsend), 1827-1916" ,Language: en ,DownloadCount: 3
+FAILURE:FileName: 23411.txt ,Title: sma�n; and safti's summer day 1905 ,Author: "hichens, robert (robert smythe), 1864-1950" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 23412.txt ,Title: the figure in the mirage 1905 ,Author: "hichens, robert (robert smythe), 1864-1950" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 24109.txt ,Title: the capgras shift ,Author: "vaknin, samuel, 1961-" ,Language: en ,DownloadCount: 2
+
+****************** FOLD4 ***********************************
+SUCCESS: FileName: 1202.txt ,Title: tales of unrest ,Author: "conrad, joseph, 1857-1924" ,Language: en ,DownloadCount: 249
+SUCCESS: FileName: 2148.txt ,Title: the works of edgar allan poe � volume 2 ,Author: "poe, edgar allan, 1809-1849" ,Language: en ,DownloadCount: 6383
+SUCCESS: FileName: 2150.txt ,Title: the works of edgar allan poe � volume 4 ,Author: "poe, edgar allan, 1809-1849" ,Language: en ,DownloadCount: 1294
+SUCCESS: FileName: 23172.txt ,Title: "the damned thing 1898, from ""in the midst of life""" ,Author: "bierce, ambrose, 1842-1914?" ,Language: en ,DownloadCount: 323
+SUCCESS: FileName: 24975.txt ,Title: the gift bearer ,Author: "fontenay, charles louis, 1917-2007" ,Language: en ,DownloadCount: 607
+SUCCESS: FileName: 28554.txt ,Title: beyond lies the wub ,Author: "dick, philip k., 1928-1982" ,Language: en ,DownloadCount: 1086
+SUCCESS: FileName: 28644.txt ,Title: beyond the door ,Author: "dick, philip k., 1928-1982" ,Language: en ,DownloadCount: 1415
+SUCCESS: FileName: 29614.txt ,Title: the game of rat and dragon ,Author: "linebarger, paul myron anthony, 1913-1966" ,Language: en ,DownloadCount: 245
+SUCCESS: FileName: 3806.txt ,Title: "a modern cinderella or, the little old shoe and other stories" ,Author: "alcott, louisa may, 1832-1888" ,Language: en ,DownloadCount: 344
+SUCCESS: FileName: 7471.txt ,Title: the man with two left feet and other stories ,Author: "wodehouse, p. g. (pelham grenville), 1881-1975" ,Language: en ,DownloadCount: 813
+FAILURE:FileName: 12152.txt ,Title: "keeping watch night watches, part 2." ,Author: "jacobs, w. w. (william wymark), 1863-1943" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 12154.txt ,Title: "the weaker vessel night watches, part 4." ,Author: "jacobs, w. w. (william wymark), 1863-1943" ,Language: en ,DownloadCount: 4
+FAILURE:FileName: 15089.txt ,Title: the deserter ,Author: "davis, richard harding, 1864-1916" ,Language: en ,DownloadCount: 4
+FAILURE:FileName: 17453.txt ,Title: up in ardmuirland ,Author: "barrett, michael, 1848-" ,Language: en ,DownloadCount: 5
+FAILURE:FileName: 1762.txt ,Title: the consul ,Author: "davis, richard harding, 1864-1916" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 1891.txt ,Title: a plea for old cap collier ,Author: "cobb, irvin s. (irvin shrewsbury), 1876-1944" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 23166.txt ,Title: "who was she? from ""the atlantic monthly"" for september, 1874" ,Author: "taylor, bayard, 1825-1878" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 23174.txt ,Title: a good-for-nothing 1876 ,Author: "boyesen, hjalmar hjorth, 1848-1895" ,Language: en ,DownloadCount: 7
+FAILURE:FileName: 23176.txt ,Title: a michigan man 1891 ,Author: "peattie, elia wilkinson, 1862-1935" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 25056.txt ,Title: the brothers-in-law: a tale of the equatorial islands; and the brass gun of the buccaneers 1901 ,Author: "becke, louis, 1855-1913" ,Language: en ,DownloadCount: 7
+
+****************** FOLD5 ***********************************
+SUCCESS: FileName: 1312.txt ,Title: selected stories of bret harte ,Author: "harte, bret, 1836-1902" ,Language: en ,DownloadCount: 365
+SUCCESS: FileName: 1743.txt ,Title: twelve stories and a dream ,Author: "wells, h. g. (herbert george), 1866-1946" ,Language: en ,DownloadCount: 266
+SUCCESS: FileName: 23218.txt ,Title: the red room ,Author: "wells, h. g. (herbert george), 1866-1946" ,Language: en ,DownloadCount: 471
+SUCCESS: FileName: 24879.txt ,Title: "curious, if true strange tales" ,Author: "gaskell, elizabeth cleghorn, 1810-1865" ,Language: en ,DownloadCount: 243
+SUCCESS: FileName: 26521.txt ,Title: earthmen bearing gifts ,Author: "brown, fredric, 1906-1972" ,Language: en ,DownloadCount: 233
+SUCCESS: FileName: 27462.txt ,Title: the last evolution ,Author: "campbell, john wood, 1910-1971" ,Language: en ,DownloadCount: 295
+SUCCESS: FileName: 2777.txt ,Title: cabbages and kings ,Author: "henry, o., 1862-1910" ,Language: en ,DownloadCount: 325
+SUCCESS: FileName: 29948.txt ,Title: two timer ,Author: "brown, fredric, 1906-1972" ,Language: en ,DownloadCount: 264
+SUCCESS: FileName: 3815.txt ,Title: rolling stones ,Author: "henry, o., 1862-1910" ,Language: en ,DownloadCount: 224
+SUCCESS: FileName: 8129.txt ,Title: a dreamer's tales ,Author: "dunsany, edward john moreton drax plunkett, baron, 1878-1957" ,Language: en ,DownloadCount: 298
+FAILURE:FileName: 12417.txt ,Title: fishin' jimmy ,Author: "slosson, annie trumbull, 1838-1926" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 14855.txt ,Title: a few short sketches ,Author: "sherley, douglass, 1857-1917" ,Language: en ,DownloadCount: 3
+FAILURE:FileName: 15095.txt ,Title: the story of a picture ,Author: "sherley, douglass, 1857-1917" ,Language: en ,DownloadCount: 6
+FAILURE:FileName: 19989.txt ,Title: story-tell lib ,Author: "slosson, annie trumbull, 1838-1926" ,Language: en ,DownloadCount: 2
+FAILURE:FileName: 22703.txt ,Title: hooking watermelons 1898 ,Author: "bellamy, edward, 1850-1898" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 22704.txt ,Title: to whom this may come 1898 ,Author: "bellamy, edward, 1850-1898" ,Language: en ,DownloadCount: 8
+FAILURE:FileName: 23011.txt ,Title: eatin' crow; and the best man in garotte ,Author: "harris, frank, 1856-1931" ,Language: en ,DownloadCount: 9
+FAILURE:FileName: 23167.txt ,Title: the man in the reservoir ,Author: "hoffman, charles fenno, 1806-1884" ,Language: en ,DownloadCount: 4
+FAILURE:FileName: 23177.txt ,Title: the inmate of the dungeon 1894 ,Au

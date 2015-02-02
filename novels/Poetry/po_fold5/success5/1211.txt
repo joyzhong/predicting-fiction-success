@@ -1,0 +1,5002 @@
+preface
+robert herrick - born 1591 : died 1674
+those who most admire the poet from whose many pieces a selection only
+is here offered, will, it is probable, feel most strongly (with
+the editor) that excuse is needed for an attempt of an obviously
+presumptuous nature. the choice made by any selector invites challenge:
+the admission, perhaps, of some poems, the absence of more, will be
+censured:--whilst others may wholly condemn the process, in virtue of an
+argument not unfrequently advanced of late, that a writer's judgment on
+his own work is to be considered final. and his book to be taken as he
+left it, or left altogether; a literal reproduction of the original text
+being occasionally included in this requirement.
+if poetry were composed solely for her faithful band of true lovers and
+true students, such a facsimile as that last indicated would have claims
+irresistible; but if the first and last object of this, as of the other
+fine arts, may be defined in language borrowed from a different range
+of thought, as 'the greatest pleasure of the greatest number,' it is
+certain that less stringent forms of reproduction are required and
+justified. the great majority of readers cannot bring either leisure or
+taste, or information sufficient to take them through a large mass (at
+any rate) of ancient verse, not even if it be spenser's or milton's.
+manners and modes of speech, again, have changed; and much that was
+admissible centuries since, or at least sought admission, has now, by
+a law against which protest is idle, lapsed into the indecorous. even
+unaccustomed forms of spelling are an effort to the eye;--a kind of
+friction, which diminishes the ease and enjoyment of the reader.
+these hindrances and clogs, of very diverse nature, cannot be
+disregarded by poetry. in common with everything which aims at human
+benefit, she must work not only for the 'faithful': she has also the
+duty of 'conversion.' like a messenger from heaven, it is hers to
+inspire, to console, to elevate: to convert the world, in a word, to
+herself. every rough place that slackens her footsteps must be made
+smooth; nor, in this art, need there be fear that the way will ever
+be vulgarized by too much ease, nor that she will be loved less by the
+elect, for being loved more widely.
+passing from these general considerations, it is true that a selection
+framed in conformity with them, especially if one of our older poets be
+concerned, parts with a certain portion of the pleasure which poetry may
+confer. a writer is most thoroughly to be judged by the whole of what
+he printed. a selector inevitably holds too despotic a position over
+his author. the frankness of speech which we have abandoned is an
+interesting evidence how the tone of manners changes. the poet's own
+spelling and punctuation bear, or may bear, a gleam of his personality.
+but such last drops of pleasure are the reward of fully-formed taste;
+and fully-formed taste cannot be reached without full knowledge.
+this, we have noticed, most readers cannot bring. hence, despite all
+drawbacks, an anthology may have its place. a book which tempts many to
+read a little, will guide some to that more profound and loving study of
+which the result is, the full accomplishment of the poet's mission.
+we have, probably, no poet to whom the reasons here advanced to justify
+the invidious task of selection apply more fully and forcibly than to
+herrick. highly as he is to be rated among our lyrists, no one who reads
+through his fourteen hundred pieces can reasonably doubt that whatever
+may have been the influences,--wholly unknown to us,--which determined
+the contents of his volume, severe taste was not one of them. pecat
+fortiter:--his exquisite directness and simplicity of speech repeatedly
+take such form that the book cannot be offered to a very large number of
+those readers who would most enjoy it. the spelling is at once arbitrary
+and obsolete. lastly, the complete reproduction of the original text,
+with explanatory notes, edited by mr grosart, supplies materials equally
+full and interesting for those who may, haply, be allured by this little
+book to master one of our most attractive poets in his integrity.
+in herrick's single own edition of hesperides and noble numbers, but
+little arrangement is traceable: nor have we more than a few internal
+signs of date in composition. it would hence be unwise to attempt
+grouping the poems on a strict plan: and the divisions under which they
+are here ranged must be regarded rather as progressive aspects of a
+landscape than as territorial demarcations. pieces bearing on the poet
+as such are placed first; then, those vaguely definable as of idyllic
+character, 'his girls,' epigrams, poems on natural objects, on character
+and life; lastly, a few in his religious vein. for the text, although
+reference has been made to the original of 1647-8, mr grosart's
+excellent reprint has been mainly followed. and to that edition this
+book is indebted for many valuable exegetical notes, kindly placed at
+the editor's disposal. but for much fuller elucidation both of words
+and allusions, and of the persons mentioned, readers are referred to mr
+grosart's volumes, which (like the same scholar's 'sidney' and 'donne'),
+for the first time give herrick a place among books not printed only,
+but edited.
+robert herrick's personal fate is in one point like shakespeare's.
+we know or seem to know them both, through their works, with singular
+intimacy. but with this our knowledge substantially ends. no private
+letter of shakespeare, no record of his conversation, no account of the
+circumstances in which his writings were published, remains: hardly
+any statement how his greatest contemporaries ranked him. a group of
+herrick's youthful letters on business has, indeed, been preserved;
+of his life and studies, of his reputation during his own time, almost
+nothing. for whatever facts affectionate diligence could now gather.
+readers are referred to mr grosart's 'introduction.' but if, to
+supplement the picture, inevitably imperfect, which this gives, we turn
+to herrick's own book, we learn little, biographically, except the
+names of a few friends,--that his general sympathies were with the
+royal cause,--and that he wearied in devonshire for london. so far as is
+known, he published but this one volume, and that, when not far from his
+sixtieth year. some pieces may be traced in earlier collections; some
+few carry ascertainable dates; the rest lie over a period of near forty
+years, during a great portion of which we have no distinct account where
+herrick lived, or what were his employments. we know that he shone with
+ben jonson and the wits at the nights and suppers of those gods of our
+glorious early literature: we may fancy him at beaumanor, or houghton,
+with his uncle and cousins, keeping a leicestershire christmas in the
+manor-house: or, again, in some sweet southern county with julia and
+anthea, corinna and dianeme by his side (familiar then by other names
+now never to be remembered), sitting merry, but with just the sadness of
+one who hears sweet music, in some meadow among his favourite flowers of
+spring-time;--there, or 'where the rose lingers latest.' .... but 'the
+dream, the fancy,' is all that time has spared us. and if it be curious
+that his contemporaries should have left so little record of this
+delightful poet and (as we should infer from the book) genial-hearted
+man, it is not less so that the single first edition should have
+satisfied the seventeenth century, and that, before the present, notices
+of herrick should be of the rarest occurrence.
+the artist's 'claim to exist' is, however, always far less to be looked
+for in his life, than in his art, upon the secret of which the fullest
+biography can tell us little--as little, perhaps, as criticism can
+analyse its charm. but there are few of our poets who stand less in need
+than herrick of commentaries of this description,--in which too often we
+find little more than a dull or florid prose version of what the author
+has given us admirably in verse. apart from obsolete words or allusions,
+herrick is the best commentator upon herrick. a few lines only need
+therefore here be added, aiming rather to set forth his place in the
+sequence of english poets, and especially in regard to those near his
+own time, than to point out in detail beauties which he unveils in his
+own way, and so most durably and delightfully.
+when our muses, silent or sick for a century and more after chaucer's
+death, during the years of war and revolution, reappeared, they brought
+with them foreign modes of art, ancient and contemporary, in the forms
+of which they began to set to music the new material which the age
+supplied. at the very outset, indeed, the moralizing philosophy which
+has characterized the english from the beginning of our national
+history, appears in the writers of the troubled times lying between the
+last regnal years of henry viii and the first of his great daughter. but
+with the happier hopes of elizabeth's accession, poetry was once more
+distinctly followed, not only as a means of conveying thought, but as a
+fine art. and hence something constrained and artificial blends with
+the freshness of the elizabethan literature. for its great underlying
+elements it necessarily reverts to those embodied in our own earlier
+poets, chaucer above all, to whom, after barely one hundred and fifty
+years, men looked up as a father of song: but in points of style
+and treatment, the poets of the sixteenth century lie under a double
+external influence--that of the poets of greece and rome (known
+either in their own tongues or by translation), and that of the modern
+literatures which had themselves undergone the same classical impulse.
+italy was the source most regarded during the more strictly elizabethan
+period; whence its lyrical poetry and the dramatic in a less degree, are
+coloured much less by pure and severe classicalism with its closeness
+to reality, than by the allegorical and elaborate style, fancy and fact
+curiously blended, which had been generated in italy under the peculiar
+and local circumstances of her pilgrimage in literature and art from
+the age of dante onwards. whilst that influence lasted, such brilliant
+pictures of actual life, such directness, movement, and simplicity
+in style, as chaucer often shows, were not yet again attainable: and
+although satire, narrative, the poetry of reflection, were meanwhile
+not wholly unknown, yet they only appear in force at the close of this
+period. and then also the pressure of political and religious strife,
+veiled in poetry during the greater part of elizabeth's actual reign
+under the forms of pastoral and allegory, again imperiously breaks
+in upon the gracious but somewhat slender and artificial fashions of
+england's helicon: the divom numen, sedesque quietae which, in some
+degree the elizabethan poets offer, disappear; until filling the
+central years of the seventeenth century we reach an age as barren for
+inspiration of new song as the wars of the roses; although the great
+survivors from earlier years mask this sterility;--masking also the
+revolution in poetical manner and matter which we can see secretly
+preparing in the later 'cavalier' poets, but which was not clearly
+recognised before the time of dryden's culmination.
+in the period here briefly sketched, what is herrick's portion? his
+verse is eminent for sweet and gracious fluency; this is a real note of
+the 'elizabethan' poets. his subjects are frequently pastoral, with a
+classical tinge, more or less slight, infused; his language, though not
+free from exaggeration, is generally free from intellectual conceits
+and distortion, and is eminent throughout for a youthful naivete. such,
+also, are qualities of the latter sixteenth century literature. but if
+these characteristics might lead us to call herrick 'the last of the
+elizabethans,' born out of due time, the differences between him and
+them are not less marked. herrick's directness of speech is accompanied
+by an equally clear and simple presentment of his thought; we have,
+perhaps, no poet who writes more consistently and earnestly with his
+eye upon his subject. an allegorical or mystical treatment is alien
+from him: he handles awkwardly the few traditional fables which he
+introduces. he is also wholly free from italianizing tendencies: his
+classicalism even is that of an english student,--of a schoolboy,
+indeed, if he be compared with a jonson or a milton. herrick's personal
+eulogies on his friends and others, further, witness to the extension
+of the field of poetry after elizabeth's age;--in which his enthusiastic
+geniality, his quick and easy transitions of subject, have also little
+precedent.
+if, again, we compare herrick's book with those of his fellow-poets
+for a hundred years before, very few are the traces which he gives of
+imitation, or even of study. during the long interval between herrick's
+entrance on his cambridge and his clerical careers (an interval all but
+wholly obscure to us), it is natural to suppose that he read, at
+any rate, his elizabethan predecessors: yet (beyond those general
+similarities already noticed) the editor can find no positive proof of
+familiarity. compare herrick with marlowe, greene, breton, drayton,
+or other pretty pastoralists of the helicon--his general and radical
+unlikeness is what strikes us; whilst he is even more remote from the
+passionate intensity of sidney and shakespeare, the italian graces of
+spenser, the pensive beauty of parthenophil, of diella, of fidessa, of
+the hecatompathia and the tears of fancy.
+nor is herrick's resemblance nearer to many of the contemporaries who
+have been often grouped with him. he has little in common with
+the courtly elegance, the learned polish, which too rarely redeem
+commonplace and conceits in carew, habington, lovelace, cowley, or
+waller. herrick has his concetti also: but they are in him generally
+true plays of fancy; he writes throughout far more naturally than these
+lyrists, who, on the other hand, in their unfrequent successes reach a
+more complete and classical form of expression. thus, when carew speaks
+of an aged fair one
+when beauty, youth, and all sweets leave her,
+love may return, but lovers never!
+cowley, of his mistress--
+love in her sunny eyes does basking play,
+love walks the pleasant mazes of her hair:
+or take lovelace, 'to lucasta,' waller, in his 'go, lovely rose,'--we
+have a finish and condensation which herrick hardly attains; a literary
+quality alien from his 'woodnotes wild,' which may help us to understand
+the very small appreciation he met from his age. he had 'a pretty
+pastoral gale of fancy,' said phillips, cursorily dismissing herrick in
+his theatrum: not suspecting how inevitably artifice and mannerism, if
+fashionable for awhile, pass into forgetfulness, whilst the simple cry
+of nature partake in her permanence.
+donne and marvell, stronger men, leave also no mark on our poet. the
+elaborate thought, the metrical harshness of the first, could find no
+counterpart in herrick; whilst marvell, beyond him in imaginative power,
+though twisting it too often into contortion and excess, appears to have
+been little known as a lyrist then:--as, indeed, his great merits have
+never reached anything like due popular recognition. yet marvell's
+natural description is nearer herrick's in felicity and insight than any
+of the poets named above. nor, again, do we trace anything of herbert
+or vaughan in herrick's noble numbers, which, though unfairly judged if
+held insincere, are obviously far distant from the intense conviction,
+the depth and inner fervour of his high-toned contemporaries.
+it is among the great dramatists of this age that we find the only
+english influences palpably operative on this singularly original
+writer. the greatest, in truth, is wholly absent: and it is remarkable
+that although herrick may have joined in the wit-contests and
+genialities of the literary clubs in london soon after shakespeare's
+death, and certainly lived in friendship with some who had known him,
+yet his name is never mentioned in the poetical commemorations of the
+hesperides. in herrick, echoes from fletcher's idyllic pieces in the
+faithful shepherdess are faintly traceable; from his songs, 'hear
+what love can do,' and 'the lusty spring,' more distinctly. but to ben
+jonson, whom herrick addresses as his patron saint in song, and ranks
+on the highest list of his friends, his obligations are much more
+perceptible. in fact, jonson's non-dramatic poetry,--the epigrams and
+forest of 1616, the underwoods of 1641, (he died in 1637),--supply
+models, generally admirable in point of art, though of very unequal
+merit in their execution and contents, of the principal forms under
+which we may range herrick's hesperides. the graceful love-song, the
+celebration of feasts and wit, the encomia of friends, the epigram
+as then understood, are all here represented: even herrick's vein in
+natural description is prefigured in the odes to penshurst and sir
+robert wroth, of 1616. and it is in the religious pieces of the noble
+numbers, for which jonson afforded the least copious precedents, that,
+as a rule, herrick is least successful.
+even if we had not the verses on his own book, (the most noteworthy
+of which are here printed as prefatory,) in proof that herrick was no
+careless singer, but a true artist, working with conscious knowledge of
+his art, we might have inferred the fact from the choice of jonson as
+his model. that great poet, as clarendon justly remarked, had 'judgment
+to order and govern fancy, rather than excess of fancy: his productions
+being slow and upon deliberation.' no writer could be better fitted for
+the guidance of one so fancy-free as herrick; to whom the curb, in the
+old phrase, was more needful than the spur, and whose invention, more
+fertile and varied than jonson's, was ready at once to fill up
+the moulds of form provided. he does this with a lively facility,
+contrasting much with the evidence of labour in his master's work.
+slowness and deliberation are the last qualities suggested by herrick.
+yet it may be doubted whether the volatile ease, the effortless grace,
+the wild bird-like fluency with which he
+scatters his loose notes in the waste of air
+are not, in truth, the results of exquisite art working in cooperation
+with the gifts of nature. the various readings which our few remaining
+manuscripts or printed versions have supplied to mr grosart's
+'introduction,' attest the minute and curious care with which herrick
+polished and strengthened his own work: his airy facility, his seemingly
+spontaneous melodies, as with shelley--his counterpart in pure lyrical
+art within this century--were earned by conscious labour; perfect
+freedom was begotten of perfect art;--nor, indeed, have excellence and
+permanence any other parent.
+with the error that regards herrick as a careless singer is closely
+twined that which ranks him in the school of that master of elegant
+pettiness who has usurped and abused the name anacreon; as a mere
+light-hearted writer of pastorals, a gay and frivolous renaissance
+amourist. he has indeed those elements: but with them is joined the
+seriousness of an age which knew that the light mask of classicalism and
+bucolic allegory could be worn only as an ornament, and that life held
+much deeper and further-reaching issues than were visible to the narrow
+horizons within which horace or martial circumscribed the range of their
+art. between the most intensely poetical, and so, greatest, among the
+french poets of this century, and herrick, are many points of likeness.
+he too, with alfred de musset, might have said
+quoi que nous puissions faire,
+je souffre; il est trop tard; le monde s'est fait vieux.
+une immense esperance a traverse la terre;
+malgre nous vers le ciel il faut lever les yeux.
+indeed, herrick's deepest debt to ancient literature lies not in the
+models which he directly imitated, nor in the anacreontic tone which
+with singular felicity he has often taken. these are common to many
+writers with him:--nor will he who cannot learn more from the great
+ancient world ever rank among poets of high order, or enter the
+innermost sanctuary of art. but, the power to describe men and things as
+the poet sees them with simple sincerity, insight, and grace: to paint
+scenes and imaginations as perfect organic wholes;--carrying with it the
+gift to clothe each picture, as if by unerring instinct, in fit metrical
+form, giving to each its own music; beginning without affectation,
+and rounding off without effort;--the power, in a word, to leave
+simplicity, sanity, and beauty as the last impressions lingering on our
+minds, these gifts are at once the true bequest of classicalism, and the
+reason why (until modern effort equals them) the study of that hellenic
+and latin poetry in which these gifts are eminent above all other
+literatures yet created, must be essential. and it is success in
+precisely these excellences which is here claimed for herrick. he is
+classical in the great and eternal sense of the phrase: and much more
+so, probably, than he was himself aware of. no poet in fact is so far
+from dwelling in a past or foreign world: it is the england, if not of
+1648, at least of his youth, in which he lives and moves and loves: his
+bucolics show no trace of sicily: his anthea and julia wear no 'buckles
+of the purest gold,' nor have anything about them foreign to middlesex
+or devon. herrick's imagination has no far horizons: like burns and
+crabbe fifty years since, or barnes (that exquisite and neglected
+pastoralist of fair dorset, perfect within his narrower range as
+herrick) to-day, it is his own native land only which he sees and
+paints: even the fairy world in which, at whatever inevitable interval,
+he is second to shakespeare, is pure english; or rather, his elves live
+in an elfin county of their own, and are all but severed from humanity.
+within that greater circle of shakespeare, where oberon and ariel and
+their fellows move, aiding or injuring mankind, and reflecting human
+life in a kind of unconscious parody, herrick cannot walk: and it may
+have been due to his good sense and true feeling for art, that here,
+where resemblance might have seemed probable, he borrows nothing from
+midsummer night's dream or tempest. if we are moved by the wider range
+of byron's or shelley's sympathies, there is a charm, also, in this
+sweet insularity of herrick; a narrowness perhaps, yet carrying with
+it a healthful reality absent from the vapid and artificial
+'cosmopolitanism' that did such wrong on goethe's genius. if he has
+not the exotic blooms and strange odours which poets who derive from
+literature show in their conservatories, herrick has the fresh breeze
+and thyme-bed fragrance of open moorland, the grace and greenery of
+english meadows: with homer and dante, he too shares the strength and
+inspiration which come from touch of a man's native soil.
+what has been here sketched is not planned so much as a criticism in
+form on herrick's poetry as an attempt to seize his relations to his
+predecessors and contemporaries. if we now tentatively inquire what
+place may be assigned to him in our literature at large, herrick has no
+single lyric to show equal, in pomp of music, brilliancy of diction, or
+elevation of sentiment to some which spenser before, milton in his own
+time, dryden and gray, wordsworth and shelley, since have given us.
+nor has he, as already noticed, the peculiar finish and reserve (if
+the phrase may be allowed) traceable, though rarely, in ben jonson and
+others of the seventeenth century. he does not want passion; yet
+his passion wants concentration: it is too ready, also, to dwell on
+externals: imagination with him generally appears clothed in forms
+of fancy. among his contemporaries, take crashaw's 'wishes': sir j.
+beaumont's elegy on his child gervase: take bishop king's 'surrender':
+my once-dear love!--hapless, that i no more
+must call thee so. . . . the rich affection's store
+that fed our hopes, lies now exhaust and spent,
+like sums of treasure unto bankrupts lent:--
+we that did nothing study but the way
+to love each other, with which thoughts the day
+rose with delight to us, and with them set,
+must learn the hateful art, how to forget!
+--fold back our arms, take home our fruitless loves,
+that must new fortunes try, like turtle doves
+dislodged from their haunts. we must in tears
+unwind a love knit up in many years.
+in this one kiss i here surrender thee
+back to thyself:  so thou again art free:--
+take eight lines by some old unknown northern singer:
+when i think on the happy days
+i spent wi' you, my dearie,
+and now what lands between us lie,
+how can i be but eerie!
+how slow ye move, ye heavy hours,
+as ye were wae and weary!
+it was na sae ye glinted by
+when i was wi' my dearie:--
+--o! there is an intensity here, a note of passion beyond the deepest of
+herrick's. this tone (whether from temperament or circumstance or
+scheme of art), is wanting to the hesperides and noble numbers: nor does
+herrick's lyre, sweet and varied as it is, own that purple chord,
+that more inwoven harmony, possessed by poets of greater depth and
+splendour,--by shakespeare and milton often, by spenser more rarely.
+but if we put aside these 'greater gods' of song, with sidney,--in the
+editor's judgment herrick's mastery (to use a brief expression), both
+over nature and over art, clearly assigns to him the first place as
+lyrical poet, in the strict and pure sense of the phrase, among all
+who flourished during the interval between henry v and a hundred years
+since. single pieces of equal, a few of higher, quality, we have,
+indeed, meanwhile received, not only from the master-singers who did not
+confine themselves to the lyric, but from many poets--some the unknown
+contributors to our early anthologies, then jonson, marvell, waller,
+collins, and others, with whom we reach the beginning of the wider sweep
+which lyrical poetry has since taken. yet, looking at the whole work,
+not at the selected jewels, of this great and noble multitude, herrick,
+as lyrical poet strictly, offers us by far the most homogeneous,
+attractive, and varied treasury. no one else among lyrists within the
+period defined, has such unfailing freshness: so much variety within
+the sphere prescribed to himself: such closeness to nature, whether
+in description or in feeling: such easy fitness in language: melody so
+unforced and delightful. his dull pages are much less frequent: he has
+more lines, in his own phrase, 'born of the royal blood': the
+inflata rore non achaico verba
+are rarer with him: although superficially mannered, nature is so much
+nearer to him, that far fewer of his pieces have lost vitality and
+interest through adherence to forms of feeling or fashions of thought
+now obsolete. a roman contemporary is described by the younger pliny in
+words very appropriate to herrick: who, in fact, if greek in respect
+of his method and style, in the contents of his poetry displays the
+'frankness of nature and vivid sense of life' which criticism assigns
+as marks of the great roman poets. facit versus, quales catullus aut
+calvus. quantum illis leporis, dulcedinis, amaritudinis amoris! inserit
+sane, sed data opera, mollibus lenibusque duriusculos quosdam; et
+hoc, quasi catullus aut calvus. many pieces have been, here refused
+admittance, whether from coarseness of phrase or inferior value: yet
+these are rarely defective in the lyrical art, which, throughout the
+writer's work, is so simple and easy as almost to escape notice through
+its very excellence. in one word, herrick, in a rare and special sense,
+is unique.
+to these qualities we may, perhaps, ascribe the singular neglect which,
+so far as we may infer, he met with in his own age, and certainly in
+the century following. for the men of the restoration period he was
+too natural, too purely poetical: he had not the learned polish, the
+political allusion, the tone of the city, the didactic turn, which were
+then and onwards demanded from poetry. in the next age, no tradition
+consecrated his name; whilst writers of a hundred years before were then
+too remote for familiarity, and not remote enough for reverence. moving
+on to our own time, when some justice has at length been conceded to
+him, herrick has to meet the great rivalry of the poets who, from burns
+and cowper to tennyson, have widened and deepened the lyrical sphere,
+making it at once on the one hand more intensely personal, on the other,
+more free and picturesque in the range of problems dealt with: whilst at
+the same time new and richer lyrical forms, harmonies more intricate and
+seven-fold, have been created by them, as in hellas during her golden
+age of song, to embody ideas and emotions unknown or unexpressed under
+tudors and stuarts. to this latter superiority herrick would, doubtless,
+have bowed, as he bowed before ben jonson's genius. 'rural ditties,' and
+'oaten flute' cannot bear the competition of the full modern orchestra.
+yet this author need not fear! that exquisite: and lofty pleasure which
+it is the first and the last aim of all true art to give, must, by its
+own nature, be lasting also. as the eyesight fluctuates, and gives the
+advantage to different colours in turn, so to the varying moods of the
+mind the same beauty does not always seem equally beautiful. thus from
+the 'purple light' of our later poetry there are hours in which we
+may look to the daffodil and rose-tints of herrick's old arcadia, for
+refreshment and delight. and the pleasure which he gives is as eminently
+wholesome as pleasurable. like the holy river of virgil, to the souls
+who drink of him, herrick offers 'securos latices.' he is conspicuously
+free from many of the maladies incident to his art. here is no
+overstrain, no spasmodic cry, so wire-drawn analysis or sensational
+rhetoric, no music without sense, no mere second-hand literary
+inspiration, no mannered archaism:--above all, no sickly sweetness, no
+subtle, unhealthy affectation. throughout his work, whether when it is
+strong, or in the less worthy portions, sanity, sincerity, simplicity,
+lucidity, are everywhere the characteristics of herrick: in these, not
+in his pretty pagan masquerade, he shows the note,--the only genuine
+note,--of hellenic descent. hence, through whatever changes and fashions
+poetry may pass, her true lovers he is likely to 'please now, and please
+for long.' his verse, in the words of a poet greater than himself, is of
+that quality which 'adds sunlight to daylight'; which is able to 'make
+the happy happier.' he will, it may be hoped, carry to the many englands
+across the seas, east and west, pictures of english life exquisite
+in truth and grace:--to the more fortunate inhabitants (as they must
+perforce hold themselves!) of the old country, her image, as she was two
+centuries since, will live in the 'golden apples' of the west, offered
+to us by this sweet singer of devonshire. we have greater poets, not a
+few; none more faithful to nature as he saw her, none more perfect in
+his art;--none, more companionable:--
+f. t. p.
+dec. 1876
+c h r y s o m e l a
+a selection from the lyrical poems of robert herrick
+prefatory
+1. the argument of his book
+i sing of brooks, of blossoms, birds, and bowers,
+of april, may, of june, and july-flowers;
+i sing of may-poles, hock-carts, wassails, wakes,
+of bride-grooms, brides, and of their bridal-cakes.
+i write of youth, of love;--and have access
+by these, to sing of cleanly wantonness;
+i sing of dews, of rains, and, piece by piece,
+of balm, of oil, of spice, and ambergris.
+i sing of times trans-shifting; and i write
+how roses first came red, and lilies white.
+i write of groves, of twilights, and i sing
+the court of mab, and of the fairy king.
+i write of hell; i sing, and ever shall
+of heaven,--and hope to have it after all.
+2. to his muse
+whither, mad maiden, wilt thou roam?
+far safer 'twere to stay at home;
+where thou mayst sit, and piping, please
+the poor and private cottages.
+since cotes and hamlets best agree
+with this thy meaner minstrelsy.
+there with the reed thou mayst express
+the shepherd's fleecy happiness;
+and with thy eclogues intermix:
+some smooth and harmless bucolics.
+there, on a hillock, thou mayst sing
+unto a handsome shepherdling;
+or to a girl, that keeps the neat,
+with breath more sweet than violet.
+there, there, perhaps such lines as these
+may take the simple villages;
+but for the court, the country wit
+is despicable unto it.
+stay then at home, and do not go
+or fly abroad to seek for woe;
+contempts in courts and cities dwell
+no critic haunts the poor man's cell,
+where thou mayst hear thine own lines read
+by no one tongue there censured.
+that man's unwise will search for ill,
+and may prevent it, sitting still.
+3. when he would have his verses read
+in sober mornings, do not thou rehearse
+the holy incantation of a verse;
+but when that men have both well drunk, and fed,
+let my enchantments then be sung or read.
+when laurel spirts i' th' fire, and when the hearth
+smiles to itself, and gilds the roof with mirth;
+when up the thyrse is raised, and when the sound
+of sacred orgies, flies a round, a round;
+when the rose reigns, and locks with ointments shine,
+let rigid cato read these lines of mine.
+4. to his book
+make haste away, and let one be
+a friendly patron unto thee;
+lest, rapt from hence, i see thee lie
+torn for the use of pastery;
+or see thy injured leaves serve well
+to make loose gowns for mackarel;
+or see the grocers, in a trice,
+make hoods of thee to serve out spice.
+5. to his book
+take mine advice, and go not near
+those faces, sour as vinegar;
+for these, and nobler numbers, can
+ne'er please the supercilious man.
+6. to his book
+be bold, my book, nor be abash'd, or fear
+the cutting thumb-nail, or the brow severe;
+but by the muses swear, all here is good,
+if but well read, or ill read, understood.
+7. to mistress katharine bradshaw, the lovely, that crowned him with laurel
+my muse in meads has spent her many hours
+sitting, and sorting several sorts of flowers,
+to make for others garlands; and to set
+on many a head here, many a coronet.
+but amongst all encircled here, not one
+gave her a day of coronation;
+till you, sweet mistress, came and interwove
+a laurel for her, ever young as love.
+you first of all crown'd her; she must, of due,
+render for that, a crown of life to you.
+8. to his verses
+what will ye, my poor orphans, do,
+when i must leave the world and you;
+who'll give ye then a sheltering shed,
+or credit ye, when i am dead?
+who'll let ye by their fire sit,
+although ye have a stock of wit,
+already coin'd to pay for it?
+--i cannot tell:  unless there be
+some race of old humanity
+left, of the large heart and long hand,
+alive, as noble westmorland;
+or gallant newark; which brave two
+may fost'ring fathers be to you.
+if not, expect to be no less
+ill used, than babes left fatherless.
+9. not every day fit for verse
+'tis not ev'ry day that i
+fitted am to prophesy:
+no, but when the spirit fills
+the fantastic pannicles,
+full of fire, then i write
+as the godhead doth indite.
+thus enraged, my lines are hurl'd,
+like the sibyl's, through the world:
+look how next the holy fire
+either slakes, or doth retire;
+so the fancy cools:--till when
+that brave spirit comes again.
+10. his prayer to ben jonson
+when i a verse shall make,
+know i have pray'd thee,
+for old religion's sake,
+saint ben, to aid me
+make the way smooth for me,
+when, i, thy herrick,
+honouring thee on my knee
+offer my lyric.
+candles i'll give to thee,
+and a new altar;
+and thou, saint ben, shalt be
+writ in my psalter.
+11. his request to julia
+julia, if i chance to die
+ere i print my poetry,
+i most humbly thee desire
+to commit it to the fire:
+better 'twere my book were dead,
+than to live not perfected.
+12. to his book
+go thou forth, my book, though late,
+yet be timely fortunate.
+it may chance good luck may send
+thee a kinsman or a friend,
+that may harbour thee, when i
+with my fates neglected lie.
+if thou know'st not where to dwell,
+see, the fire's by.--farewell!
+13. his poetry his pillar
+only a little more
+i have to write:
+then i'll give o'er,
+and bid the world good-night.
+'tis but a flying minute,
+that i must stay,
+or linger in it:
+and then i must away.
+o time, that cut'st down all,
+and scarce leav'st here
+memorial
+of any men that were;
+--how many lie forgot
+in vaults beneath,
+and piece-meal rot
+without a fame in death?
+behold this living stone
+i rear for me,
+ne'er to be thrown
+down, envious time, by thee.
+pillars let some set up
+if so they please;
+here is my hope,
+and my pyramides.
+14. to his book
+if hap it must, that i must see thee lie
+absyrtus-like, all torn confusedly;
+with solemn tears, and with much grief of heart,
+i'll recollect thee, weeping, part by part;
+and having wash'd thee, close thee in a chest
+with spice; that done, i'll leave thee to thy rest.
+15. upon himself
+thou shalt not all die; for while love's fire shines
+upon his altar, men shall read thy lines;
+and learn'd musicians shall, to honour herrick's
+fame, and his name, both set and sing his lyrics.
+to his book's end this last line he'd have placed:--
+jocund his muse was, but his life was chaste.
+idyllica
+16. the country life:
+to the honoured mr endymion porter,
+groom of the bed-chamber to his majesty
+sweet country life, to such unknown,
+whose lives are others', not their own!
+but serving courts and cities, be
+less happy, less enjoying thee.
+thou never plough'st the ocean's foam
+to seek and bring rough pepper home:
+nor to the eastern ind dost rove
+to bring from thence the scorched clove:
+nor, with the loss of thy loved rest,
+bring'st home the ingot from the west.
+no, thy ambition's master-piece
+flies no thought higher than a fleece:
+or how to pay thy hinds, and clear
+all scores: and so to end the year:
+but walk'st about thine own dear bounds,
+not envying others' larger grounds:
+for well thou know'st, 'tis not th' extent
+of land makes life, but sweet content.
+when now the cock (the ploughman's horn)
+calls forth the lily-wristed morn;
+then to thy corn-fields thou dost go,
+which though well soil'd, yet thou dost know
+that the best compost for the lands
+is the wise master's feet, and hands.
+there at the plough thou find'st thy team,
+with a hind whistling there to them:
+and cheer'st them up, by singing how
+the kingdom's portion is the plough.
+this done, then to th' enamell'd meads
+thou go'st; and as thy foot there treads,
+thou seest a present god-like power
+imprinted in each herb and flower:
+and smell'st the breath of great-eyed kine,
+sweet as the blossoms of the vine.
+here thou behold'st thy large sleek neat
+unto the dew-laps up in meat:
+and, as thou look'st, the wanton steer,
+the heifer, cow, and ox draw near,
+to make a pleasing pastime there.
+these seen, thou go'st to view thy flocks
+of sheep, safe from the wolf and fox,
+and find'st their bellies there as full
+of short sweet grass, as backs with wool:
+and leav'st them, as they feed and fill,
+a shepherd piping on a hill.
+for sports, for pageantry, and plays,
+thou hast thy eves, and holydays:
+on which the young men and maids meet,
+to exercise their dancing feet:
+tripping the comely country round,
+with daffadils and daisies crown'd.
+thy wakes, thy quintels, here thou hast,
+thy may-poles too with garlands graced;
+thy morris-dance; thy whitsun-ale;
+thy shearing-feast, which never fail.
+thy harvest home; thy wassail bowl,
+that's toss'd up after fox i' th' hole:
+thy mummeries; thy twelve-tide kings
+and queens; thy christmas revellings:
+thy nut-brown mirth, thy russet wit,
+and no man pays too dear for it.--
+to these, thou hast thy times to go
+and trace the hare i' th' treacherous snow:
+thy witty wiles to draw, and get
+the lark into the trammel net:
+thou hast thy cockrood, and thy glade
+to take the precious pheasant made:
+thy lime-twigs, snares, and pit-falls then
+to catch the pilfering birds, not men.
+--o happy life!  if that their good
+the husbandmen but understood!
+who all the day themselves do please,
+and younglings, with such sports as these:
+and lying down, have nought t' affright
+sweet sleep, that makes more short the night.
+caetera desunt--
+17. to phillis, to love and live with him
+live, live with me, and thou shalt see
+the pleasures i'll prepare for thee:
+what sweets the country can afford
+shall bless thy bed, and bless thy board.
+the soft sweet moss shall be thy bed,
+with crawling woodbine over-spread:
+by which the silver-shedding streams
+shall gently melt thee into dreams.
+thy clothing next, shall be a gown
+made of the fleeces' purest down.
+the tongues of kids shall be thy meat;
+their milk thy drink; and thou shalt eat
+the paste of filberts for thy bread
+with cream of cowslips buttered:
+thy feasting-table shall be hills
+with daisies spread, and daffadils;
+where thou shalt sit, and red-breast by,
+for meat, shall give thee melody.
+i'll give thee chains and carcanets
+of primroses and violets.
+a bag and bottle thou shalt have,
+that richly wrought, and this as brave;
+so that as either shall express
+the wearer's no mean shepherdess.
+at shearing-times, and yearly wakes,
+when themilis his pastime makes,
+there thou shalt be; and be the wit,
+nay more, the feast, and grace of it.
+on holydays, when virgins meet
+to dance the heys with nimble feet,
+thou shalt come forth, and then appear
+the queen of roses for that year.
+and having danced ('bove all the best)
+carry the garland from the rest,
+in wicker-baskets maids shall bring
+to thee, my dearest shepherdling,
+the blushing apple, bashful pear,
+and shame-faced plum, all simp'ring there.
+walk in the groves, and thou shalt find
+the name of phillis in the rind
+of every straight and smooth-skin tree;
+where kissing that, i'll twice kiss thee.
+to thee a sheep-hook i will send,
+be-prank'd with ribbands, to this end,
+this, this alluring hook might be
+less for to catch a sheep, than me.
+thou shalt have possets, wassails fine,
+not made of ale, but spiced wine;
+to make thy maids and self free mirth,
+all sitting near the glitt'ring hearth.
+thou shalt have ribbands, roses, rings,
+gloves, garters, stockings, shoes, and strings
+of winning colours, that shall move
+others to lust, but me to love.
+--these, nay, and more, thine own shall be,
+if thou wilt love, and live with me.
+18. the wassail
+give way, give way, ye gates, and win
+an easy blessing to your bin
+and basket, by our entering in.
+may both with manchet stand replete;
+your larders, too, so hung with meat,
+that though a thousand, thousand eat,
+yet, ere twelve moons shall whirl about
+their silv'ry spheres, there's none may doubt
+but more's sent in than was served out.
+next, may your dairies prosper so,
+as that your pans no ebb may know;
+but if they do, the more to flow,
+like to a solemn sober stream,
+bank'd all with lilies, and the cream
+of sweetest cowslips filling them.
+then may your plants be press'd with fruit,
+nor bee or hive you have be mute,
+but sweetly sounding like a lute.
+last, may your harrows, shares, and ploughs,
+your stacks, your stocks, your sweetest mows,
+all prosper by your virgin-vows.
+--alas!  we bless, but see none here,
+that brings us either ale or beer;
+in a dry-house all things are near.
+let's leave a longer time to wait,
+where rust and cobwebs bind the gate;
+and all live here with needy fate;
+where chimneys do for ever weep
+for want of warmth, and stomachs keep
+with noise the servants' eyes from sleep.
+it is in vain to sing, or stay
+our free feet here, but we'll away:
+yet to the lares this we'll say:
+'the time will come when you'll be sad,
+'and reckon this for fortune bad,
+'t'ave lost the good ye might have had.'
+19. the fairies
+if ye will with mab find grace,
+set each platter in his place;
+rake the fire up, and get
+water in, ere sun be set.
+wash your pails and cleanse your dairies,
+sluts are loathsome to the fairies;
+sweep your house; who doth not so,
+mab will pinch her by the toe.
+20. ceremony upon candlemas eve
+down with the rosemary, and so
+down with the bays and misletoe;
+down with the holly, ivy, all
+wherewith ye dress'd the christmas hall;
+that so the superstitious find
+no one least branch there left behind;
+for look, how many leaves there be
+neglected there, maids, trust to me,
+so many goblins you shall see.
+21. ceremonies for candlemas eve
+down with the rosemary and bays,
+down with the misletoe;
+instead of holly, now up-raise
+the greener box, for show.
+the holly hitherto did sway;
+let box now domineer,
+until the dancing easter-day,
+or easter's eve appear.
+then youthful box, which now hath grace
+your houses to renew,
+grown old, surrender must his place
+unto the crisped yew.
+when yew is out, then birch comes in,
+and many flowers beside,
+both of a fresh and fragrant kin,
+to honour whitsuntide.
+green rushes then, and sweetest bents,
+with cooler oaken boughs,
+come in for comely ornaments,
+to re-adorn the house.
+thus times do shift; each thing his turn does hold;
+new things succeed, as former things grow old.
+22. the ceremonies for candlemas day
+kindle the christmas brand, and then
+till sunset let it burn;
+which quench'd, then lay it up again,
+till christmas next return.
+part must be kept, wherewith to teend
+the christmas log next year;
+and where 'tis safely kept, the fiend
+can do no mischief there.
+23. farewell frost, or welcome spring
+fled are the frosts, and now the fields appear
+reclothed in fresh and verdant diaper;
+thaw'd are the snows; and now the lusty spring
+gives to each mead a neat enamelling;
+the palms put forth their gems, and every tree
+now swaggers in her leafy gallantry.
+the while the daulian minstrel sweetly sings
+with warbling notes her terean sufferings.
+--what gentle winds perspire!  as if here
+never had been the northern plunderer
+to strip the trees and fields, to their distress,
+leaving them to a pitied nakedness.
+and look how when a frantic storm doth tear
+a stubborn oak or holm, long growing there,--
+but lull'd to calmness, then succeeds a breeze
+that scarcely stirs the nodding leaves of trees;
+so when this war, which tempest-like doth spoil
+our salt, our corn, our honey, wine, and oil,
+falls to a temper, and doth mildly cast
+his inconsiderate frenzy off, at last,
+the gentle dove may, when these turmoils cease,
+bring in her bill, once more, the branch of peace.
+24. to the maids, to walk abroad
+come, sit we under yonder tree,
+where merry as the maids we'll be;
+and as on primroses we sit,
+we'll venture, if we can, at wit;
+if not, at draw-gloves we will play,
+so spend some minutes of the day;
+or else spin out the thread of sands,
+playing at questions and commands:
+or tell what strange tricks love can do,
+by quickly making one of two.
+thus we will sit and talk, but tell
+no cruel truths of philomel,
+or phillis, whom hard fate forced on
+to kill herself for demophon;
+but fables we'll relate; how jove
+put on all shapes to get a love;
+as now a satyr, then a swan,
+a bull but then, and now a man.
+next, we will act how young men woo,
+and sigh and kiss as lovers do;
+and talk of brides; and who shall make
+that wedding-smock, this bridal-cake,
+that dress, this sprig, that leaf, this vine,
+that smooth and silken columbine.
+this done, we'll draw lots who shall buy
+and gild the bays and rosemary;
+what posies for our wedding rings;
+what gloves we'll give, and ribbonings;
+and smiling at our selves, decree
+who then the joining priest shall be;
+what short sweet prayers shall be said,
+and how the posset shall be made
+with cream of lilies, not of kine,
+and maiden's-blush for spiced wine.
+thus having talk'd, we'll next commend
+a kiss to each, and so we'll end.
+25. corina's going a maying
+get up, get up for shame!  the blooming morn
+upon her wings presents the god unshorn.
+see how aurora throws her fair
+fresh-quilted colours through the air:
+get up, sweet-slug-a-bed, and see
+the dew bespangling herb and tree.
+each flower has wept, and bow'd toward the east,
+above an hour since; yet you not drest,
+nay!  not so much as out of bed?
+when all the birds have matins said,
+and sung their thankful hymns:  'tis sin,
+nay, profanation, to keep in,--
+whenas a thousand virgins on this day,
+spring, sooner than the lark, to fetch in may.
+rise; and put on your foliage, and be seen
+to come forth, like the spring-time, fresh and green,
+and sweet as flora.  take no care
+for jewels for your gown, or hair:
+fear not; the leaves will strew
+gems in abundance upon you:
+besides, the childhood of the day has kept,
+against you come, some orient pearls unwept:
+come, and receive them while the light
+hangs on the dew-locks of the night:
+and titan on the eastern hill
+retires himself, or else stands still
+till you come forth.  wash, dress, be brief in praying:
+few beads are best, when once we go a maying.
+come, my corinna, come; and coming, mark
+how each field turns a street; each street a park
+made green, and trimm'd with trees:  see how
+devotion gives each house a bough
+or branch:  each porch, each door, ere this,
+an ark, a tabernacle is
+made up of white-thorn neatly interwove;
+as if here were those cooler shades of love.
+can such delights be in the street,
+and open fields, and we not see't?
+come, we'll abroad:  and let's obey
+the proclamation made for may:
+and sin no more, as we have done, by staying;
+but, my corinna, come, let's go a maying.
+there's not a budding boy, or girl, this day,
+but is got up, and gone to bring in may.
+a deal of youth, ere this, is come
+back, and with white-thorn laden home.
+some have dispatch'd their cakes and cream,
+before that we have left to dream:
+and some have wept, and woo'd, and plighted troth,
+and chose their priest, ere we can cast off sloth:
+many a green-gown has been given;
+many a kiss, both odd and even:
+many a glance, too, has been sent
+from out the eye, love's firmament:
+many a jest told of the keys betraying
+this night, and locks pick'd:--yet we're not a maying.
+--come, let us go, while we are in our prime;
+and take the harmless folly of the time!
+we shall grow old apace, and die
+before we know our liberty.
+our life is short; and our days run
+as fast away as does the sun:--
+and as a vapour, or a drop of rain
+once lost, can ne'er be found again:
+so when or you or i are made
+a fable, song, or fleeting shade;
+all love, all liking, all delight
+lies drown'd with us in endless night.
+--then while time serves, and we are but decaying,
+come, my corinna!  come, let's go a maying.
+26. the maypole
+the may-pole is up,
+now give me the cup;
+i'll drink to the garlands around it;
+but first unto those
+whose hands did compose
+the glory of flowers that crown'd it.
+a health to my girls,
+whose husbands may earls
+or lords be, granting my wishes,
+and when that ye wed
+to the bridal bed,
+then multiply all, like to fishes.
+27. the wake
+come, anthea, let us two
+go to feast, as others do:
+tarts and custards, creams and cakes,
+are the junkets still at wakes;
+unto which the tribes resort,
+where the business is the sport:
+morris-dancers thou shalt see,
+marian, too, in pageantry;
+and a mimic to devise
+many grinning properties.
+players there will be, and those
+base in action as in clothes;
+yet with strutting they will please
+the incurious villages.
+near the dying of the day
+there will be a cudgel-play,
+where a coxcomb will be broke,
+ere a good word can be spoke:
+but the anger ends all here,
+drench'd in ale, or drown'd in beer.
+--happy rusticks!  best content
+with the cheapest merriment;
+and possess no other fear,
+than to want the wake next year.
+28. the hock-cart, or harvest home:
+to the right honourable mildmay, earl of westmorland
+come, sons of summer, by whose toil
+we are the lords of wine and oil:
+by whose tough labours, and rough hands,
+we rip up first, then reap our lands.
+crown'd with the ears of corn, now come,
+and, to the pipe, sing harvest home.
+come forth, my lord, and see the cart
+drest up with all the country art.
+see, here a maukin, there a sheet,
+as spotless pure, as it is sweet:
+the horses, mares, and frisking fillies,
+clad, all, in linen white as lilies.
+the harvest swains and wenches bound
+for joy, to see the hock-cart crown'd.
+about the cart, hear, how the rout
+of rural younglings raise the shout;
+pressing before, some coming after,
+those with a shout, and these with laughter.
+some bless the cart; some kiss the sheaves;
+some prank them up with oaken leaves:
+some cross the fill-horse; some with great
+devotion, stroke the home-borne wheat:
+while other rustics, less attent
+to prayers, than to merriment,
+run after with their breeches rent.
+--well, on, brave boys, to your lord's hearth,
+glitt'ring with fire; where, for your mirth,
+ye shall see first the large and chief
+foundation of your feast, fat beef;
+with upper stories, mutton, veal
+and bacon, which makes full the meal,
+with sev'ral dishes standing by,
+as here a custard, there a pie,
+and here, all tempting frumenty.
+and for to make the merry cheer,
+if smirking wine be wanting here,
+there's that which drowns all care, stout beer:
+which freely drink to your lord's health
+then to the plough, the common-wealth;
+next to your flails, your fanes, your vats;
+then to the maids with wheaten hats:
+to the rough sickle, and crookt scythe,--
+drink, frolic, boys, till all be blythe.
+feed, and grow fat; and as ye eat,
+be mindful, that the lab'ring neat,
+as you, may have their fill of meat.
+and know, besides, ye must revoke
+the patient ox unto the yoke,
+and all go back unto the plough
+and harrow, though they're hang'd up now.
+and, you must know, your lord's word's true,
+feed him ye must, whose food fills you;
+and that this pleasure is like rain,
+not sent ye for to drown your pain,
+but for to make it spring again.
+29. the bride-cake
+this day, my julia, thou must make
+for mistress bride the wedding-cake:
+knead but the dough, and it will be
+to paste of almonds turn'd by thee;
+or kiss it thou but once or twice,
+and for the bride-cake there'll be spice.
+30. the old wives' prayer
+holy-rood, come forth and shield
+us i' th' city and the field;
+safely guard us, now and aye,
+from the blast that burns by day;
+and those sounds that us affright
+in the dead of dampish night;
+drive all hurtful fiends us fro,
+by the time the cocks first crow.
+31. the bell-man
+from noise of scare-fires rest ye free
+from murders, benedicite;
+from all mischances that may fright
+your pleasing slumbers in the night
+mercy secure ye all, and keep
+the goblin from ye, while ye sleep.
+--past one a clock, and almost two,--
+my masters all, 'good day to you.'
+33. to the genius of his house
+command the roof, great genius, and from thence
+into this house pour down thy influence,
+that through each room a golden pipe may run
+of living water by thy benizon;
+fulfil the larders, and with strength'ning bread
+be ever-more these bins replenished.
+next, like a bishop consecrate my ground,
+that lucky fairies here may dance their round;
+and, after that, lay down some silver pence,
+the master's charge and care to recompence.
+charm then the chambers; make the beds for ease,
+more than for peevish pining sicknesses;
+fix the foundation fast, and let the roof
+grow old with time, but yet keep weather-proof.
+33. his grange, or private wealth
+though clock,
+to tell how night draws hence, i've none,
+a cock
+i have to sing how day draws on:
+i have
+a maid, my prue, by good luck sent,
+to save
+that little, fates me gave or lent.
+a hen
+i keep, which, creeking day by day,
+tells when
+she goes her long white egg to lay:
+a goose
+i have, which, with a jealous ear,
+lets loose
+her tongue, to tell what danger's near.
+a lamb
+i keep, tame, with my morsels fed,
+whose dam
+an orphan left him, lately dead:
+a cat
+i keep, that plays about my house,
+grown fat
+with eating many a miching mouse:
+to these
+a trasy i do keep, whereby
+i please
+the more my rural privacy:
+which are
+but toys, to give my heart some ease:--
+where care
+none is, slight things do lightly please.
+34. a pastoral upon the birth of prince charles:
+presented to the king, and set by mr nic. laniere
+the speakers: mirtillo, amintas, and amarillis
+amin. good day, mirtillo.  mirt. and to you no less;
+and all fair signs lead on our shepherdess.
+amar. with all white luck to you.  mirt. but say,
+what news
+stirs in our sheep-walk?  amin. none, save that my
+ewes,
+my wethers, lambs, and wanton kids are well,
+smooth, fair, and fat; none better i can tell:
+or that this day menalchas keeps a feast
+for his sheep-shearers.  mirt. true, these are the least.
+but dear amintas, and sweet amarillis,
+rest but a while here by this bank of lilies;
+and lend a gentle ear to one report
+the country has.  amin. from whence?  amar. from
+whence?  mirt. the court.
+three days before the shutting-in of may,
+(with whitest wool be ever crown'd that day!)
+to all our joy, a sweet-faced child was born,
+more tender than the childhood of the morn.
+chorus:--pan pipe to him, and bleats of lambs and
+sheep
+let lullaby the pretty prince asleep!
+mirt. and that his birth should be more singular,
+at noon of day was seen a silver star,
+bright as the wise men's torch, which guided them
+to god's sweet babe, when born at bethlehem;
+while golden angels, some have told to me,
+sung out his birth with heav'nly minstrelsy.
+amin. o rare!  but is't a trespass, if we three
+should wend along his baby-ship to see?
+mirt. not so, not so.  chor. but if it chance to prove
+at most a fault, 'tis but a fault of love.
+amar.  but, dear mirtillo, i have heard it told,
+those learned men brought incense, myrrh, and gold,
+from countries far, with store of spices sweet,
+and laid them down for offerings at his feet.
+mirt. 'tis true, indeed; and each of us will bring
+unto our smiling and our blooming king,
+a neat, though not so great an offering.
+amar.  a garland for my gift shall be,
+of flowers ne'er suck'd by th' thieving bee;
+and all most sweet, yet all less sweet than he.
+amin. and i will bear along with you
+leaves dropping down the honied dew,
+with oaten pipes, as sweet, as new.
+mirt. and i a sheep-hook will bestow
+to have his little king-ship know,
+as he is prince, he's shepherd too.
+chor. come, let's away, and quickly let's be drest,
+and quickly give:--the swiftest grace is best.
+and when before him we have laid our treasures,
+we'll bless the babe:--then back to country pleasures.
+35. a dialogue betwixt himself and mistress eliza wheeler,
+under the name of amarillis
+my dearest love, since thou wilt go,
+and leave me here behind thee;
+for love or pity, let me know
+the place where i may find thee.
+amaril.  in country meadows, pearl'd with dew,
+and set about with lilies;
+there, filling maunds with cowslips, you
+may find your amarillis.
+her.  what have the meads to do with thee,
+or with thy youthful hours?
+live thou at court, where thou mayst be
+the queen of men, not flowers.
+let country wenches make 'em fine
+with posies, since 'tis fitter
+for thee with richest gems to shine,
+and like the stars to glitter.
+amaril.  you set too-high a rate upon
+a shepherdess so homely.
+her.  believe it, dearest, there's not one
+i' th' court that's half so comely.
+i prithee stay.  amaril.  i must away;
+let's kiss first, then we'll sever;
+ambo  and though we bid adieu to day,
+we shall not part for ever.
+36. a bucolic betwixt two;
+lacon and thyrsis
+lacon.  for a kiss or two, confess,
+what doth cause this pensiveness,
+thou most lovely neat-herdess?
+why so lonely on the hill?
+why thy pipe by thee so still,
+that erewhile was heard so shrill?
+tell me, do thy kine now fail
+to fulfil the milking-pail?
+say, what is't that thou dost ail?
+thyr.  none of these; but out, alas!
+a mischance is come to pass,
+and i'll tell thee what it was:
+see, mine eyes are weeping ripe.
+lacon.  tell, and i'll lay down my pipe.
+thyr.  i have lost my lovely steer,
+that to me was far more dear
+than these kine which i milk here;
+broad of forehead, large of eye,
+party-colour'd like a pye,
+smooth in each limb as a die;
+clear of hoof, and clear of horn,
+sharply pointed as a thorn;
+with a neck by yoke unworn,
+from the which hung down by strings,
+balls of cowslips, daisy rings,
+interplaced with ribbonings;
+faultless every way for shape;
+not a straw could him escape,
+ever gamesome as an ape,
+but yet harmless as a sheep.
+pardon, lacon, if i weep;
+tears will spring where woes are deep.
+now, ai me!  ai me!  last night
+came a mad dog, and did bite,
+ay, and kill'd my dear delight.
+lacon  alack, for grief!
+thyr.  but i'll be brief.
+hence i must, for time doth call
+me, and my sad playmates all,
+to his evening funeral.
+live long, lacon; so adieu!
+lacon mournful maid, farewell to you;
+earth afford ye flowers to strew!
+37. a pastoral sung to the king
+montano, silvio, and mirtillo, shepherds
+mon.  bad are the times.  sil.  and worse than they are we.
+mon.  troth, bad are both; worse fruit, and ill the tree:
+the feast of shepherds fail.  sil.  none crowns the cup
+of wassail now, or sets the quintel up:
+and he, who used to lead the country-round,
+youthful mirtillo, here he comes, grief-drown'd.
+ambo.  let's cheer him up.  sil. behold him weeping-ripe.
+mirt. ah, amarillis!  farewell mirth and pipe;
+since thou art gone, no more i mean to play
+to these smooth lawns, my mirthful roundelay.
+dear amarillis!  mon.  hark!  sil.  mark!  mirt.  this
+earth grew sweet
+where, amarillis, thou didst set thy feet.
+ambo  poor pitied youth!  mirt.  and here the breath
+of kine
+and sheep grew more sweet by that breath of thine.
+this dock of wool, and this rich lock of hair,
+this ball of cowslips, these she gave me here.
+sil.  words sweet as love itself.  mon.  hark!--
+mirt.  this way she came, and this way too she went;
+how each thing smells divinely redolent!
+like to a field of beans, when newly blown,
+or like a meadow being lately mown.
+mon.  a sweet sad passion----
+mirt.  in dewy mornings, when she came this way,
+sweet bents would bow, to give my love the day;
+and when at night she folded had her sheep,
+daisies would shut, and closing, sigh and weep.
+besides (ai me!) since she went hence to dwell,
+the voice's daughter ne'er spake syllable.
+but she is gone.  sil.  mirtillo, tell us whither?
+mirt.  where she and i shall never meet together.
+mon.  fore-fend it, pan!  and pales, do thou please
+to give an end...  mirt.  to what?  sil.  such griefs
+as these.
+mirt.  never, o never!  still i may endure
+the wound i suffer, never find a cure.
+mon.  love, for thy sake, will bring her to these hills
+and dales again.  mirt.  no, i will languish still;
+and all the while my part shall be to weep;
+and with my sighs call home my bleating sheep;
+and in the rind of every comely tree
+i'll carve thy name, and in that name kiss thee.
+mon.  set with the sun, thy woes!  sil.  the day
+grows old;
+and time it is our full-fed flocks to fold.
+chor.  the shades grow great; but greater grows
+our sorrow:--
+but let's go steep
+our eyes in sleep;
+and meet to weep
+to-morrow.
+38. to the willow-tree
+thou art to all lost love the best,
+the only true plant found,
+wherewith young men and maids distrest
+and left of love, are crown'd.
+when once the lover's rose is dead
+or laid aside forlorn,
+then willow-garlands, 'bout the head,
+bedew'd with tears, are worn.
+when with neglect, the lover's bane,
+poor maids rewarded be,
+for their love lost their only gain
+is but a wreath from thee.
+and underneath thy cooling shade,
+when weary of the light,
+the love-spent youth, and love-sick maid,
+come to weep out the night.
+39. the fairy temple; or, oberon's chapel
+dedicated to mr john merrifield,
+counsellor at law
+rare temples thou hast seen, i know,
+and rich for in and outward show;
+survey this chapel built, alone,
+without or lime, or wood, or stone.
+then say, if one thou'st seen more fine
+than this, the fairies' once, now thine.
+the temple
+a way enchaced with glass and beads
+there is, that to the chapel leads;
+whose structure, for his holy rest,
+is here the halcyon's curious nest;
+into the which who looks, shall see
+his temple of idolatry;
+where he of god-heads has such store,
+as rome's pantheon had not more.
+his house of rimmon this he calls,
+girt with small bones, instead of walls.
+first in a niche, more black than jet,
+his idol-cricket there is set;
+then in a polish'd oval by
+there stands his idol-beetle-fly;
+next, in an arch, akin to this,
+his idol-canker seated is.
+then in a round, is placed by these
+his golden god, cantharides.
+so that where'er ye look, ye see
+no capital, no cornice free,
+or frieze, from this fine frippery.
+now this the fairies would have known,
+theirs is a mixt religion:
+and some have heard the elves it call
+part pagan, part papistical.
+if unto me all tongues were granted,
+i could not speak the saints here painted.
+saint tit, saint nit, saint is, saint itis,
+who 'gainst mab's state placed here right is.
+saint will o' th' wisp, of no great bigness,
+but, alias, call'd here fatuus ignis.
+saint frip, saint trip, saint fill, saint filly;--
+neither those other saint-ships will i
+here go about for to recite
+their number, almost infinite;
+which, one by one, here set down are
+in this most curious calendar.
+first, at the entrance of the gate,
+a little puppet-priest doth wait,
+who squeaks to all the comers there,
+'favour your tongues, who enter here.
+'pure hands bring hither, without stain.'
+a second pules, 'hence, hence, profane!'
+hard by, i' th' shell of half a nut,
+the holy-water there is put;
+a little brush of squirrels' hairs,
+composed of odd, not even pairs,
+stands in the platter, or close by,
+to purge the fairy family.
+near to the altar stands the priest,
+there offering up the holy-grist;
+ducking in mood and perfect tense,
+with (much good do't him) reverence.
+the altar is not here four-square,
+nor in a form triangular;
+nor made of glass, or wood, or stone,
+but of a little transverse bone;
+which boys and bruckel'd children call
+(playing for points and pins) cockall.
+whose linen-drapery is a thin,
+subtile, and ductile codling's skin;
+which o'er the board is smoothly spread
+with little seal-work damasked.
+the fringe that circumbinds it, too,
+is spangle-work of trembling dew,
+which, gently gleaming, makes a show,
+like frost-work glitt'ring on the snow.
+upon this fetuous board doth stand
+something for shew-bread, and at hand
+(just in the middle of the altar)
+upon an end, the fairy-psalter,
+graced with the trout-flies' curious wings,
+which serve for watchet ribbonings.
+now, we must know, the elves are led
+right by the rubric, which they read:
+and if report of them be true,
+they have their text for what they do;
+ay, and their book of canons too.
+and, as sir thomas parson tells,
+they have their book of articles;
+and if that fairy knight not lies
+they have their book of homilies;
+and other scriptures, that design
+a short, but righteous discipline.
+the bason stands the board upon
+to take the free-oblation;
+a little pin-dust, which they hold
+more precious than we prize our gold;
+which charity they give to many
+poor of the parish, if there's any.
+upon the ends of these neat rails,
+hatch'd with the silver-light of snails,
+the elves, in formal manner, fix
+two pure and holy candlesticks,
+in either which a tall small bent
+burns for the altar's ornament.
+for sanctity, they have, to these,
+their curious copes and surplices
+of cleanest cobweb, hanging by
+in their religious vestery.
+they have their ash-pans and their brooms,
+to purge the chapel and the rooms;
+their many mumbling mass-priests here,
+and many a dapper chorister.
+their ush'ring vergers here likewise,
+their canons and their chaunteries;
+of cloister-monks they have enow,
+ay, and their abbey-lubbers too:--
+and if their legend do not lie,
+they much affect the papacy;
+and since the last is dead, there's hope
+elve boniface shall next be pope.
+they have their cups and chalices,
+their pardons and indulgences,
+their beads of nits, bells, books, and wax-
+candles, forsooth, and other knacks;
+their holy oil, their fasting-spittle,
+their sacred salt here, not a little.
+dry chips, old shoes, rags, grease, and bones,
+beside their fumigations.
+many a trifle, too, and trinket,
+and for what use, scarce man would think it.
+next then, upon the chanter's side
+an apple's-core is hung up dried,
+with rattling kernels, which is rung
+to call to morn and even-song.
+the saint, to which the most he prays
+and offers incense nights and days,
+the lady of the lobster is,
+whose foot-pace he doth stroke and kiss,
+and, humbly, chives of saffron brings
+for his most cheerful offerings.
+when, after these, he's paid his vows,
+he lowly to the altar bows;
+and then he dons the silk-worm's shed,
+like a turk's turban on his head,
+and reverently departeth thence,
+hid in a cloud of frankincense;
+and by the glow-worm's light well guided,
+goes to the feast that's now provided.
+40. oberon's feast
+shapcot!  to the the fairy state
+i with discretion dedicate:
+because thou prizest things that are
+curious and unfamiliar.
+take first the feast; these dishes gone,
+we'll see the fairy court anon.
+a little mushroom-table spread,
+after short prayers, they set on bread,
+a moon-parch'd grain of purest wheat,
+with some small glitt'ring grit, to eat
+his choice bits with; then in a trice
+they make a feast less great than nice.
+but all this while his eye is served,
+we must not think his ear was sterved;
+but that there was in place to stir
+his spleen, the chirring grasshopper,
+the merry cricket, puling fly,
+the piping gnat for minstrelsy.
+and now, we must imagine first,
+the elves present, to quench his thirst,
+a pure seed-pearl of infant dew,
+brought and besweeten'd in a blue
+and pregnant violet; which done,
+his kitling eyes begin to run
+quite through the table, where he spies
+the horns of papery butterflies,
+of which he eats; and tastes a little
+of that we call the cuckoo's spittle;
+a little fuz-ball pudding stands
+by, yet not blessed by his hands,
+that was too coarse; but then forthwith
+he ventures boldly on the pith
+of sugar'd rush, and eats the sagge
+and well-bestrutted bees' sweet bag;
+gladding his palate with some store
+of emmets' eggs; what would he more?
+but beards of mice, a newt's stew'd thigh,
+a bloated earwig, and a fly;
+with the red-capt worm, that's shut
+within the concave of a nut,
+brown as his tooth.  a little moth,
+late fatten'd in a piece of cloth;
+with wither'd cherries, mandrakes' ears,
+moles' eyes:  to these the slain stag's tears;
+the unctuous dewlaps of a snail,
+the broke-heart of a nightingale
+o'ercome in music; with a wine
+ne'er ravish'd from the flattering vine,
+but gently prest from the soft side
+of the most sweet and dainty bride,
+brought in a dainty daisy, which
+he fully quaffs up, to bewitch
+his blood to height; this done, commended
+grace by his priest; the feast is ended.
+41. the beggar to mab, the fairy queen
+please your grace, from out your store
+give an alms to one that's poor,
+that your mickle may have more.
+black i'm grown for want of meat,
+give me then an ant to eat,
+or the cleft ear of a mouse
+over-sour'd in drink of souce;
+or, sweet lady, reach to me
+the abdomen of a bee;
+or commend a cricket's hip,
+or his huckson, to my scrip;
+give for bread, a little bit
+of a pease that 'gins to chit,
+and my full thanks take for it.
+flour of fuz-balls, that's too good
+for a man in needy-hood;
+but the meal of mill-dust can
+well content a craving man;
+any orts the elves refuse
+well will serve the beggar's use.
+but if this may seem too much
+for an alms, then give me such
+little bits that nestle there
+in the pris'ner's pannier.
+so a blessing light upon
+you, and mighty oberon;
+that your plenty last till when
+i return your alms again.
+42. the hag
+the hag is astride,
+this night for to ride,
+the devil and she together;
+through thick and through thin,
+now out, and then in,
+though ne'er so foul be the weather.
+a thorn or a bur
+she takes for a spur;
+with a lash of a bramble she rides now,
+through brakes and through briars,
+o'er ditches and mires,
+she follows the spirit that guides now.
+no beast, for his food,
+dares now range the wood,
+but hush'd in his lair he lies lurking;
+while mischiefs, by these,
+on land and on seas,
+at noon of night are a-working.
+the storm will arise,
+and trouble the skies
+this night; and, more for the wonder,
+the ghost from the tomb
+affrighted shall come,
+call'd out by the clap of the thunder.
+43. the mad maid's song
+good morrow to the day so fair;
+good morning, sir, to you;
+good morrow to mine own torn hair,
+bedabbled with the dew.
+good morning to this primrose too;
+good morrow to each maid;
+that will with flowers the tomb bestrew
+wherein my love is laid.
+ah!  woe is me, woe, woe is me,
+alack and well-a-day!
+for pity, sir, find out that bee,
+which bore my love away.
+i'll seek him in your bonnet brave;
+i'll seek him in your eyes;
+nay, now i think they've made his grave
+i' th' bed of strawberries.
+i'll seek him there; i know, ere this,
+the cold, cold earth doth shake him;
+but i will go, or send a kiss
+by you, sir, to awake him.
+pray hurt him not; though he be dead,
+he knows well who do love him;
+and who with green turfs rear his head,
+and who do rudely move him.
+he's soft and tender, pray take heed,
+with bands of cowslips bind him,
+and bring him home;--but 'tis decreed
+that i shall never find him.
+44. the cheat of cupid; or, the ungentle guest
+one silent night of late,
+when every creature rested,
+came one unto my gate,
+and knocking, me molested.
+who's that, said i, beats there,
+and troubles thus the sleepy?
+cast off; said he, all fear,
+and let not locks thus keep ye.
+for i a boy am, who
+by moonless nights have swerved;
+and all with showers wet through,
+and e'en with cold half starved.
+i pitiful arose,
+and soon a taper lighted;
+and did myself disclose
+unto the lad benighted.
+i saw he had a bow,
+and wings too, which did shiver;
+and looking down below,
+i spied he had a quiver.
+i to my chimney's shine
+brought him, as love professes,
+and chafed his hands with mine,
+and dried his dropping tresses.
+but when he felt him warm'd,
+let's try this bow of ours
+and string, if they be harm'd,
+said he, with these late showers.
+forthwith his bow he bent,
+and wedded string and arrow,
+and struck me, that it went
+quite through my heart and marrow
+then laughing loud, he flew
+away, and thus said flying,
+adieu, mine host, adieu,
+i'll leave thy heart a-dying.
+45. upon cupid
+love, like a gipsy, lately came,
+and did me much importune
+to see my hand, that by the same
+he might foretell my fortune.
+he saw my palm; and then, said he,
+i tell thee, by this score here,
+that thou, within few months, shalt be
+the youthful prince d'amour here.
+i smiled, and bade him once more prove,
+and by some cross-line show it,
+that i could ne'er be prince of love,
+though here the princely poet.
+46. to be merry
+let's now take our time,
+while we're in our prime,
+and old, old age is afar off;
+for the evil, evil days
+will come on apace,
+before we can be aware of.
+47. upon his gray hairs
+fly me not, though i be gray,
+lady, this i know you'll say;
+better look the roses red,
+when with white commingled.
+black your hairs are; mine are white;
+this begets the more delight,
+when things meet most opposite;
+as in pictures we descry
+venus standing vulcan by.
+48. an hymn to the muses
+honour to you who sit
+near to the well of wit,
+and drink your fill of it!
+glory and worship be
+to you, sweet maids, thrice three,
+who still inspire me;
+and teach me how to sing
+unto the lyric string,
+my measures ravishing!
+then, while i sing your praise,
+my priest-hood crown with bays
+green to the end of days!
+49. the coming of good luck
+so good-luck came, and on my roof did light,
+like noiseless snow, or as the dew of night;
+not all at once, but gently,--as the trees
+are by the sun-beams, tickled by degrees.
+50. his content in the country
+here, here i live with what my board
+can with the smallest cost afford;
+though ne'er so mean the viands be,
+they well content my prue and me:
+or pea or bean, or wort or beet,
+whatever comes, content makes sweet.
+here we rejoice, because no rent
+we pay for our poor tenement;
+wherein we rest, and never fear
+the landlord or the usurer.
+the quarter-day does ne'er affright
+our peaceful slumbers in the night:
+we eat our own, and batten more,
+because we feed on no man's score;
+but pity those whose flanks grow great,
+swell'd with the lard of other's meat.
+we bless our fortunes, when we see
+our own beloved privacy;
+and like our living, where we're known
+to very few, or else to none.
+51. his return to london
+from the dull confines of the drooping west,
+to see the day spring from the pregnant east,
+ravish'd in spirit, i come, nay more, i fly
+to thee, blest place of my nativity!
+thus, thus with hallow'd foot i touch the ground,
+with thousand blessings by thy fortune crown'd.
+o fruitful genius!  that bestowest here
+an everlasting plenty year by year;
+o place!  o people!  manners!  framed to please
+all nations, customs, kindreds, languages!
+i am a free-born roman; suffer then
+that i amongst you live a citizen.
+london my home is; though by hard fate sent
+into a long and irksome banishment;
+yet since call'd back, henceforward let me be,
+o native country, repossess'd by thee!
+for, rather than i'll to the west return,
+i'll beg of thee first here to have mine urn.
+weak i am grown, and must in short time fall;
+give thou my sacred reliques burial.
+52. his desire
+give me a man that is not dull,
+when all the world with rifts is full;
+but unamazed dares clearly sing,
+whenas the roof's a-tottering;
+and though it falls, continues still
+tickling the cittern with his quill.
+53. an ode for ben jonson
+ah ben!
+say how or when
+shall we, thy guests,
+meet at those lyric feasts,
+made at the sun,
+the dog, the triple tun;
+where we such clusters had,
+as made us nobly wild, not mad?
+and yet each verse of thine
+out-did the meat, out-did the frolic wine.
+my ben!
+or come again,
+or send to us
+thy wit's great overplus;
+but teach us yet
+wisely to husband it,
+lest we that talent spend;
+and having once brought to an end
+that precious stock,--the store
+of such a wit the world should have no more.
+54. to live merrily,
+and to trust to good verses
+now is the time for mirth;
+nor cheek or tongue be dumb;
+for with [the] flowery earth
+the golden pomp is come.
+the golden pomp is come;
+for now each tree does wear,
+made of her pap and gum,
+rich beads of amber here.
+now reigns the rose, and now
+th' arabian dew besmears
+my uncontrolled brow,
+and my retorted hairs.
+homer, this health to thee!
+in sack of such a kind,
+that it would make thee see,
+though thou wert ne'er so blind
+next, virgil i'll call forth,
+to pledge this second health
+in wine, whose each cup's worth
+an indian commonwealth.
+a goblet next i'll drink
+to ovid; and suppose
+made he the pledge, he'd think
+the world had all one nose.
+then this immensive cup
+of aromatic wine,
+catullus!  i quaff up
+to that terse muse of thine.
+wild i am now with heat:
+o bacchus!  cool thy rays;
+or frantic i shall eat
+thy thyrse, and bite the bays!
+round, round, the roof does run;
+and being ravish'd thus,
+come, i will drink a tun
+to my propertius.
+now, to tibullus next,
+this flood i drink to thee;
+--but stay, i see a text,
+that this presents to me.
+behold!  tibullus lies
+here burnt, whose small return
+of ashes scarce suffice
+to fill a little urn.
+trust to good verses then;
+they only will aspire,
+when pyramids, as men,
+are lost i' th' funeral fire.
+and when all bodies meet
+in lethe to be drown'd;
+then only numbers sweet
+with endless life are crown'd.
+55. the apparition of his, mistress,
+calling him to elysium
+desunt nonnulla--
+come then, and like two doves with silvery wings,
+let our souls fly to th' shades, wherever springs
+sit smiling in the meads; where balm and oil,
+roses and cassia, crown the untill'd soil;
+where no disease reigns, or infection comes
+to blast the air, but amber-gris and gums.
+this, that, and ev'ry thicket doth transpire
+more sweet than storax from the hallow'd fire;
+where ev'ry tree a wealthy issue bears
+of fragrant apples, blushing plums, or pears;
+and all the shrubs, with sparkling spangles, shew
+like morning sun-shine, tinselling the dew.
+here in green meadows sits eternal may,
+purfling the margents, while perpetual day
+so double-gilds the air, as that no night
+can ever rust th' enamel of the light:
+here naked younglings, handsome striplings, run
+their goals for virgins' kisses; which when done,
+then unto dancing forth the learned round
+commix'd they meet, with endless roses crown'd.
+and here we'll sit on primrose-banks, and see
+love's chorus led by cupid; and we'll he
+two loving followers too unto the grove,
+where poets sing the stories of our love.
+there thou shalt hear divine musaeus sing
+of hero and leander; then i'll bring
+thee to the stand, where honour'd homer reads
+his odyssees and his high iliads;
+about whose throne the crowd of poets throng
+to hear the incantation of his tongue:
+to linus, then to pindar; and that done,
+i'll bring thee, herrick, to anacreon,
+quaffing his full-crown'd bowls of burning wine,
+and in his raptures speaking lines of thine,
+like to his subject; and as his frantic
+looks shew him truly bacchanalian like,
+besmear'd with grapes,--welcome he shall thee thither,
+where both may rage, both drink and dance together.
+then stately virgil, witty ovid, by
+whom fair corinna sits, and doth comply
+with ivory wrists his laureat head, and steeps
+his eye in dew of kisses while he sleeps.
+then soft catullus, sharp-fang'd martial,
+and towering lucan, horace, juvenal,
+and snaky persius; these, and those whom rage,
+dropt for the jars of heaven, fill'd, t' engage
+all times unto their frenzies; thou shalt there
+behold them in a spacious theatre:
+among which glories, crown'd with sacred bays
+and flatt'ring ivy, two recite their plays,
+beaumont and fletcher, swans, to whom all ears
+listen, while they, like sirens in their spheres,
+sing their evadne; and still more for thee
+there yet remains to know than thou canst see
+by glimm'ring of a fancy; do but come,
+and there i'll shew thee that capacious room
+in which thy father, jonson, now is placed
+as in a globe of radiant fire, and graced
+to be in that orb crown'd, that doth include
+those prophets of the former magnitude,
+and he one chief.  but hark!  i hear the cock,
+the bell-man of the night, proclaim the clock
+of late struck one; and now i see the prime
+of day break from the pregnant east:--'tis time
+i vanish:--more i had to say,
+but night determines here; away!
+56. the invitation
+to sup with thee thou didst me home invite,
+and mad'st a promise that mine appetite
+should meet and tire, on such lautitious meat,
+the like not heliogabalus did eat:
+and richer wine would'st give to me, thy guest,
+than roman sylla pour'd out at his feast.
+i came, 'tis true, and look'd for fowl of price,
+the bastard phoenix; bird of paradise;
+and for no less than aromatic wine
+of maidens-blush, commix'd with jessamine.
+clean was the hearth, the mantle larded jet,
+which, wanting lar and smoke, hung weeping wet;
+at last i' th' noon of winter, did appear
+a ragg'd soused neats-foot, with sick vinegar;
+and in a burnish'd flagonet, stood by
+beer small as comfort, dead as charity.
+at which amazed, and pond'ring on the food,
+how cold it was, and how it chill'd my blood,
+i curst the master, and i damn'd the souce,
+and swore i'd got the ague of the house.
+--well, when to eat thou dost me next desire,
+i'll bring a fever, since thou keep'st no fire.
+57. to sir clipsby crew
+since to the country first i came,
+i have lost my former flame;
+and, methinks, i not inherit,
+as i did, my ravish'd spirit.
+if i write a verse or two,
+'tis with very much ado;
+in regard i want that wine
+which should conjure up a line.
+yet, though now of muse bereft,
+i have still the manners left
+for to thank you, noble sir,
+for those gifts you do confer
+upon him, who only can
+be in prose a grateful man.
+58. a country life:
+to his brother, mr thomas herrick
+thrice, and above, blest, my soul's half, art thou,
+in thy both last and better vow;
+could'st leave the city, for exchange, to see
+the country's sweet simplicity;
+and it to know and practise, with intent
+to grow the sooner innocent;
+by studying to know virtue, and to aim
+more at her nature than her name;
+the last is but the least; the first doth tell
+ways less to live, than to live well:--
+and both are known to thee, who now canst live
+led by thy conscience, to give
+justice to soon-pleased nature, and to show
+wisdom and she together go,
+and keep one centre; this with that conspires
+to teach man to confine desires,
+and know that riches have their proper stint
+in the contented mind, not mint;
+and canst instruct that those who have the itch
+of craving more, are never rich.
+these things thou knows't to th' height, and dost prevent
+that plague, because thou art content
+with that heaven gave thee with a wary hand,
+(more blessed in thy brass than land)
+to keep cheap nature even and upright;
+to cool, not cocker appetite.
+thus thou canst tersely live to satisfy
+the belly chiefly, not the eye;
+keeping the barking stomach wisely quiet,
+less with a neat than needful diet.
+but that which most makes sweet thy country life,
+is the fruition of a wife,
+whom, stars consenting with thy fate, thou hast
+got not so beautiful as chaste;
+by whose warm side thou dost securely sleep,
+while love the sentinel doth keep,
+with those deeds done by day, which ne'er affright
+thy silken slumbers in the night:
+nor has the darkness power to usher in
+fear to those sheets that know no sin.
+the damask'd meadows and the pebbly streams
+sweeten and make soft your dreams:
+the purling springs, groves, birds, and well weaved bowers,
+with fields enamelled with flowers,
+present their shapes, while fantasy discloses
+millions of lilies mix'd with roses.
+then dream, ye hear the lamb by many a bleat
+woo'd to come suck the milky teat;
+while faunus in the vision comes, to keep
+from rav'ning wolves the fleecy sheep:
+with thousand such enchanting dreams, that meet
+to make sleep not so sound as sweet;
+nor call these figures so thy rest endear,
+as not to rise when chanticlere
+warns the last watch;--but with the dawn dost rise
+to work, but first to sacrifice;
+making thy peace with heaven for some late fault,
+with holy-meal and spirting salt;
+which done, thy painful thumb this sentence tells us,
+'jove for our labour all things sells us.'
+nor are thy daily and devout affairs
+attended with those desp'rate cares
+th' industrious merchant has, who for to find
+gold, runneth to the western ind,
+and back again, tortured with fears, doth fly,
+untaught to suffer poverty;--
+but thou at home, blest with securest ease,
+sitt'st, and believ'st that there be seas,
+and watery dangers; while thy whiter hap
+but sees these things within thy map;
+and viewing them with a more safe survey,
+mak'st easy fear unto thee say,
+'a heart thrice walled with oak and brass, that man
+had, first durst plough the ocean.'
+but thou at home, without or tide or gale,
+canst in thy map securely sail;
+seeing those painted countries, and so guess
+by those fine shades, their substances;
+and from thy compass taking small advice,
+buy'st travel at the lowest price.
+nor are thine ears so deaf but thou canst hear,
+far more with wonder than with fear,
+fame tell of states, of countries, courts, and kings,
+and believe there be such things;
+when of these truths thy happier knowledge lies
+more in thine ears than in thine eyes.
+and when thou hear'st by that too true report,
+vice rules the most, or all, at court,
+thy pious wishes are, though thou not there,
+virtue had, and moved her sphere.
+but thou liv'st fearless; and thy face ne'er shows
+fortune when she comes, or goes;
+but with thy equal thoughts, prepared dost stand
+to take her by the either hand;
+nor car'st which comes the first, the foul or fair:--
+a wise man ev'ry way lies square;
+and like a surly oak with storms perplex'd
+grows still the stronger, strongly vex'd.
+be so, bold spirit; stand centre-like, unmoved;
+and be not only thought, but proved
+to be what i report thee, and inure
+thyself, if want comes, to endure;
+and so thou dost; for thy desires are
+confined to live with private lar:
+nor curious whether appetite be fed
+or with the first, or second bread.
+who keep'st no proud mouth for delicious cates;
+hunger makes coarse meats, delicates.
+canst, and unurged, forsake that larded fare,
+which art, not nature, makes so rare;
+to taste boil'd nettles, coleworts, beets, and eat
+these, and sour herbs, as dainty meat:--
+while soft opinion makes thy genius say,
+'content makes all ambrosia;'
+nor is it that thou keep'st this stricter size
+so much for want, as exercise;
+to numb the sense of dearth, which, should sin haste it,
+thou might'st but only see't, not taste it;
+yet can thy humble roof maintain a quire
+of singing crickets by thy fire;
+and the brisk mouse may feast herself with crumbs,
+till that the green-eyed kitling comes;
+then to her cabin, blest she can escape
+the sudden danger of a rape.
+--and thus thy little well-kept stock doth prove,
+wealth cannot make a life, but love.
+nor art thou so close-handed, but canst spend,
+(counsel concurring with the end),
+as well as spare; still conning o'er this theme,
+to shun the first and last extreme;
+ordaining that thy small stock find no breach,
+or to exceed thy tether's reach;
+but to live round, and close, and wisely true
+to thine own self, and known to few.
+thus let thy rural sanctuary be
+elysium to thy wife and thee;
+there to disport your selves with golden measure;
+for seldom use commends the pleasure.
+live, and live blest; thrice happy pair; let breath,
+but lost to one, be th' other's death:
+and as there is one love, one faith, one troth,
+be so one death, one grave to both;
+till when, in such assurance live, ye may
+nor fear, or wish your dying day.
+59. to his peculiar friend, mr john wicks
+since shed or cottage i have none,
+i sing the more, that thou hast one;
+to whose glad threshold, and free door
+i may a poet come, though poor;
+and eat with thee a savoury bit,
+paying but common thanks for it.
+--yet should i chance, my wicks, to see
+an over-leaven look in thee,
+to sour the bread, and turn the beer
+to an exalted vinegar;
+or should'st thou prize me as a dish
+of thrice-boil'd worts, or third-day's fish,
+i'd rather hungry go and come
+than to thy house be burdensome;
+yet, in my depth of grief, i'd be
+one that should drop his beads for thee.
+60. a paranaeticall, or advisive verse to his friend, mr john wicks
+is this a life, to break thy sleep,
+to rise as soon as day doth peep?
+to tire thy patient ox or ass
+by noon, and let thy good days pass,
+not knowing this, that jove decrees
+some mirth, t' adulce man's miseries?
+--no; 'tis a life to have thine oil
+without extortion from thy soil;
+thy faithful fields to yield thee grain,
+although with some, yet little pain;
+to have thy mind, and nuptial bed,
+with fears and cares uncumbered
+a pleasing wife, that by thy side
+lies softly panting like a bride;
+--this is to live, and to endear
+those minutes time has lent us here.
+then, while fates suffer, live thou free,
+as is that air that circles thee;
+and crown thy temples too; and let
+thy servant, not thy own self, sweat,
+to strut thy barns with sheaves of wheat.
+--time steals away like to a stream,
+and we glide hence away with them:
+no sound recalls the hours once fled,
+or roses, being withered;
+nor us, my friend, when we are lost,
+like to a dew, or melted frost.
+--then live we mirthful while we should,
+and turn the iron age to gold;
+let's feast and frolic, sing and play,
+and thus less last, than live our day.
+whose life with care is overcast,
+that man's not said to live, but last;
+nor is't a life, seven years to tell,
+but for to live that half seven well;
+and that we'll do, as men who know,
+some few sands spent, we hence must go,
+both to be blended in the urn,
+from whence there's never a return.
+61. to his honoured and most ingenious friend mr charles cotton
+for brave comportment, wit without offence,
+words fully flowing, yet of influence,
+thou art that man of men, the man alone
+worthy the public admiration;
+who with thine own eyes read'st what we do write,
+and giv'st our numbers euphony and weight;
+tell'st when a verse springs high; how understood
+to be, or not, born of the royal blood
+what state above, what symmetry below,
+lines have, or should have, thou the best can show:--
+for which, my charles, it is my pride to be,
+not so much known, as to be loved of thee:--
+long may i live so, and my wreath of bays
+be less another's laurel, than thy praise.
+62. a new year's gift,
+sent to sir simeon steward
+no news of navies burnt at seas;
+no noise of late spawn'd tittyries;
+no closet plot or open vent,
+that frights men with a parliament:
+no new device or late-found trick,
+to read by th' stars the kingdom's sick;
+no gin to catch the state, or wring
+the free-born nostril of the king,
+we send to you; but here a jolly
+verse crown'd with ivy and with holly;
+that tells of winter's tales and mirth
+that milk-maids make about the hearth;
+of christmas sports, the wassail-bowl,
+that toss'd up, after fox-i'-th'-hole;
+of blind-man-buff, and of the care
+that young men have to shoe the mare;
+of twelf-tide cakes, of pease and beans,
+wherewith ye make those merry scenes,
+whenas ye chuse your king and queen,
+and cry out, 'hey for our town green!'--
+of ash-heaps, in the which ye use
+husbands and wives by streaks to chuse;
+of crackling laurel, which fore-sounds
+a plenteous harvest to your grounds;
+of these, and such like things, for shift,
+we send instead of new-year's gift.
+--read then, and when your faces shine
+with buxom meat and cap'ring wine,
+remember us in cups full crown'd,
+and let our city-health go round,
+quite through the young maids and the men,
+to the ninth number, if not ten;
+until the fired chestnuts leap
+for joy to see the fruits ye reap,
+from the plump chalice and the cup
+that tempts till it be tossed up.--
+then as ye sit about your embers,
+call not to mind those fled decembers;
+but think on these, that are t' appear,
+as daughters to the instant year;
+sit crown'd with rose-buds, and carouse,
+till liber pater twirls the house
+about your ears, and lay upon
+the year, your cares, that's fled and gone:
+and let the russet swains the plough
+and harrow hang up resting now;
+and to the bag-pipe all address,
+till sleep takes place of weariness.
+and thus throughout, with christmas plays,
+frolic the full twelve holy-days.
+63. an ode to sir clipsby crew
+here we securely live, and eat
+the cream of meat;
+and keep eternal fires,
+by which we sit, and do divine,
+as wine
+and rage inspires.
+if full, we charm; then call upon
+anacreon
+to grace the frantic thyrse:
+and having drunk, we raise a shout
+throughout,
+to praise his verse.
+then cause we horace to be read,
+which sung or said,
+a goblet, to the brim,
+of lyric wine, both swell'd and crown'd,
+around
+we quaff to him.
+thus, thus we live, and spend the hours
+in wine and flowers;
+and make the frolic year,
+the month, the week, the instant day
+to stay
+the longer here.
+--come then, brave knight, and see the cell
+wherein i dwell;
+and my enchantments too;
+which love and noble freedom is:--
+and this
+shall fetter you.
+take horse, and come; or be so kind
+to send your mind,
+though but in numbers few:--
+and i shall think i have the heart
+or part
+of clipsby crew.
+64. a panegyric to sir lewis pemberton
+till i shall come again, let this suffice,
+i send my salt, my sacrifice
+to thee, thy lady, younglings, and as far
+as to thy genius and thy lar;
+to the worn threshold, porch, hall, parlour, kitchen,
+the fat-fed smoking temple, which in
+the wholesome savour of thy mighty chines,
+invites to supper him who dines:
+where laden spits, warp'd with large ribs of beef,
+not represent, but give relief
+to the lank stranger and the sour swain,
+where both may feed and come again;
+for no black-bearded vigil from thy door
+beats with a button'd-staff the poor;
+but from thy warm love-hatching gates, each may
+take friendly morsels, and there stay
+to sun his thin-clad members, if he likes;
+for thou no porter keep'st who strikes.
+no comer to thy roof his guest-rite wants;
+or, staying there, is scourged with taunts
+of some rough groom, who, yirk'd with corns, says, 'sir,
+'you've dipp'd too long i' th' vinegar;
+'and with our broth and bread and bits, sir friend,
+'you've fared well; pray make an end;
+'two days you've larded here; a third, ye know,
+'makes guests and fish smell strong; pray go
+'you to some other chimney, and there take
+'essay of other giblets; make
+'merry at another's hearth; you're here
+'welcome as thunder to our beer;
+'manners knows distance, and a man unrude
+'would soon recoil, and not intrude
+'his stomach to a second meal.'--no, no,
+thy house, well fed and taught, can show
+no such crabb'd vizard:  thou hast learnt thy train
+with heart and hand to entertain;
+and by the arms-full, with a breast unhid,
+as the old race of mankind did,
+when either's heart, and either's hand did strive
+to be the nearer relative;
+thou dost redeem those times:  and what was lost
+of ancient honesty, may boast
+it keeps a growth in thee, and so will run
+a course in thy fame's pledge, thy son.
+thus, like a roman tribune, thou thy gate
+early sets ope to feast, and late;
+keeping no currish waiter to affright,
+with blasting eye, the appetite,
+which fain would waste upon thy cates, but that
+the trencher creature marketh what
+best and more suppling piece he cuts, and by
+some private pinch tells dangers nigh,
+a hand too desp'rate, or a knife that bites
+skin-deep into the pork, or lights
+upon some part of kid, as if mistook,
+when checked by the butler's look.
+no, no, thy bread, thy wine, thy jocund beer
+is not reserved for trebius here,
+but all who at thy table seated are,
+find equal freedom, equal fare;
+and thou, like to that hospitable god,
+jove, joy'st when guests make their abode
+to eat thy bullocks thighs, thy veals, thy fat
+wethers, and never grudged at.
+the pheasant, partridge, gotwit, reeve, ruff, rail,
+the cock, the curlew, and the quail,
+these, and thy choicest viands, do extend
+their tastes unto the lower end
+of thy glad table; not a dish more known
+to thee, than unto any one:
+but as thy meat, so thy immortal wine
+makes the smirk face of each to shine,
+and spring fresh rose-buds, while the salt, the wit,
+flows from the wine, and graces it;
+while reverence, waiting at the bashful board,
+honours my lady and my lord.
+no scurril jest, no open scene is laid
+here, for to make the face afraid;
+but temp'rate mirth dealt forth, and so discreet-
+ly, that it makes the meat more sweet,
+and adds perfumes unto the wine, which thou
+dost rather pour forth, than allow
+by cruse and measure; thus devoting wine,
+as the canary isles were thine;
+but with that wisdom and that method, as
+no one that's there his guilty glass
+drinks of distemper, or has cause to cry
+repentance to his liberty.
+no, thou know'st orders, ethics, and hast read
+all oeconomics, know'st to lead
+a house-dance neatly, and canst truly show
+how far a figure ought to go,
+forward or backward, side-ward, and what pace
+can give, and what retract a grace;
+what gesture, courtship, comeliness agrees,
+with those thy primitive decrees,
+to give subsistence to thy house, and proof
+what genii support thy roof,
+goodness and greatness, not the oaken piles;
+for these, and marbles have their whiles
+to last, but not their ever; virtue's hand
+it is which builds 'gainst fate to stand.
+such is thy house, whose firm foundations trust
+is more in thee than in her dust,
+or depth; these last may yield, and yearly shrink,
+when what is strongly built, no chink
+or yawning rupture can the same devour,
+but fix'd it stands, by her own power
+and well-laid bottom, on the iron and rock,
+which tries, and counter-stands the shock
+and ram of time, and by vexation grows
+the stronger.  virtue dies when foes
+are wanting to her exercise, but, great
+and large she spreads by dust and sweat.
+safe stand thy walls, and thee, and so both will,
+since neither's height was raised by th'ill
+of others; since no stud, no stone, no piece
+was rear'd up by the poor-man's fleece;
+no widow's tenement was rack'd to gild
+or fret thy cieling, or to build
+a sweating-closet, to anoint the silk-
+soft skin, or bath[e] in asses' milk;
+no orphan's pittance, left him, served to set
+the pillars up of lasting jet,
+for which their cries might beat against thine ears,
+or in the damp jet read their tears.
+no plank from hallow'd altar does appeal
+to yond' star-chamber, or does seal
+a curse to thee, or thine; but all things even
+make for thy peace, and pace to heaven.
+--go on directly so, as just men may
+a thousand times more swear, than say
+this is that princely pemberton, who can
+teach men to keep a god in man;
+and when wise poets shall search out to see
+good men, they find them all in thee.
+65. all things decay and die
+all things decay with time:  the forest sees
+the growth and down-fall of her aged trees;
+that timber tall, which three-score lustres stood
+the proud dictator of the state-like wood,
+i mean the sovereign of all plants, the oak,
+droops, dies, and falls without the cleaver's stroke.
+66. to his dying brother, master william herrick
+life of my life, take not so soon thy flight,
+but stay the time till we have bade good-night.
+thou hast both wind and tide with thee; thy way
+as soon dispatch'd is by the night as day.
+let us not then so rudely henceforth go
+till we have wept, kiss'd, sigh'd, shook hands, or so.
+there's pain in parting, and a kind of hell
+when once true lovers take their last farewell.
+what? shall we two our endless leaves take here
+without a sad look, or a solemn tear?
+he knows not love that hath not this truth proved,
+love is most loth to leave the thing beloved.
+pay we our vows and go; yet when we part,
+then, even then, i will bequeath my heart
+into thy loving hands; for i'll keep none
+to warm my breast, when thou, my pulse, art gone,
+no, here i'll last, and walk, a harmless shade,
+about this urn, wherein thy dust is laid,
+to guard it so, as nothing here shall be
+heavy, to hurt those sacred seeds of thee.
+67. his age:
+dedicated to his peculiar friend,
+mr john wickes, under the name of
+postumus
+ah, posthumus!  our years hence fly
+and leave no sound:  nor piety,
+or prayers, or vow
+can keep the wrinkle from the brow;
+but we must on,
+as fate does lead or draw us; none,
+none, posthumus, could e'er decline
+the doom of cruel proserpine.
+the pleasing wife, the house, the ground
+must all be left, no one plant found
+to follow thee,
+save only the curst cypress-tree!
+--a merry mind
+looks forward, scorns what's left behind;
+let's live, my wickes, then, while we may,
+and here enjoy our holiday.
+we've seen the past best times, and these
+will ne'er return; we see the seas,
+and moons to wane,
+but they fill up their ebbs again;
+but vanish'd man,
+like to a lily lost, ne'er can,
+ne'er can repullulate, or bring
+his days to see a second spring.
+but on we must, and thither tend,
+where ancus and rich tullus blend
+their sacred seed;
+thus has infernal jove decreed;
+we must be made,
+ere long a song, ere long a shade.
+why then, since life to us is short,
+let's make it full up by our sport.
+crown we our heads with roses then,
+and 'noint with tyrian balm; for when
+we two are dead,
+the world with us is buried.
+then live we free
+as is the air, and let us be
+our own fair wind, and mark each one
+day with the white and lucky stone.
+we are not poor, although we have
+no roofs of cedar, nor our brave
+baiae, nor keep
+account of such a flock of sheep;
+nor bullocks fed
+to lard the shambles; barbels bred
+to kiss our hands; nor do we wish
+for pollio's lampreys in our dish.
+if we can meet, and so confer,
+both by a shining salt-cellar,
+and have our roof,
+although not arch'd, yet weather-proof,
+and cieling free,
+from that cheap candle-baudery;
+we'll eat our bean with that full mirth
+as we were lords of all the earth.
+well, then, on what seas we are tost,
+our comfort is, we can't be lost.
+let the winds drive
+our bark, yet she will keep alive
+amidst the deeps;
+'tis constancy, my wickes, which keeps
+the pinnace up; which, though she errs
+i' th' seas, she saves her passengers.
+say, we must part; sweet mercy bless
+us both i' th' sea, camp, wilderness!
+can we so far
+stray, to become less circular
+than we are now?
+no, no, that self-same heart, that vow
+which made us one, shall ne'er undo,
+or ravel so, to make us two.
+live in thy peace; as for myself,
+when i am bruised on the shelf
+of time, and show
+my locks behung with frost and snow;
+when with the rheum,
+the cough, the pthisic, i consume
+unto an almost nothing; then,
+the ages fled, i'll call again,
+and with a tear compare these last
+lame and bad times with those are past,
+while baucis by,
+my old lean wife, shall kiss it dry;
+and so we'll sit
+by th' fire, foretelling snow and slit
+and weather by our aches, grown
+now old enough to be our own
+true calendars, as puss's ear
+wash'd o'er 's, to tell what change is near;
+then to assuage
+the gripings of the chine by age,
+i'll call my young
+iulus to sing such a song
+i made upon my julia's breast,
+and of her blush at such a feast.
+then shall he read that flower of mine
+enclosed within a crystal shrine;
+a primrose next;
+a piece then of a higher text;
+for to beget
+in me a more transcendant heat,
+than that insinuating fire
+which crept into each aged sire
+when the fair helen from her eyes
+shot forth her loving sorceries;
+at which i'll rear
+mine aged limbs above my chair;
+and hearing it,
+flutter and crow, as in a fit
+of fresh concupiscence, and cry,
+'no lust there's like to poetry.'
+thus frantic, crazy man, god wot,
+i'll call to mind things half-forgot;
+and oft between
+repeat the times that i have seen;
+thus ripe with tears,
+and twisting my iulus' hairs,
+doting, i'll weep and say, 'in truth,
+baucis, these were my sins of youth.'
+then next i'il cause my hopeful lad,
+if a wild apple can be had,
+to crown the hearth;
+lar thus conspiring with our mirth;
+then to infuse
+our browner ale into the cruse;
+which, sweetly spiced, we'll first carouse
+unto the genius of the house.
+then the next health to friends of mine.
+loving the brave burgundian wine,
+high sons of pith,
+whose fortunes i have frolick'd with;
+such as could well
+bear up the magic bough and spell;
+and dancing 'bout the mystic thyrse,
+give up the just applause to verse;
+to those, and then again to thee,
+we'll drink, my wickes, until we be
+plump as the cherry,
+though not so fresh, yet full as merry
+as the cricket,
+the untamed heifer, or the pricket,
+until our tongues shall tell our ears,
+we're younger by a score of years.
+thus, till we see the fire less shine
+from th' embers than the kitling's eyne,
+we'll still sit up,
+sphering about the wassail cup,
+to all those times
+which gave me honour for my rhymes;
+the coal once spent, we'll then to bed,
+far more than night bewearied.
+68. the bad season makes the poet sad
+dull to myself, and almost dead to these,
+my many fresh and fragrant mistresses;
+lost to all music now, since every thing
+puts on the semblance here of sorrowing.
+sick is the land to th' heart; and doth endure
+more dangerous faintings by her desperate cure.
+but if that golden age would come again,
+and charles here rule, as he before did reign;
+if smooth and unperplex'd the seasons were,
+as when the sweet maria lived here;
+i should delight to have my curls half drown'd
+in tyrian dews, and head with roses crown'd:
+and once more yet, ere i am laid out dead,
+knock at a star with my exalted head.
+69. on himself
+a wearied pilgrim i have wander'd here,
+twice five-and-twenty, bate me but one year;
+long i have lasted in this world; 'tis true
+but yet those years that i have lived, but few.
+who by his gray hairs doth his lustres tell,
+lives not those years, but he that lives them well:
+one man has reach'd his sixty years, but he
+of all those three-score has not lived half three:
+he lives who lives to virtue; men who cast
+their ends for pleasure, do not live, but last.
+70. his winding-sheet
+come thou, who art the wine and wit
+of all i've writ;
+the grace, the glory, and the best
+piece of the rest;
+thou art of what i did intend
+the all, and end;
+and what was made, was made to meet.
+thee, thee my sheet.
+come then, and be to my chaste side
+both bed and bride.
+we two, as reliques left, will have
+one rest, one grave;
+and, hugging close, we need not fear
+lust entering here,
+where all desires are dead or cold,
+as is the mould;
+and all affections are forgot,
+or trouble not.
+here, here the slaves and prisoners be
+from shackles free;
+and weeping widows, long opprest,
+do here find rest.
+the wronged client ends his laws
+here, and his cause;
+here those long suits of chancery lie
+quiet, or die;
+and all star-chamber bills do cease,
+or hold their peace.
+here needs no court for our request
+where all are best;
+all wise, all equal, and all just
+alike i'th' dust.
+nor need we here to fear the frown
+of court or crown;
+where fortune bears no sway o'er things,
+there all are kings.
+in this securer place we'll keep,
+as lull'd asleep;
+or for a little time we'll lie,
+as robes laid by,
+to be another day re-worn,
+turn'd, but not torn;
+or like old testaments engrost,
+lock'd up, not lost;
+and for a-while lie here conceal'd,
+to be reveal'd
+next, at that great platonic year,
+and then meet here.
+71. anacreontic
+born i was to be old,
+and for to die here;
+after that, in the mould
+long for to lie here.
+but before that day comes,
+still i be bousing;
+for i know, in the tombs
+there's no carousing.
+72. to laurels
+a funeral stone
+or verse, i covet none;
+but only crave
+of you that i may have
+a sacred laurel springing from my grave:
+which being seen
+blest with perpetual green,
+may grow to be
+not so much call'd a tree,
+as the eternal monument of me.
+73. on himself
+weep for the dead, for they have lost this light;
+and weep for me, lost in an endless night;
+or mourn, or make a marble verse for me,
+who writ for many.  benedicte.
+74. on himself
+lost to the world; lost to myself; alone
+here now i rest under this marble stone,
+in depth of silence, heard and seen of none.
+75. to robin red-breast
+laid out for dead, let thy last kindness be
+with leaves and moss-work for to cover me;
+and while the wood-nymphs my cold corpse inter,
+sing thou my dirge, sweet-warbling chorister!
+for epitaph, in foliage, next write this:
+here, here the tomb of robin herrick is!
+76. the olive branch
+sadly i walk'd within the field,
+to see what comfort it would yield;
+and as i went my private way,
+an olive-branch before me lay;
+and seeing it, i made a stay,
+and took it up, and view'd it; then
+kissing the omen, said amen;
+be, be it so, and let this be
+a divination unto me;
+that in short time my woes shall cease,
+and love shall crown my end with peace.
+77. the plaudite, or end of life
+if after rude and boisterous seas
+my wearied pinnace here finds ease;
+if so it be i've gain'd the shore,
+with safety of a faithful oar;
+if having run my barque on ground,
+ye see the aged vessel crown'd;
+what's to be done?  but on the sands
+ye dance and sing, and now clap hands.
+--the first act's doubtful, but (we say)
+it is the last commends the play.
+amores
+78. to groves
+ye silent shades, whose each tree here
+some relique of a saint doth wear;
+who for some sweet-heart's sake, did prove
+the fire and martyrdom of love:--
+here is the legend of those saints
+that died for love, and their complaints;
+their wounded hearts, and names we find
+encarved upon the leaves and rind.
+give way, give way to me, who come
+scorch'd with the self-same martyrdom!
+and have deserved as much, love knows,
+as to be canonized 'mongst those
+whose deeds and deaths here written are
+within your greeny-kalendar.
+--by all those virgins' fillets hung
+upon!  your boughs, and requiems sung
+for saints and souls departed hence,
+here honour'd still with frankincense;
+by all those tears that have been shed,
+as a drink-offering to the dead;
+by all those true-love knots, that be
+with mottoes carved on every tree;
+by sweet saint phillis!  pity me;
+by dear saint iphis!  and the rest
+of all those other saints now blest,
+me, me forsaken,--here admit
+among your myrtles to be writ;
+that my poor name may have the glory
+to live remember'd in your story.
+amores
+79. mrs eliz:  wheeler, under the name of the lost shepherdess
+among the myrtles as i walk'd
+love and my sighs thus intertalk'd:
+tell me, said i, in deep distress,
+where i may find my shepherdess?
+--thou fool, said love, know'st thou not this?
+in every thing that's sweet she is.
+in yond' carnation go and seek,
+there thou shalt find her lip and cheek;
+in that enamell'd pansy by,
+there thou shalt have her curious eye;
+in bloom of peach and rose's bud,
+there waves the streamer of her blood.
+--'tis true, said i; and thereupon
+i went to pluck them one by one,
+to make of parts an union;
+but on a sudden all were gone.
+at which i stopp'd; said love, these be
+the true resemblances of thee;
+for as these flowers, thy joys must die;
+and in the turning of an eye;
+and all thy hopes of her must wither,
+like those short sweets here knit together.
+80. a vow to venus
+happily i had a sight
+of my dearest dear last night;
+make her this day smile on me,
+and i'll roses give to thee!
+81. upon love
+a crystal vial cupid brought,
+which had a juice in it:
+of which who drank, he said, no thought
+of love he should admit.
+i, greedy of the prize, did drink,
+and emptied soon the glass;
+which burnt me so, that i do think
+the fire of hell it was.
+give me my earthen cups again,
+the crystal i contemn,
+which, though enchased with pearls, contain
+a deadly draught in them.
+and thou, o cupid!  come not to
+my threshold,--since i see,
+for all i have, or else can do,
+thou still wilt cozen me.
+82. upon julia's clothes
+whenas in silks my julia goes,
+till, then, methinks, how sweetly flows
+that liquefaction of her clothes!
+next, when i cast mine eyes, and see
+that brave vibration each way free;
+o how that glittering taketh me!
+83. the bracelet to julia
+why i tie about thy wrist,
+julia, this my silken twist?
+for what other reason is't,
+but to shew thee how in part
+thou my pretty captive art?
+but thy bond-slave is my heart;
+'tis but silk that bindeth thee,
+knap the thread and thou art free;
+but 'tis otherwise with me;
+i am bound, and fast bound so,
+that from thee i cannot go;
+if i could, i would not so.
+84. upon julia's ribbon
+as shews the air when with a rain-bow graced,
+so smiles that ribbon 'bout my julia's waist;
+or like----nay, 'tis that zonulet of love,
+wherein all pleasures of the world are wove.
+85. to julia
+how rich and pleasing thou, my julia, art,
+in each thy dainty and peculiar part!
+first, for thy queen-ship on thy head is set
+of flowers a sweet commingled coronet;
+about thy neck a carkanet is bound,
+made of the ruby, pearl, and diamond;
+a golden ring, that shines upon thy thumb;
+about thy wrist the rich dardanium;
+between thy breasts, than down of swans more white,
+there plays the sapphire with the chrysolite.
+no part besides must of thyself be known,
+but by the topaz, opal, calcedon.
+86. art above nature:  to julia
+when i behold a forest spread
+with silken trees upon thy head;
+and when i see that other dress
+of flowers set in comeliness;
+when i behold another grace
+in the ascent of curious lace,
+which, like a pinnacle, doth shew
+the top, and the top-gallant too;
+then, when i see thy tresses bound
+into an oval, square, or round,
+and knit in knots far more than i.
+can tell by tongue, or true-love tie;
+next, when those lawny films i see
+play with a wild civility;
+and all those airy silks to flow,
+alluring me, and tempting so--
+i must confess, mine eye and heart
+dotes less on nature than on art.
+87. her bed
+see'st thou that cloud as silver clear,
+plump, soft, and swelling every where?
+'tis julia's bed, and she sleeps there.
+88. the rock of rubies, and the quarry of pearls
+some ask'd me where the rubies grew:
+and nothing i did say,
+but with my finger pointed to
+the lips of julia.
+some ask'd how pearls did grow, and where:
+then spoke i to my girl,
+to part her lips, and shew me there
+the quarrelets of pearl.
+89. the parliament of roses to julia
+i dreamt the roses one time went
+to meet and sit in parliament;
+the place for these, and for the rest
+of flowers, was thy spotless breast.
+over the which a state was drawn
+of tiffany, or cob-web lawn;
+then in that parly all those powers
+voted the rose the queen of flowers;
+but so, as that herself should be
+the maid of honour unto thee.
+90. upon julia's recovery
+droop, droop no more, or hang the head,
+ye roses almost withered;
+now strength, and newer purple get,
+each here declining violet.
+o primroses!  let this day be
+a resurrection unto ye;
+and to all flowers allied in blood,
+or sworn to that sweet sisterhood.
+for health on julia's cheek hath shed
+claret and cream commingled;
+and those, her lips, do now appear
+as beams of coral, but more clear.
+91. upon julia's hair filled with dew
+dew sate on julia's hair,
+and spangled too,
+like leaves that laden are
+with trembling dew;
+or glitter'd to my sight,
+as when the beams
+have their reflected light
+danced by the streams.
+92. cherry ripe
+cherry-ripe, ripe, ripe, i cry,
+full and fair ones; come, and buy:
+if so be you ask me where
+they do grow?  i  answer, there
+where my julia's lips do smile;--
+there's the land, or cherry-isle;
+whose plantations fully show
+all the year where cherries grow.
+93. the captive bee; or, the little filcher
+as julia once a-slumb'ring lay,
+it chanced a bee did fly that way,
+after a dew, or dew-like shower,
+to tipple freely in a flower;
+for some rich flower, he took the lip
+of julia, and began to sip;
+but when he felt he suck'd from thence
+honey, and in the quintessence,
+he drank so much he scarce could stir;
+so julia took the pilferer.
+and thus surprised, as filchers use,
+he thus began himself t'excuse:
+'sweet lady-flower, i never brought
+hither the least one thieving thought;
+but taking those rare lips of yours
+for some fresh, fragrant, luscious flowers,
+i thought i might there take a taste,
+where so much sirup ran at waste.
+besides, know this, i never sting
+the flower that gives me nourishing;
+but with a kiss, or thanks, do pay
+for honey that i bear away.'
+--this said, he laid his little scrip
+of honey 'fore her ladyship,
+and told her, as some tears did fall,
+that, that he took, and that was all.
+at which she smiled, and bade him go
+and take his bag; but thus much know,
+when next he came a-pilfering so,
+he should from her full lips derive
+honey enough to fill his hive.
+94. upon roses
+under a lawn, than skies more clear,
+some ruffled roses nestling were,
+and snugging there, they seem'd to lie
+as in a flowery nunnery;
+they blush'd, and look'd more fresh than flowers
+quickened of late by pearly showers;
+and all, because they were possest
+but of the heat of julia's breast,
+which, as a warm and moisten'd spring,
+gave them their ever-flourishing.
+95. how his soul came ensnared
+my soul would one day go and seek
+for roses, and in julia's cheek
+a richess of those sweets she found,
+as in another rosamond;
+but gathering roses as she was,
+not knowing what would come to pass,
+it chanced a ringlet of her hair
+caught my poor soul, as in a snare;
+which ever since has been in thrall;
+--yet freedom she enjoys withal.
+96. upon julia's voice
+when i thy singing next shall hear,
+i'll wish i might turn all to ear,
+to drink-in notes and numbers, such
+as blessed souls can't hear too much
+then melted down, there let me lie
+entranced, and lost confusedly;
+and by thy music strucken mute,
+die, and be turn'd into a lute.
+97. the night piece:  to julia
+her eyes the glow-worm lend thee,
+the shooting stars attend thee;
+and the elves also,
+whose little eyes glow
+like the sparks of fire, befriend thee.
+no will-o'th'-wisp mis-light thee,
+nor snake or slow-worm bite thee;
+but on, on thy way,
+not making a stay,
+since ghost there's none to affright thee.
+let not the dark thee cumber;
+what though the moon does slumber?
+the stars of the night
+will lend thee their light,
+like tapers clear, without number.
+then, julia, let me woo thee,
+thus, thus to come unto me;
+and when i shall meet
+thy silvery feet,
+my soul i'll pour into thee.
+98. his covenant or protestation to julia
+why dost thou wound and break my heart,
+as if we should for ever part?
+hast thou not heard an oath from me,
+after a day, or two, or three,
+i would come back and live with thee?
+take, if thou dost distrust that vow,
+this second protestation now:--
+upon thy cheek that spangled tear,
+which sits as dew of roses there,
+that tear shall scarce be dried before
+i'll kiss the threshold of thy door;
+then weep not, sweet, but thus much know,--
+i'm half returned before i go.
+99. his sailing from julia
+when that day comes, whose evening says i'm gone
+unto that watery desolation;
+devoutly to thy closet-gods then pray,
+that my wing'd ship may meet no remora.
+those deities which circum-walk the seas,
+and look upon our dreadful passages,
+will from all dangers re-deliver me,
+for one drink-offering poured out by thee,
+mercy and truth live with thee!  and forbear,
+in my short absence, to unsluice a tear;
+but yet for love's-sake, let thy lips do this,--
+give my dead picture one engendering kiss;
+work that to life, and let me ever dwell
+in thy remembrance, julia.  so farewell.
+100. his last request to julia
+i have been wanton, and too bold, i fear,
+to chafe o'er-much the virgin's cheek or ear;--
+beg for my pardon, julia!  he doth win
+grace with the gods who's sorry for his sin.
+that done, my julia, dearest julia, come,
+and go with me to chuse my burial room:
+my fates are ended; when thy herrick dies,
+clasp thou his book, then close thou up his eyes.
+101. the transfiguration
+immortal clothing i put on
+so soon as, julia, i am gone
+to mine eternal mansion.
+thou, thou art here, to human sight
+clothed all with incorrupted light;
+--but yet how more admir'dly bright
+wilt thou appear, when thou art set
+in thy refulgent thronelet,
+that shin'st thus in thy counterfeit!
+102. love dislikes nothing
+whatsoever thing i see,
+rich or poor although it be,
+--'tis a mistress unto me.
+be my girl or fair or brown,
+does she smile, or does she frown;
+still i write a sweet-heart down.
+be she rough, or smooth of skin;
+when i touch, i then begin
+for to let affection in.
+be she bald, or does she wear
+locks incurl'd of other hair;
+i shall find enchantment there.
+be she whole, or be she rent,
+so my fancy be content,
+she's to me most excellent.
+be she fat, or be she lean;
+be she sluttish, be she clean;
+i'm a man for every scene.
+103. upon love
+i held love's head while it did ache;
+but so it chanced to be,
+the cruel pain did his forsake,
+and forthwith came to me.
+ai me!  how shall my grief be still'd?
+or where else shall we find
+one like to me, who must be kill'd
+for being too-too-kind?
+104. to dianeme
+i could but see thee yesterday
+stung by a fretful bee;
+and i the javelin suck'd away,
+and heal'd the wound in thee.
+a thousand thorns, and briars, and stings
+i have in my poor breast;
+yet ne'er can see that salve which brings
+my passions any rest.
+as love shall help me, i admire
+how thou canst sit and smile
+to see me bleed, and not desire
+to staunch the blood the while.
+if thou, composed of gentle mould,
+art so unkind to me;
+what dismal stories will be told
+of those that cruel be!
+105. to perenna
+when i thy parts run o'er, i can't espy
+in any one, the least indecency;
+but every line and limb diffused thence
+a fair and unfamiliar excellence;
+so that the more i look, the more i prove
+there's still more cause why i the more should love.
+106. to oenone.
+what conscience, say, is it in thee,
+when i a heart had one, [won]
+to take away that heart from me,
+and to retain thy own?
+for shame or pity, now incline
+to play a loving part;
+either to send me kindly thine,
+or give me back my heart.
+covet not both; but if thou dost
+resolve to part with neither;
+why!  yet to shew that thou art just,
+take me and mine together.
+107. to electra
+i dare not ask a kiss,
+i dare not beg a smile;
+lest having that, or this,
+i might grow proud the while.
+no, no, the utmost share
+of my desire shall be,
+only to kiss that air
+that lately kissed thee,
+108. to anthea, who may command him any thing
+bid me to live, and i will live
+thy protestant to be;
+or bid me love, and i will give
+a loving heart to thee.
+a heart as soft, a heart as kind,
+a heart as sound and free
+as in the whole world thou canst find,
+that heart i'll give to thee.
+bid that heart stay, and it will stay
+to honour thy decree;
+or bid it languish quite away,
+and't shall do so for thee.
+bid me to weep, and i will weep,
+while i have eyes to see;
+and having none, yet i will keep
+a heart to weep for thee.
+bid me despair, and i'll despair,
+under that cypress tree;
+or bid me die, and i will dare
+e'en death, to die for thee.
+--thou art my life, my love, my heart,
+the very eyes of me;
+and hast command of every part,
+to live and die for thee.
+109. anthea's retractation
+anthea laugh'd, and, fearing lest excess
+might stretch the cords of civil comeliness
+she with a dainty blush rebuked her face,
+and call'd each line back to his rule and space.
+110. love lightly pleased
+let fair or foul my mistress be,
+or low, or tall, she pleaseth me;
+or let her walk, or stand, or sit,
+the posture her's, i'm pleased with it;
+or let her tongue be still, or stir
+graceful is every thing from her;
+or let her grant, or else deny,
+my love will fit each history.
+111. to dianeme
+give me one kiss,
+and no more:
+if so be, this
+makes you poor
+to enrich you,
+i'll restore
+for that one, two-
+thousand score.
+112. upon her eyes
+clear are her eyes,
+like purest skies;
+discovering from thence
+a baby there
+that turns each sphere,
+like an intelligence.
+113. upon her feet
+her pretty feet
+like snails did creep
+a little out, and then,
+as if they played at bo-peep,
+did soon draw in again.
+114. upon a delaying lady
+come, come away
+or let me go;
+must i here stay
+because you're slow,
+and will continue so;
+--troth, lady, no.
+i scorn to be
+a slave to state;
+and since i'm free,
+i will not wait,
+henceforth at such a rate,
+for needy fate.
+if you desire
+my spark should glow,
+the peeping fire
+you must blow;
+or i shall quickly grow
+to frost, or snow.
+115. the cruel maid
+--and, cruel maid, because i see
+you scornful of my love, and me,
+i'll trouble you no more, but go
+my way, where you shall never know
+what is become of me; there i
+will find me out a path to die,
+or learn some way how to forget
+you and your name for ever;--yet
+ere i go hence, know this from me,
+what will in time your fortune be;
+this to your coyness i will tell;
+and having spoke it once, farewell.
+--the lily will not long endure,
+nor the snow continue pure;
+the rose, the violet, one day
+see both these lady-flowers decay;
+and you must fade as well as they.
+and it may chance that love may turn,
+and, like to mine, make your heart burn
+and weep to see't; yet this thing do,
+that my last vow commends to you;
+when you shall see that i am dead,
+for pity let a tear be shed;
+and, with your mantle o'er me cast,
+give my cold lips a kiss at last;
+if twice you kiss, you need not fear
+that i shall stir or live more here.
+next hollow out a tomb to cover
+me, me, the most despised lover;
+and write thereon, this, reader, know;
+love kill'd this man.  no more, but so.
+116. to his mistress, objecting to him neither toying or talking
+you say i love not, 'cause i do not play
+still with your curls, and kiss the time away.
+you blame me, too, because i can't devise
+some sport, to please those babies in your eyes;
+by love's religion, i must here confess it,
+the most i love, when i the least express it.
+shall griefs find tongues; full casks are ever found
+to give, if any, yet but little sound.
+deep waters noiseless are; and this we know,
+that chiding streams betray small depth below.
+so when love speechless is, she doth express
+a depth in love, and that depth bottomless.
+now, since my love is tongueless, know me such,
+who speak but little, 'cause i love so much.
+117. impossibilities:  to his friend
+my faithful friend, if you can see
+the fruit to grow up, or the tree;
+if you can see the colour come
+into the blushing pear or plum;
+if you can see the water grow
+to cakes of ice, or flakes of snow;
+if you can see that drop of rain
+lost in the wild sea once again;
+if you can see how dreams do creep
+into the brain by easy sleep:--
+--then there is hope that you may see
+her love me once, who now hates me.
+118. the bubble:  a song
+to my revenge, and to her desperate fears,
+fly, thou made bubble of my sighs and tears!
+in the wild air, when thou hast roll'd about,
+and, like a blasting planet, found her out;
+stoop, mount, pass by to take her eye--then glare
+like to a dreadful comet in the air:
+next, when thou dost perceive her fixed sight
+for thy revenge to be most opposite,
+then, like a globe, or ball of wild-fire, fly,
+and break thyself in shivers on her eye!
+119. delight in disorder
+a sweet disorder in the dress
+kindles in clothes a wantonness;
+a lawn about the shoulders thrown
+into a fine distraction;
+an erring lace, which here and there
+enthrals the crimson stomacher;
+a cuff neglectful, and thereby
+ribbons to flow confusedly;
+a winning wave, deserving note,
+in the tempestuous petticoat;
+a careless shoe-string, in whose tie
+i see a wild civility;--
+do more bewitch me, than when art
+is too precise in every part.
+120. to silvia
+pardon my trespass, silvia!  i confess
+my kiss out-went the bounds of shamefacedness:--
+none is discreet at all times; no, not jove
+himself, at one time, can be wise and love.
+121. to silvia to wed
+let us, though late, at last, my silvia, wed;
+and loving lie in one devoted bed.
+thy watch may stand, my minutes fly post haste;
+no sound calls back the year that once is past.
+then, sweetest silvia, let's no longer stay;
+true love, we know, precipitates delay.
+away with doubts, all scruples hence remove!
+no man, at one time, can be wise, and love.
+122. barley-break; or, last in hell
+we two are last in hell; what may we fear
+to be tormented or kept pris'ners here i
+alas!  if kissing be of plagues the worst,
+we'll wish in hell we had been last and first.
+123. on a perfumed lady
+you say you're sweet:  how should we know
+whether that you be sweet or no?
+--from powders and perfumes keep free;
+then we shall smell how sweet you be!
+124. the parcae; or, three dainty destinies:
+the armilet
+three lovely sisters working were,
+as they were closely set,
+of soft and dainty maiden-hair,
+a curious armilet.
+i, smiling, ask'd them what they did,
+fair destinies all three?
+who told me they had drawn a thread
+of life, and 'twas for me.
+they shew'd me then how fine 'twas spun
+and i replied thereto;
+'i care not now how soon 'tis done,
+or cut, if cut by you.'
+125. a conjuration:  to electra
+by those soft tods of wool,
+with which the air is full;
+by all those tinctures there
+that paint the hemisphere;
+by dews and drizzling rain,
+that swell the golden grain;
+by all those sweets that be
+i'th' flowery nunnery;
+by silent nights, and the
+three forms of hecate;
+by all aspects that bless
+the sober sorceress,
+while juice she strains, and pith
+to make her philtres with;
+by time, that hastens on
+things to perfection;
+and by your self, the best
+conjurement of the rest;
+--o, my electra!  be
+in love with none but me.
+126. to sapho
+sapho, i will chuse to go
+where the northern winds do blow
+endless ice, and endless snow;
+rather than i once would see
+but a winter's face in thee,--
+to benumb my hopes and me.
+127. of love:  a sonnet
+how love came in, i do not know,
+whether by th'eye, or ear, or no;
+or whether with the soul it came,
+at first, infused with the same;
+whether in part 'tis here or there,
+or, like the soul, whole every where.
+this troubles me; but i as well
+as any other, this can tell;
+that when from hence she does depart,
+the outlet then is from the heart.
+128. to dianeme
+sweet, be not proud of those two eyes,
+which, star-like, sparkle in their skies;
+nor be you proud, that you can see
+all hearts your captives, yours, yet free;
+be you not proud of that rich hair
+which wantons with the love-sick air;
+whenas that ruby which you wear,
+sunk from the tip of your soft ear,
+will last to be a precious stone,
+when all your world of beauty's gone.
+129. to dianeme
+dear, though to part it be a hell,
+yet, dianeme, now farewell!
+thy frown last night did bid me go,
+but whither, only grief does know.
+i do beseech thee, ere we part,
+(if merciful, as fair thou art;
+or else desir'st that maids should tell
+thy pity by love's chronicle)
+o, dianeme, rather kill
+me, than to make me languish still!
+'tis cruelty in thee to th' height,
+thus, thus to wound, not kill outright;
+yet there's a way found, if thou please,
+by sudden death, to give me ease;
+and thus devised,--do thou but this,
+--bequeath to me one parting kiss!
+so sup'rabundant joy shall be
+the executioner of me.
+130. kissing usury
+biancha, let
+me pay the debt
+i owe thee for a kiss
+thou lend'st to me;
+and i to thee
+will render ten for this.
+if thou wilt say,
+ten will not pay
+for that so rich a one;
+i'll clear the sum,
+if it will come
+unto a million.
+he must of right,
+to th' utmost mite,
+make payment for his pleasure,
+(by this i guess)
+of happiness
+who has a little measure.
+131. upon the loss of his mistresses
+i have lost, and lately, these
+many dainty mistresses:--
+stately julia, prime of all;
+sapho next, a principal:
+smooth anthea, for a skin
+white, and heaven-like crystalline:
+sweet electra, and the choice
+myrha, for the lute and voice.
+next, corinna, for her wit,
+and the graceful use of it;
+with perilla:--all are gone;
+only herrick's left alone,
+for to number sorrow by
+their departures hence, and die.
+132. the wounded heart
+come, bring your sampler, and with art
+draw in't a wounded heart,
+and dropping here and there;
+not that i think that any dart
+can make your's bleed a tear,
+or pierce it any where;
+yet do it to this end,--that i
+may by
+this secret see,
+though you can make
+that heart to bleed, your's ne'er will ache
+for me,
+133. his mistress to him at his farewell
+you may vow i'll not forget
+to pay the debt
+which to thy memory stands as due
+as faith can seal it you.
+--take then tribute of my tears;
+so long as i have fears
+to prompt me, i shall ever
+languish and look, but thy return see never.
+oh then to lessen my despair,
+print thy lips into the air,
+so by this
+means, i may kiss thy kiss,
+whenas some kind
+wind
+shall hither waft it:--and, in lieu,
+my lips shall send a thousand back to you.
+134. crutches
+thou see'st me, lucia, this year droop;
+three zodiacs fill'd more, i shall stoop;
+let crutches then provided be
+to shore up my debility:
+then, while thou laugh'st, i'll sighing cry,
+a ruin underpropt am i:
+don will i then my beadsman's gown;
+and when so feeble i am grown
+as my weak shoulders cannot bear
+the burden of a grasshopper;
+yet with the bench of aged sires,
+when i and they keep termly fires,
+with my weak voice i'll sing, or say
+some odes i made of lucia;--
+then will i heave my wither'd hand
+to jove the mighty, for to stand
+thy faithful friend, and to pour down
+upon thee many a benison.
+135. to anthea
+anthea, i am going hence
+with some small stock of innocence;
+but yet those blessed gates i see
+withstanding entrance unto me;
+to pray for me do thou begin;--
+the porter then will let me in.
+136. to anthea
+now is the time when all the lights wax dim;
+and thou, anthea, must withdraw from him
+who was thy servant:  dearest, bury me
+under that holy-oak, or gospel-tree;
+where, though thou see'st not, thou may'st think upon
+me, when thou yearly go'st procession;
+or, for mine honour, lay me in that tomb
+in which thy sacred reliques shall have room;
+for my embalming, sweetest, there will be
+no spices wanting, when i'm laid by thee.
+137. to his lovely mistresses
+one night i'th' year, my dearest beauties, come,
+and bring those dew-drink-offerings to my tomb;
+when thence ye see my reverend ghost to rise,
+and there to lick th' effused sacrifice,
+though paleness be the livery that i wear,
+look ye not wan or colourless for fear.
+trust me, i will not hurt ye, or once show
+the least grim look, or cast a frown on you;
+nor shall the tapers, when i'm there, burn blue.
+this i may do, perhaps, as i glide by,--
+cast on my girls a glance, and loving eye;
+or fold mine arms, and sigh, because i've lost
+the world so soon, and in it, you the most:
+--than these, no fears more on your fancies fall,
+though then i smile, and speak no words at all.
+138. to perllla
+ah, my perilla!  dost thou grieve to see
+me, day by day, to steal away from thee?
+age calls me hence, and my gray hairs bid come,
+and haste away to mine eternal home;
+'twill not be long, perilla, after this,
+that i must give thee the supremest kiss:--
+dead when i am, first cast in salt, and bring
+part of the cream from that religious spring,
+with which, perilla, wash my hands and feet;
+that done, then wind me in that very sheet
+which wrapt thy smooth limbs, when thou didst implore
+the gods' protection, but the night before;
+follow me weeping to my turf, and there
+let fall a primrose, and with it a tear:
+then lastly, let some weekly strewings be
+devoted to the memory of me;
+then shall my ghost not walk about, but keep
+still in the cool and silent shades of sleep.
+139. a meditation for his mistress
+you are a tulip seen to-day,
+but, dearest, of so short a stay,
+that where you grew, scarce man can say.
+you are a lovely july-flower;
+yet one rude wind, or ruffling shower,
+will force you hence, and in an hour.
+you are a sparkling rose i'th' bud,
+yet lost, ere that chaste flesh and blood
+can show where you or grew or stood.
+you are a full-spread fair-set vine,
+and can with tendrils love entwine;
+yet dried, ere you distil your wine.
+you are like balm, enclosed well
+in amber, or some crystal shell;
+yet lost ere you transfuse your smell.
+you are a dainty violet;
+yet wither'd, ere you can be set
+within the virgins coronet.
+you are the queen all flowers among;
+but die you must, fair maid, ere long,
+as he, the maker of this song.
+140. to the virgins, to make much of time
+gather ye rose-buds while ye may:
+old time is still a-flying;
+and this same flower that smiles to-day,
+to-morrow will be dying.
+the glorious lamp of heaven, the sun,
+the higher he's a-getting,
+the sooner will his race be run,
+and nearer he's to setting.
+that age is best, which is the first,
+when youth and blood are warmer;
+but being spent, the worse, and worst
+times, still succeed the former.
+--then be not coy, but use your time,
+and while ye may, go marry;
+for having lost but once your prime,
+you may for ever tarry.
+epigrams
+141. posting to printing
+let others to the printing-press run fast;
+since after death comes glory, i'll not haste.
+142. his loss
+all has been plunder'd from me but my wit:
+fortune herself can lay no claim to it.
+143. things mortal still mutable
+things are uncertain; and the more we get,
+the more on icy pavements we are set.
+144. no man without money
+no man such rare parts hath, that he can swim,
+if favour or occasion help not him.
+145. the present time best pleaseth
+praise, they that will, times past: i joy to see
+myself now live; this age best pleaseth me!
+146. want
+want is a softer wax, that takes thereon,
+this, that, and every base impression,
+147. satisfaction for sufferings
+for all our works a recompence is sure;
+'tis sweet to think on what was hard t'endure.
+148. writing
+when words we want, love teacheth to indite;
+and what we blush to speak, she bids us write.
+149. the definition of beauty
+beauty no other thing is, than a beam
+flash'd out between the middle and extreme.
+150. a mean in our means
+though frankincense the deities require,
+we must not give all to the hallow'd fire.
+such be our gifts, and such be our expense,
+as for ourselves to leave some frankincense.
+151. money makes the mirth
+when all birds else do of their music fail,
+money's the still-sweet-singing nightingale!
+152. tears and laughter
+knew'st thou one month would take thy life away,
+thou'dst weep; but laugh, should it not last a day.
+153. upon tears
+tears, though they're here below the sinner's brine,
+above, they are the angels' spiced wine.
+154. on love
+love's of itself too sweet; the best of all
+is, when love's honey has a dash of gall.
+155. peace not permanent
+great cities seldom rest; if there be none
+t' invade from far, they'll find worse foes at home.
+156. pardons
+those ends in war the best contentment bring,
+whose peace is made up with a pardoning.
+157. truth and error
+twixt truth and error, there's this difference known
+error is fruitful, truth is only one.
+158. wlt punished prospers most
+dread not the shackles; on with thine intent,
+good wits get more fame by their punishment.
+159. burial
+man may want land to live in; but for all
+nature finds out some place for burial.
+160. no pains, no gains
+if little labour, little are our gains;
+man's fortunes are according to his pains.
+161. to youth
+drink wine, and live here blitheful while ye may;
+the morrow's life too late is; live to-day.
+162. to enjoy the time
+while fates permit us, let's be merry;
+pass all we must the fatal ferry;
+and this our life, too, whirls away,
+with the rotation of the day.
+163. felicity quick of flight
+every time seems short to be
+that's measured by felicity;
+but one half-hour that's made up here
+with grief, seems longer than a year.
+164. mirth
+true mirth resides not in the smiling skin;
+the sweetest solace is to act no sin.
+165. the heart
+in prayer the lips ne'er act the winning part
+without the sweet concurrence of the heart.
+166. love, what it is
+love is a circle, that doth restless move
+in the same sweet eternity of love.
+167. dreams
+here we are all, by day; by night we're hurl'd
+by dreams, each one into a several world.
+168. ambition
+in man, ambition is the common'st thing;
+each one by nature loves to be a king.
+169. safety on the shore
+what though the sea be calm?  trust to the shore;
+ships have been drown'd, where late they danced before.
+170. upon a painted gentlewoman
+men say you're fair; and fair ye are, 'tis true;
+but, hark!  we praise the painter now, not you.
+171. upon wrinkles
+wrinkles no more are, or no less,
+than beauty turn'd to sourness.
+172. casualties
+good things, that come of course, far less do please
+than those which come by sweet contingencies.
+173. to live freely
+let's live in haste; use pleasures while we may;
+could life return, 'twould never lose a day.
+174. nothing free-cost
+nothing comes free-cost here; jove will not let
+his gifts go from him, if not bought with sweat.
+175. man's dying-place uncertain
+man knows where first he ships himself; but he
+never can tell where shall his landing be.
+176. loss from the least
+great men by small means oft are overthrown;
+he's lord of thy life, who contemns his own.
+177. poverty and riches
+who with a little cannot be content,
+endures an everlasting punishment.
+178. upon man
+man is composed here of a twofold part;
+the first of nature, and the next of art;
+art presupposes nature; nature, she
+prepares the way for man's docility.
+179. purposes
+no wrath of men, or rage of seas,
+can shake a just man's purposes;
+no threats of tyrants, or the grim
+visage of them can alter him;
+but what he doth at first intend,
+that he holds firmly to the end.
+180. four things make us happy here
+health is the first good lent to men;
+a gentle disposition then:
+next, to be rich by no by-ways;
+lastly, with friends t' enjoy our days.
+181. the watch
+man is a watch, wound up at first, but never
+wound up again; once down, he's down for ever.
+the watch once down, all motions then do cease;
+the man's pulse stopt, all passions sleep in peace.
+182. upon the detracter
+i ask'd thee oft what poets thou hast read,
+and lik'st the best?  still thou repli'st, the dead.
+--i shall, ere long, with green turfs cover'd be;
+then sure thou'lt like, or thou wilt envy, me.
+183. on himself
+live by thy muse thou shalt, when others die,
+leaving no fame to long posterity;
+when monarchies trans-shifted are, and gone,
+here shall endure thy vast dominion.
+nature and life
+184. i call and i call
+i call, i call:  who do ye call?
+the maids to catch this cowslip ball!
+but since these cowslips fading be,
+troth, leave the flowers, and maids, take me!
+yet, if that neither you will do,
+speak but the word, and i'll take you,
+185. the succession of the four sweet months
+first, april, she with mellow showers
+opens the way for early flowers;
+then after her comes smiling may,
+in a more rich and sweet array;
+next enters june, and brings us more
+gems than those two that went before;
+then, lastly, july comes, and she
+more wealth brings in than all those three.
+186. to blossoms
+fair pledges of a fruitful tree,
+why do ye fall so fast?
+your date is not so past,
+but you may stay yet here a-while,
+to blush and gently smile;
+and go at last.
+what, were ye born to be
+an hour or half's delight;
+and so to bid good-night?
+'twas pity nature brought ye forth,
+merely to show your worth,
+and lose you quite.
+but you are lovely leaves, where we
+may read how soon things have
+their end, though ne'er so brave:
+and after they have shown their pride,
+like you, a-while;--they glide
+into the grave.
+187. the shower of blossoms
+love in a shower of blossoms came
+down, and half drown'd me with the same;
+the blooms that fell were white and red;
+but with such sweets commingled,
+as whether (this) i cannot tell,
+my sight was pleased more, or my smell;
+but true it was, as i roll'd there,
+without a thought of hurt or fear,
+love turn'd himself into a bee,
+and with his javelin wounded me;---
+from which mishap this use i make;
+where most sweets are, there lies a snake;
+kisses and favours are sweet things;
+but those have thorns, and these have stings.
+188. to the rose:  song
+go, happy rose, and interwove
+with other flowers, bind my love.
+tell her, too, she must not be
+longer flowing, longer free,
+that so oft has fetter'd me.
+say, if she's fretful, i have bands
+of pearl and gold, to bind her hands;
+tell her, if she struggle still,
+i have myrtle rods at will,
+for to tame, though not to kill.
+take thou my blessing thus, and go
+and tell her this,--but do not so!--
+lest a handsome anger fly
+like a lightning from her eye,
+and burn thee up, as well as i!
+189. the funeral rites of the rose
+the rose was sick, and smiling died;
+and, being to be sanctified,
+about the bed, there sighing stood
+the sweet and flowery sisterhood.
+some hung the head, while some did bring,
+to wash her, water from the spring;
+some laid her forth, while others wept,
+but all a solemn fast there kept.
+the holy sisters some among,
+the sacred dirge and trental sung;
+but ah!  what sweets smelt everywhere,
+as heaven had spent all perfumes there!
+at last, when prayers for the dead,
+and rites, were all accomplished,
+they, weeping, spread a lawny loom,
+and closed her up as in a tomb.
+190. the bleeding hand;
+or the sprig of eglantine given to a maid
+from this bleeding hand of mine,
+take this sprig of eglantine:
+which, though sweet unto your smell,
+yet the fretful briar will tell,
+he who plucks the sweets, shall prove
+many thorns to be in love.
+191. to carnations:  a song
+stay while ye will, or go,
+and leave no scent behind ye:
+yet trust me, i shall know
+the place where i may find ye.
+within my lucia's cheek,
+(whose livery ye wear)
+play ye at hide or seek,
+i'm sure to find ye there.
+192. to pansies
+ah, cruel love!  must i endure
+thy many scorns, and find no cure?
+say, are thy medicines made to be
+helps to all others but to me?
+i'll leave thee, and to pansies come:
+comforts you'll afford me some:
+you can ease my heart, and do
+what love could ne'er be brought unto.
+193. how pansies or hearts-ease came first
+frolic virgins once these were,
+overloving, living here;
+being here their ends denied
+ran for sweet-hearts mad, and died.
+love, in pity of their tears,
+and their loss in blooming years,
+for their restless here-spent hours,
+gave them hearts-ease turn'd to flowers.
+194. why flowers change colour
+these fresh beauties, we can prove,
+once were virgins, sick of love,
+turn'd to flowers: still in some,
+colours go and colours come.
+195. the primrose
+ask me why i send you here
+this sweet infanta of the year?
+ask me why i send to you
+this primrose, thus bepearl'd with dew?
+i will whisper to your ears,--
+the sweets of love are mixt with tears.
+ask me why this flower does show
+so yellow-green, and sickly too?
+ask me why the stalk is weak
+and bending, yet it doth not break?
+i will answer,--these discover
+what fainting hopes are in a lover.
+196. to primroses filled with morning dew
+why do ye weep, sweet babes?  can tears
+speak grief in you,
+who were but born
+just as the modest morn
+teem'd her refreshing dew?
+alas, you have not known that shower
+that mars a flower,
+nor felt th' unkind
+breath of a blasting wind,
+nor are ye worn with years;
+or warp'd as we,
+who think it strange to see,
+such pretty flowers, like to orphans young,
+to speak by tears, before ye have a tongue.
+speak, whimp'ring younglings, and make known
+the reason why
+ye droop and weep;
+is it for want of sleep,
+or childish lullaby?
+or that ye have not seen as yet
+the violet?
+or brought a kiss
+from that sweet-heart, to this?
+--no, no, this sorrow shown
+by your tears shed,
+would have this lecture read,
+that things of greatest, so of meanest worth,
+conceived with grief are, and with tears brought forth.
+197. to daisies, not to shut so soon
+shut not so soon; the dull-eyed night
+has not as yet begun
+to make a seizure on the light,
+or to seal up the sun.
+no marigolds yet closed are,
+no shadows great appear;
+nor doth the early shepherds' star
+shine like a spangle here.
+stay but till my julia close
+her life-begetting eye;
+and let the whole world then dispose
+itself to live or die.
+198. to daffadils
+fair daffadils, we weep to see
+you haste away so soon;
+as yet the early-rising sun
+has not attain'd his noon.
+stay, stay,
+until the hasting day
+has run
+but to the even-song;
+and, having pray'd together, we
+will go with you along.
+we have short time to stay, as you;
+we have as short a spring;
+as quick a growth to meet decay,
+as you, or any thing.
+we die
+as your hours do, and dry
+away,
+like to the summer's rain;
+or as the pearls of morning's dew,
+ne'er to be found again.
+199. to violets
+welcome, maids of honour,
+you do bring
+in the spring;
+and wait upon her.
+she has virgins many,
+fresh and fair;
+yet you are
+more sweet than any.
+you're the maiden posies;
+and so graced,
+to be placed
+'fore damask roses.
+--yet, though thus respected,
+by and by
+ye do lie,
+poor girls, neglected.
+200. the apron of flowers
+to gather flowers, sappha went,
+and homeward she did bring
+within her lawny continent,
+the treasure of the spring.
+she smiling blush'd, and blushing smiled,
+and sweetly blushing thus,
+she look'd as she'd been got with child
+by young favonius.
+her apron gave, as she did pass,
+an odour more divine,
+more pleasing too, than ever was
+the lap of proserpine.
+201. the lily in a crystal
+you have beheld a smiling rose
+when virgins' hands have drawn
+o'er it a cobweb-lawn:
+and here, you see, this lily shows,
+tomb'd in a crystal stone,
+more fair in this transparent case
+than when it grew alone,
+and had but single grace.
+you see how cream but naked is,
+nor dances in the eye
+without a strawberry;
+or some fine tincture, like to this,
+which draws the sight thereto,
+more by that wantoning with it,
+than when the paler hue
+no mixture did admit.
+you see how amber through the streams
+more gently strokes the sight,
+with some conceal'd delight,
+than when he darts his radiant beams
+into the boundless air;
+where either too much light his worth
+doth all at once impair,
+or set it little forth.
+put purple grapes or cherries in-
+to glass, and they will send
+more beauty to commend
+them, from that clean and subtle skin,
+than if they naked stood,
+and had no other pride at all,
+but their own flesh and blood,
+and tinctures natural.
+thus lily, rose, grape, cherry, cream,
+and strawberry do stir
+more love, when they transfer
+a weak, a soft, a broken beam;
+than if they should discover
+at full their proper excellence,
+without some scene cast over,
+to juggle with the sense.
+thus let this crystall'd lily be
+a rule, how far to teach
+your nakedness must reach;
+and that no further than we see
+those glaring colours laid
+by art's wise hand, but to this end
+they should obey a shade,
+lest they too far extend.
+--so though you're white as swan or snow,
+and have the power to move
+a world of men to love;
+yet, when your lawns and silks shall flow,
+and that white cloud divide
+into a doubtful twilight;--then,
+then will your hidden pride
+raise greater fires in men.
+202. to meadows
+ye have been fresh and green,
+ye have been fill'd with flowers;
+and ye the walks have been
+where maids have spent their hours.
+you have beheld how they
+with wicker arks did come,
+to kiss and bear away
+the richer cowslips home.
+you've heard them sweetly sing,
+and seen them in a round;
+each virgin, like a spring,
+with honeysuckles crown'd.
+but now, we see none here,
+whose silvery feet did tread
+and with dishevell'd hair
+adorn'd this smoother mead.
+like unthrifts, having spent
+your stock, and needy grown
+you're left here to lament
+your poor estates alone.
+203. to a gentlewoman, objecting to him his gray hairs
+am i despised, because you say;
+and i dare swear, that i am gray?
+know, lady, you have but your day!
+and time will come when you shall wear
+such frost and snow upon your hair;
+and when, though long, it comes to pass,
+you question with your looking-glass,
+and in that sincere crystal seek
+but find no rose-bud in your cheek,
+nor any bed to give the shew
+where such a rare carnation grew:-
+ah!  then too late, close in your chamber keeping,
+it will be told
+that you are old,--
+by those true tears you're weeping.
+204. the changes:  to corinna
+be not proud, but now incline
+your soft ear to discipline;
+you have changes in your life,
+sometimes peace, and sometimes strife;
+you have ebbs of face and flows,
+as your health or comes or goes;
+you have hopes, and doubts, and fears,
+numberless as are your hairs;
+you have pulses that do beat
+high, and passions less of heat;
+you are young, but must be old:--
+and, to these, ye must be told,
+time, ere long, will come and plow
+loathed furrows in your brow:
+and the dimness of your eye
+will no other thing imply,
+but you must die
+as well as i.
+205. upon mrs eliz. wheeler, under the name of amarillis
+sweet amarillis, by a spring's
+soft and soul-melting murmurings,
+slept; and thus sleeping, thither flew
+a robin-red-breast; who at view,
+not seeing her at all to stir,
+brought leaves and moss to cover her:
+but while he, perking, there did pry
+about the arch of either eye,
+the lid began to let out day,--
+at which poor robin flew away;
+and seeing her not dead, but all disleaved,
+he chirpt for joy, to see himself deceived.
+206. no fault in women
+no fault in women, to refuse
+the offer which they most would chuse.
+--no fault: in women, to confess
+how tedious they are in their dress;
+--no fault in women, to lay on
+the tincture of vermilion;
+and there to give the cheek a dye
+of white, where nature doth deny.
+--no fault in women, to make show
+of largeness, when they're nothing so;
+when, true it is, the outside swells
+with inward buckram, little else.
+--no fault in women, though they be
+but seldom from suspicion free;
+--no fault in womankind at all,
+if they but slip, and never fall.
+207. the bag of the bee
+about the sweet bag of a bee
+two cupids fell at odds;
+and whose the pretty prize should be
+they vow'd to ask the gods.
+which venus hearing, thither came,
+and for their boldness stript them;
+and taking thence from each his flame,
+with rods of myrtle whipt them.
+which done, to still their wanton cries,
+when quiet grown she'd seen them,
+she kiss'd and wiped their dove-like eyes,
+and gave the bag between them.
+208. the present; or, the bag of the bee:
+fly to my mistress, pretty pilfering bee,
+and say thou bring'st this honey-bag from me;
+when on her lip thou hast thy sweet dew placed,
+mark if her tongue but slyly steal a taste;
+if so, we live; if not, with mournful hum,
+toll forth my death; next, to my burial come.
+209. to the water-nymphs drinking at the fountain
+reach with your whiter hands to me
+some crystal of the spring;
+and i about the cup shall see
+fresh lilies flourishing.
+or else, sweet nymphs, do you but this--
+to th' glass your lips incline;
+and i shall see by that one kiss
+the water turn'd to wine.
+210. how springs came first
+these springs were maidens once that loved,
+but lost to that they most approved:
+my story tells, by love they were
+turn'd to these springs which we see here:
+the pretty whimpering that they make,
+when of the banks their leave they take,
+tells ye but this, they are the same,
+in nothing changed but in their name.
+211. to the handsome mistress grace potter
+as is your name, so is your comely face
+touch'd every where with such diffused grace,
+as that in all that admirable round,
+there is not one least solecism found;
+and as that part, so every portion else
+keeps line for line with beauty's parallels.
+212. a hymn to the graces
+when i love, as some have told
+love i shall, when i am old,
+o ye graces!  make me fit
+for the welcoming of it!
+clean my rooms, as temples be,
+to entertain that deity;
+give me words wherewith to woo,
+suppling and successful too;
+winning postures; and withal,
+manners each way musical;
+sweetness to allay my sour
+and unsmooth behaviour:
+for i know you have the skill
+vines to prune, though not to kill;
+and of any wood ye see,
+you can make a mercury.
+213. a hymn to love
+i will confess
+with cheerfulness,
+love is a thing so likes me,
+that, let her lay
+on me all day,
+i'll kiss the hand that strikes me.
+i will not, i,
+now blubb'ring cry,
+it, ah!  too late repents me
+that i did fall
+to love at all--
+since love so much contents me.
+no, no, i'll be
+in fetters free;
+while others they sit wringing
+their hands for pain,
+i'll entertain
+the wounds of love with singing.
+with flowers and wine,
+and cakes divine,
+to strike me i will tempt thee;
+which done, no more
+i'll come before
+thee and thine altars empty.
+214. upon love:
+by way of question and answer
+i bring ye love.  ques. what will love do?
+ans. like, and dislike ye.
+i bring ye love.  ques. what will love do?
+ans. stroke ye, to strike ye.
+i bring ye love.  ques. what will love do?
+ans. love will be-fool ye.
+i bring ye love.  ques. what will love do?
+ans. heat ye, to cool ye.
+i bring ye love.  ques. what will love do?
+ans. love, gifts will send ye.
+i bring ye love.  ques. what will love do?
+ans. stock ye, to spend ye.
+i bring ye love.  ques. what will love do?
+ans. love will fulfil ye.
+i bring ye love.  ques. what will love do?
+ans. kiss ye, to kill ye.
+215. lovers how they come and part
+a gyges ring they bear about them still,
+to be, and not seen when and where they will;
+they tread on clouds, and though they sometimes fall,
+they fall like dew, and make no noise at all:
+so silently they one to th' other come,
+as colours steal into the pear or plum,
+and air-like, leave no pression to be seen
+where'er they met, or parting place has been.
+216. the kiss:  a dialogue
+1  among thy fancies, tell me this,
+what is the thing we call a kiss?
+2  i shall resolve ye what it is:--
+it is a creature born and bred
+between the lips, all cherry-red,
+by love and warm desires fed,--
+chor.  and makes more soft the bridal bed.
+2  it is an active flame, that flies
+first to the babies of the eyes,
+and charms them there with lullabies,--
+chor.  and stills the bride, too, when she cries.
+2  then to the chin, the cheek, the ear,
+it frisks and flies, now here, now there:
+'tis now far off, and then 'tis near,--
+chor.  and here, and there, and every where.
+1  has it a speaking virtue?  2  yes.
+1  how speaks it, say?  2  do you but this,--
+part your join'd lips, then speaks your kiss;
+chor.  and this love's sweetest language is.
+1  has it a body?  2  ay, and wings,
+with thousand rare encolourings;
+and as it flies, it gently sings--
+chor.  love honey yields, but never stings.
+217. comfort to a youth that had lost his love
+what needs complaints,
+when she a place
+has with the race
+of saints?
+in endless mirth,
+she thinks not on
+what's said or done
+in earth:
+she sees no tears,
+or any tone
+of thy deep groan
+she hears;
+nor does she mind,
+or think on't now,
+that ever thou
+wast kind:--
+but changed above,
+she likes not there,
+as she did here,
+thy love.
+--forbear, therefore,
+and lull asleep
+thy woes, and weep
+no more.
+218. orpheus
+orpheus he went, as poets tell,
+to fetch eurydice from hell;
+and had her, but it was upon
+this short, but strict condition;
+backward he should not look, while he
+led her through hell's obscurity.
+but ah!  it happen'd, as he made
+his passage through that dreadful shade,
+revolve he did his loving eye,
+for gentle fear or jealousy;
+and looking back, that look did sever
+him and eurydice for ever.
+219. a request to the graces
+ponder my words, if so that any be
+known guilty here of incivility;
+let what is graceless, discomposed, and rude,
+with sweetness, smoothness, softness be endued:
+teach it to blush, to curtsey, lisp, and show
+demure, but yet full of temptation, too.
+numbers ne'er tickle, or but lightly please,
+unless they have some wanton carriages:--
+this if ye do, each piece will here be good
+and graceful made by your neat sisterhood.
+220. a hymn to venus and cupid
+sea-born goddess, let me be
+by thy son thus graced, and thee,
+that whene'er i woo, i find
+virgins coy, but not unkind.
+let me, when i kiss a maid,
+taste her lips, so overlaid
+with love's sirop, that i may
+in your temple, when i pray,
+kiss the altar, and confess
+there's in love no bitterness.
+221. to bacchus:  a canticle
+whither dost thou hurry me,
+bacchus, being full of thee?
+this way, that way, that way, this,--
+here and there a fresh love is;
+that doth like me, this doth please;
+--thus a thousand mistresses
+i have now:  yet i alone,
+having all, enjoy not one!
+222. a hymn to bacchus
+bacchus, let me drink no more!
+wild are seas that want a shore!
+when our drinking has no stint,
+there is no one pleasure in't.
+i have drank up for to please
+thee, that great cup, hercules.
+urge no more; and there shall be
+daffadils giv'n up to thee.
+223. a canticle to apollo
+play, phoebus, on thy lute,
+and we will sit all mute;
+by listening to thy lyre,
+that sets all ears on fire.
+hark, hark!  the god does play!
+and as he leads the way
+through heaven, the very spheres,
+as men, turn all to ears!
+224. to music, to becalm a sweet sick youth
+charms, that call down the moon from out her sphere,
+on this sick youth work your enchantments here!
+bind up his senses with your numbers, so
+as to entrance his pain, or cure his woe.
+fall gently, gently, and a-while him keep
+lost in the civil wilderness of sleep:
+that done, then let him, dispossess'd of pain,
+like to a slumbering bride, awake again.
+225. to music:  a song
+music, thou queen of heaven, care-charming spell,
+that strik'st a stillness into hell;
+thou that tam'st tigers, and fierce storms, that rise,
+with thy soul-melting lullabies;
+fall down, down, down, from those thy chiming spheres
+to charm our souls, as thou enchant'st our ears.
+226. soft music
+the mellow touch of music most doth wound
+the soul, when it doth rather sigh, than sound.
+227. to music
+begin to charm, and as thou strok'st mine ears
+with thine enchantment, melt me into tears.
+then let thy active hand scud o'er thy lyre,
+and make my spirits frantic with the fire;
+that done, sink down into a silvery strain,
+and make me smooth as balm and oil again.
+228. the voice and viol
+rare is the voice itself:  but when we sing
+to th' lute or viol, then 'tis ravishing.
+229. to music, to becalm his fever
+charm me asleep, and melt me so
+with thy delicious numbers;
+that being ravish'd, hence i go
+away in easy slumbers.
+ease my sick head,
+and make my bed,
+thou power that canst sever
+from me this ill;--
+and quickly still,
+though thou not kill
+my fever.
+thou sweetly canst convert the same
+from a consuming fire,
+into a gentle-licking flame,
+and make it thus expire.
+then make me weep
+my pains asleep,
+and give me such reposes,
+that i, poor i,
+may think, thereby,
+i live and die
+'mongst roses.
+fall on me like a silent dew,
+or like those maiden showers,
+which, by the peep of day, do strew
+a baptism o'er the flowers.
+melt, melt my pains
+with thy soft strains;
+that having ease me given,
+with full delight,
+i leave this light,
+and take my flight
+for heaven.
+musae graviores
+230. a thanksgiving to god, for his house
+lord, thou hast given me a cell,
+wherein to dwell;
+a little house, whose humble roof
+is weather proof;
+under the spars of which i lie
+both soft and dry;
+where thou, my chamber for to ward,
+hast set a guard
+of harmless thoughts, to watch and keep
+me, while i sleep.
+low is my porch, as is my fate;
+both void of state;
+and yet the threshold of my door
+is worn by th' poor,
+who thither come, and freely get
+good words, or meat.
+like as my parlour, so my hall
+and kitchen's small;
+a little buttery, and therein
+a little bin,
+which keeps my little loaf of bread
+unchipt, unflead;
+some brittle sticks of thorn or briar
+make me a fire,
+close by whose living coal i sit,
+and glow like it.
+lord, i confess too, when i dine,
+the pulse is thine,
+and all those other bits that be
+there placed by thee;
+the worts, the purslain, and the mess
+of water-cress,
+which of thy kindness thou hast sent;
+and my content
+makes those, and my beloved beet,
+to be more sweet.
+'tis thou that crown'st my glittering hearth
+with guiltless mirth,
+and giv'st me wassail bowls to drink,
+spiced to the brink.
+lord, 'tis thy plenty-dropping hand
+that soils my land,
+and giv'st me, for my bushel sown,
+twice ten for one;
+thou mak'st my teeming hen to lay
+her egg each day;
+besides, my healthful ewes to bear
+me twins each year;
+the while the conduits of my kine
+run cream, for wine:
+all these, and better, thou dost send
+me, to this end,--
+that i should render, for my part,
+a thankful heart;
+which, fired with incense, i resign,
+as wholly thine;
+--but the acceptance, that must be,
+my christ, by thee.
+231. matins, or morning prayer
+when with the virgin morning thou dost rise,
+crossing thyself come thus to sacrifice;
+first wash thy heart in innocence; then bring
+pure hands, pure habits, pure, pure every thing.
+next to the altar humbly kneel, and thence
+give up thy soul in clouds of frankincense.
+thy golden censers fill'd with odours sweet
+shall make thy actions with their ends to meet.
+232. good precepts, or counsel
+in all thy need, be thou possest
+still with a well prepared breast;
+nor let the shackles make thee sad;
+thou canst but have what others had.
+and this for comfort thou must know,
+times that are ill won't still be so:
+clouds will not ever pour down rain;
+a sullen day will clear again.
+first, peals of thunder we must hear;
+when lutes and harps shall stroke the ear.
+233. pray and prosper
+first offer incense; then, thy field and meads
+shall smile and smell the better by thy beads.
+the spangling dew dredged o'er the grass shall be
+turn'd all to mell and manna there for thee.
+butter of amber, cream, and wine, and oil,
+shall run as rivers all throughout thy soil.
+would'st thou to sincere silver turn thy mould?
+--pray once, twice pray; and turn thy ground to gold.
+234. the bell-man
+along the dark and silent night,
+with my lantern and my light
+and the tinkling of my bell,
+thus i walk, and this i tell:
+--death and dreadfulness call on
+to the general session;
+to whose dismal bar, we there
+all accounts must come to clear:
+scores of sins we've made here many;
+wiped out few, god knows, if any.
+rise, ye debtors, then, and fall
+to make payment, while i call:
+ponder this, when i am gone:
+--by the clock 'tis almost one.
+235. upon time
+time was upon
+the wing, to fly away;
+and i call'd on
+him but awhile to stay;
+but he'd be gone,
+for aught that i could say.
+he held out then
+a writing, as he went,
+and ask'd me, when
+false man would be content
+to pay again
+what god and nature lent.
+an hour-glass,
+in which were sands but few,
+as he did pass,
+he shew'd,--and told me too
+mine end near was;--
+and so away he flew.
+236. men mind no state in sickness
+that flow of gallants which approach
+to kiss thy hand from out the coach;
+that fleet of lackeys which do run
+before thy swift postilion;
+those strong-hoof'd mules, which we behold
+rein'd in with purple, pearl, and gold,
+and shed with silver, prove to be
+the drawers of the axle-tree;
+thy wife, thy children, and the state
+of persian looms and antique plate:
+--all these, and more, shall then afford
+no joy to thee, their sickly lord.
+237. life is the body's light
+life is the body's light; which, once declining,
+those crimson clouds i' th' cheeks and lips leave shining:-
+those counter-changed tabbies in the air,
+the sun once set, all of one colour are:
+so, when death comes, fresh tinctures lose their place,
+and dismal darkness then doth smutch the face.
+238. to the lady crewe, upon the death of her child
+why, madam, will ye longer weep,
+whenas your baby's lull'd asleep?
+and, pretty child, feels now no more
+those pains it lately felt before.
+all now is silent; groans are fled;
+your child lies still, yet is not dead,
+but rather like a flower hid here,
+to spring again another year.
+239. upon a child that died
+here she lies, a pretty bud,
+lately made of flesh and blood;
+who as soon fell fast asleep,
+as her little eyes did peep.
+--give her strewings, but not stir
+the earth, that lightly covers her.
+240. upon a child
+here a pretty baby lies
+sung asleep with lullabies;
+pray be silent, and not stir
+th' easy earth that covers her.
+241. an epitaph upon a child
+virgins promised when i died,
+that they would each primrose-tide
+duly, morn and evening, come,
+and with flowers dress my tomb.
+--having promised, pay your debts
+maids, and here strew violets.
+242. an epitaph upon a virgin
+here a solemn fast we keep,
+while all beauty lies asleep;
+hush'd be all things, no noise here
+but the toning of a tear;
+or a sigh of such as bring
+cowslips for her covering.
+243. upon a maid
+here she lies, in bed of spice,
+fair as eve in paradise;
+for her beauty, it was such,
+poets could not praise too much.
+virgins come, and in a ring
+her supremest requiem sing;
+then depart, but see ye tread
+lightly, lightly o'er the dead.
+244. the dirge of jephthah's daughter:
+sung by the virgins
+o thou, the wonder of all days!
+o paragon, and pearl of praise!
+o virgin-martyr, ever blest
+above the rest
+of all the maiden-train!  we come,
+and bring fresh strewings to thy tomb.
+thus, thus, and thus, we compass round
+thy harmless and unhaunted ground;
+and as we sing thy dirge, we will
+the daffadil,
+and other flowers, lay upon
+the altar of our love, thy stone.
+thou wonder of all maids, liest here,
+of daughters all, the dearest dear;
+the eye of virgins; nay, the queen
+of this smooth green,
+and all sweet meads, from whence we get
+the primrose and the violet.
+too soon, too dear did jephthah buy,
+by thy sad loss, our liberty;
+his was the bond and cov'nant, yet
+thou paid'st the debt;
+lamented maid!  he won the day:
+but for the conquest thou didst pay.
+thy father brought with him along
+the olive branch and victor's song;
+he slew the ammonites, we know,
+but to thy woe;
+and in the purchase of our peace,
+the cure was worse than the disease.
+for which obedient zeal of thine,
+we offer here, before thy shrine,
+our sighs for storax, tears for wine;
+and to make fine
+and fresh thy hearse-cloth, we will here
+four times bestrew thee every year.
+receive, for this thy praise, our tears;
+receive this offering of our hairs;
+receive these crystal vials, fill'd
+with tears, distill'd
+from teeming eyes; to these we bring,
+each maid, her silver filleting,
+to gild thy tomb; besides, these cauls,
+these laces, ribbons, and these falls,
+these veils, wherewith we use to hide
+the bashful bride,
+when we conduct her to her groom;
+all, all we lay upon thy tomb.
+no more, no more, since thou art dead,
+shall we e'er bring coy brides to bed;
+no more, at yearly festivals,
+we, cowslip balls,
+or chains of columbines shall make,
+for this or that occasion's sake.
+no, no; our maiden pleasures be
+wrapt in the winding-sheet with thee;
+'tis we are dead, though not i' th' grave;
+or if we have
+one seed of life left, 'tis to keep
+a lent for thee, to fast and weep.
+sleep in thy peace, thy bed of spice,
+and make this place all paradise;
+may sweets grow here, and smoke from hence
+fat frankincense;
+let balm and cassia send their scent
+from out thy maiden-monument.
+may no wolf howl, or screech owl stir
+a wing about thy sepulchre!
+no boisterous winds or storms come hither,
+to starve or wither
+thy soft sweet earth; but, like a spring,
+love keep it ever flourishing.
+may all shy maids, at wonted hours,
+come forth to strew thy tomb with flowers;
+may virgins, when they come to mourn,
+male-incense burn
+upon thine altar; then return,
+and leave thee sleeping in thy urn.
+245. the widows' tears; or, dirge of dorcas
+come pity us, all ye who see
+our harps hung on the willow-tree;
+come pity us, ye passers-by,
+who see or hear poor widows' cry;
+come pity us, and bring your ears
+and eyes to pity widows' tears.
+chor.  and when you are come hither,
+then we will keep
+a fast, and weep
+our eyes out all together,
+for tabitha; who dead lies here,
+clean wash'd, and laid out for the bier.
+o modest matrons, weep and wail!
+for now the corn and wine must fail;
+the basket and the bin of bread,
+wherewith so many souls were fed,
+chor.  stand empty here for ever;
+and ah!  the poor,
+at thy worn door,
+shall be relieved never.
+woe worth the time, woe worth the day,
+that reft us of thee, tabitha!
+for we have lost, with thee, the meal,
+the bits, the morsels, and the deal
+of gentle paste and yielding dough,
+that thou on widows did bestow.
+chor.  all's gone, and death hath taken
+away from us
+our maundy; thus
+thy widows stand forsaken.
+ah, dorcas, dorcas!  now adieu
+we bid the cruise and pannier too;
+ay, and the flesh, for and the fish,
+doled to us in that lordly dish.
+we take our leaves now of the loom
+from whence the housewives' cloth did come;
+chor.  the web affords now nothing;
+thou being dead,
+the worsted thread
+is cut, that made us clothing.
+farewell the flax and reaming wool,
+with which thy house was plentiful;
+farewell the coats, the garments, and
+the sheets, the rugs, made by thy hand;
+farewell thy fire and thy light,
+that ne'er went out by day or night:--
+chor.  no, or thy zeal so speedy,
+that found a way,
+by peep of day,
+to feed and clothe the needy.
+but ah, alas!  the almond-bough
+and olive-branch is wither'd now;
+the wine-press now is ta'en from us,
+the saffron and the calamus;
+the spice and spikenard hence is gone,
+the storax and the cinnamon;
+chor.  the carol of our gladness
+has taken wing;
+and our late spring
+of mirth is turn'd to sadness.
+how wise wast thou in all thy ways!
+how worthy of respect and praise!
+how matron-like didst thou go drest!
+how soberly above the rest
+of those that prank it with their plumes,
+and jet it with their choice perfumes!
+chor.  thy vestures were not flowing;
+nor did the street
+accuse thy feet
+of mincing in their going.
+and though thou here liest dead, we see
+a deal of beauty yet in thee.
+how sweetly shews thy smiling face,
+thy lips with all diffused grace!
+thy hands, though cold, yet spotless, white,
+and comely as the chrysolite.
+chor.  thy belly like a hill is,
+or as a neat
+clean heap of wheat,
+all set about with lilies.
+sleep with thy beauties here, while we
+will shew these garments made by thee;
+these were the coats; in these are read
+the monuments of dorcas dead:
+these were thy acts, and thou shalt have
+these hung as honours o'er thy grave:--
+chor.  and after us, distressed,
+should fame be dumb,
+thy very tomb
+would cry out, thou art blessed.
+246. upon his sister-in-law, mistress elizabeth herrick
+first, for effusions due unto the dead,
+my solemn vows have here accomplished;
+next, how i love thee, that my grief must tell,
+wherein thou liv'st for ever.--dear, farewell!
+247. to his kinswoman, mistress susanna herrick
+when i consider, dearest, thou dost stay
+but here awhile, to languish and decay;
+like to these garden glories, which here be
+the flowery-sweet resemblances of thee:
+with grief of heart, methinks, i thus do cry,
+would thou hadst ne'er been born, or might'st not die!
+248. on himself
+i'll write no more of love, but now repent
+of all those times that i in it have spent.
+i'll write no more of life, but wish 'twas ended,
+and that my dust was to the earth commended.
+249. his wish to privacy
+give me a cell
+to dwell,
+where no foot hath
+a path;
+there will i spend,
+and end,
+my wearied years
+in tears.
+250. to his paternal country
+o earth!  earth!  earth!  hear thou my voice, and be
+loving and gentle for to cover me!
+banish'd from thee i live;--ne'er to return,
+unless thou giv'st my small remains an urn.
+251. cock-crow
+bell-man of night, if i about shall go
+for to deny my master, do thou crow!
+thou stop'st saint peter in the midst of sin;
+stay me, by crowing, ere i do begin;
+better it is, premonish'd, for to shun
+a sin, than fall to weeping when 'tis done.
+252. to his conscience
+can i not sin, but thou wilt be
+my private protonotary?
+can i not woo thee, to pass by
+a short and sweet iniquity?
+i'll cast a mist and cloud upon
+my delicate transgression,
+so utter dark, as that no eye
+shall see the hugg'd impiety.
+gifts blind the wise, and bribes do please
+and wind all other witnesses;
+and wilt not thou with gold be tied,
+to lay thy pen and ink aside,
+that in the mirk and tongueless night,
+wanton i may, and thou not write?
+--it will not be:  and therefore, now,
+for times to come, i'll make this vow;
+from aberrations to live free:
+so i'll not fear the judge, or thee.
+253. to heaven
+open thy gates
+to him who weeping waits,
+and might come in,
+but that held back by sin.
+let mercy be
+so kind, to set me free,
+and i will straight
+come in, or force the gate.
+254. an ode of the birth of our saviour
+in numbers, and but these few,
+i sing thy birth, oh jesu!
+thou pretty baby, born here,
+with sup'rabundant scorn here;
+who for thy princely port here,
+hadst for thy place
+of birth, a base
+out-stable for thy court here.
+instead of neat enclosures
+of interwoven osiers;
+instead of fragrant posies
+of daffadils and roses,
+thy cradle, kingly stranger,
+as gospel tells,
+was nothing else,
+but, here, a homely manger.
+but we with silks, not cruels,
+with sundry precious jewels,
+and lily-work will dress thee;
+and as we dispossess thee
+of clouts, we'll make a chamber,
+sweet babe, for thee,
+of ivory,
+and plaster'd round with amber.
+the jews, they did disdain thee;
+but we will entertain thee
+with glories to await here,
+upon thy princely state here,
+and more for love than pity:
+from year to year
+we'll make thee, here,
+a free-born of our city.
+255. to his saviour, a child;
+a present, by a child
+go, pretty child, and bear this flower
+unto thy little saviour;
+and tell him, by that bud now blown,
+he is the rose of sharon known.
+when thou hast said so, stick it there
+upon his bib or stomacher;
+and tell him, for good handsel too,
+that thou hast brought a whistle new,
+made of a clean straight oaten reed,
+to charm his cries at time of need;
+tell him, for coral, thou hast none,
+but if thou hadst, he should have one;
+but poor thou art, and known to be
+even as moneyless as he.
+lastly, if thou canst win a kiss
+from those melifluous lips of his;--
+then never take a second on,
+to spoil the first impression.
+256. grace for a child
+here, a little child, i stand,
+heaving up my either hand:
+cold as paddocks though they be,
+here i lift them up to thee,
+for a benison to fall
+on our meat, and on us all.
+amen.
+257. his litany, to the holy spirit
+in the hour of my distress,
+when temptations me oppress,
+and when i my sins confess,
+sweet spirit, comfort me!
+when i lie within my bed,
+sick in heart, and sick in head,
+and with doubts discomforted,
+sweet spirit, comfort me!
+when the house doth sigh and weep,
+and the world is drown'd in sleep,
+yet mine eyes the watch do keep,
+sweet spirit, comfort me!
+when the artless doctor sees
+no one hope, but of his fees,
+and his skill runs on the lees,
+sweet spirit, comfort me!
+when his potion and his pill,
+has, or none, or little skill,
+meet for nothing but to kill,
+sweet spirit, comfort me!
+when the passing-bell doth toll,
+and the furies in a shoal
+come to fright a parting soul,
+sweet spirit, comfort me!
+when the tapers now burn blue,
+and the comforters are few,
+and that number more than true,
+sweet spirit, comfort me!
+when the priest his last hath pray'd,
+and i nod to what is said,
+'cause my speech is now decay'd,
+sweet spirit, comfort me!
+when, god knows, i'm tost about
+either with despair, or doubt;
+yet, before the glass be out,
+sweet spirit, comfort me!
+when the tempter me pursu'th
+with the sins of all my youth,
+and half damns me with untruth,
+sweet spirit, comfort me!
+when the flames and hellish cries
+fright mine ears, and fright mine eyes,
+and all terrors me surprise,
+sweet spirit, comfort me!
+when the judgment is reveal'd,
+and that open'd which was seal'd;
+when to thee i have appeal'd,
+sweet spirit, comfort me!
+258. to death
+thou bidst me come away,
+and i'll no longer stay,
+than for to shed some tears
+for faults of former years;
+and to repent some crimes
+done in the present times;
+and next, to take a bit
+of bread, and wine with it;
+to don my robes of love,
+fit for the place above;
+to gird my loins about
+with charity throughout;
+and so to travel hence
+with feet of innocence;
+these done, i'll only cry,
+'god, mercy!' and so die.
+259. to his sweet saviour
+night hath no wings to him that cannot sleep;
+and time seems then not for to fly, but creep;
+slowly her chariot drives, as if that she
+had broke her wheel, or crack'd her axletree.
+just so it is with me, who list'ning, pray
+the winds to blow the tedious night away,
+that i might see the cheerful peeping day.
+sick is my heart; o saviour!  do thou please
+to make my bed soft in my sicknesses;
+lighten my candle, so that i beneath
+sleep not for ever in the vaults of death;
+let me thy voice betimes i' th' morning hear;
+call, and i'll come; say thou the when and where:
+draw me but first, and after thee i'll run,
+and make no one stop till my race be done.
+260. eternity
+o years!  and age!  farewell:
+behold i go,
+where i do know
+infinity to dwell.
+and these mine eyes shall see
+all times, how they
+are lost i' th' sea
+of vast eternity:--
+where never moon shall sway
+the stars; but she,
+and night, shall be
+drown'd in one endless day.
+261. the white island:
+or place of the blest
+in this world, the isle of dreams,
+while we sit by sorrow's streams,
+tears and terrors are our themes,
+reciting:
+but when once from hence we fly,
+more and more approaching nigh
+unto young eternity,
+uniting
+in that whiter island, where
+things are evermore sincere:
+candour here, and lustre there,
+delighting:--
+there no monstrous fancies shall
+out of hell an horror call,
+to create, or cause at all
+affrighting.
+there, in calm and cooling sleep,
+we our eyes shall never steep,
+but eternal watch shall keep,
+attending
+pleasures such as shall pursue
+me immortalized, and you;
+and fresh joys, as never too
+have ending.

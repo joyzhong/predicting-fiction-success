@@ -1,14 +1,26 @@
+from __future__ import division
 import re
-# import nltk.data
 import argparse
+import pickle
 
 # Input: file object
 # Returns as a tuple the avg sentence length in characters and in words
-def getAvgSentenceLength(f):
-	tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
-	data = f.read()
-	print '\n-----\n'.join(tokenizer.tokenize(data))
+def getAvgSentenceLength(filename):
+	f = open(filename, 'r')
 
+	# Split by sentences
+	segmenter_file = open('english.pickle', 'r')
+	sentence_segmenter = pickle.Unpickler(segmenter_file).load()
+	sentences = sentence_segmenter.tokenize(f.read())
+
+	lengthInChars = 0
+	for i, sentence in enumerate(sentences):
+		lengthInChars += len(sentence)
+
+	print "Average sentence length in chars: " + str(lengthInChars / len(sentences))
+	f.close()
+
+	return lengthInChars / len(sentences)
 
 def getAvgWordLength(filename):
 	f = open(filename, 'r')
@@ -30,6 +42,7 @@ def getFeatures(filename):
 	# f = open(filename, 'r')
 	# getAvgSentenceLength(f)
 	# f.close()
+	print getAvgSentenceLength(filename)
 	print "Average word length: " + str(getAvgWordLength(filename))
 	
 def main():
@@ -42,3 +55,6 @@ def main():
 
 if __name__ == '__main__':
 	main()
+
+
+

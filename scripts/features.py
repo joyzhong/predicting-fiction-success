@@ -66,7 +66,7 @@ def getPosTags(filename):
 	f = open(filename, 'r')
 	text = TextBlob(f.read(), pos_tagger=PerceptronTagger())
 	f.close()
-	return text.tags
+	return text
 
 # Gets unigrams in a default dict
 def getUnigrams(filename):
@@ -121,7 +121,7 @@ def getFeatures(filename):
 	print "Number of 'the' in text: " + str(unigrams["the"])
 	print "Number of unique bigrams: " + str(len(bigrams))
 	
-	# print "POS Tags: " + getPosTags(filename)
+	print "POS Tags: " + str(getPosTags(filename))
 
 def main():
 	parser = argparse.ArgumentParser()

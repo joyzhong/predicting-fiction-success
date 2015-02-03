@@ -2,6 +2,7 @@ from __future__ import division
 import re
 import argparse
 import pickle
+from collections import defaultdict
 import nltk
 
 # https://github.com/sloria/textblob-aptagger/tree/master
@@ -25,8 +26,6 @@ def getAvgSentenceLength(filename):
 		words = nltk.word_tokenize(sentence)
 		totWords += len(words)
 
-	print "Average sentence length in chars: " + str(totCharLength / len(sentences))
-	print "Average sentence length in words: " + str(totWords / len(sentences))
 	f.close()
 
 	return totCharLength / len(sentences), totWords / len(sentences)
@@ -46,6 +45,8 @@ def getAvgWordLengthNLTK(filename):
 
 	return totalNumChars / numWords
 
+# This code could be combined with 
+# get unigrams for minor efficiency improvements
 def getAvgWordLength(filename):
 	f = open(filename, 'r')
 
@@ -67,15 +68,62 @@ def getPosTags(filename):
 	f.close()
 	return text.tags
 
+# Gets unigrams in a default dict
+def getUnigrams(filename):
+
+	unigrams = defaultdict(int)
+	f = open(filename, 'r')
+
+	for i, line in enumerate(f):
+		words = line.strip().split()
+		for word in words:
+			cleanWord = re.sub(r"[^a-zA-Z0-9]", "", word)
+			unigrams[cleanWord] += 1
+	f.close()	
+
+	return unigrams
+
+# Gets bigrams in a default dict
+
+def getBigrams(filename):
+
+	cleanText = []
+	f = open(filename, 'r')
+
+	tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+	sentences = tokenizer.tokenize(f.read())
+
+	bigrams = defaultdict(int)
+	for i, sentenceStr in enumerate(sentences):
+		sentence = sentenceStr.strip().split()
+		sentence = [re.sub(r"[^a-zA-Z0-9]", "", word) for word in sentence]
+		sentenceBigrams = zip(sentence, sentence[1:])
+		for j, bigram in enumerate(sentenceBigrams):
+			bigrams[bigram] += 1 
+
+	f.close()	
+
+	return bigrams
+
 # Input: file name
 def getFeatures(filename):
-	# print getAvgSentenceLength(filename)
-	# print "Average word length: " + str(getAvgWordLength(filename))
-	# print "Average word length (NLTK): " + str(getAvgWordLengthNLTK(filename))
-	# print "POS Tags: " + getPosTags(filename)
+	unigrams = getUnigrams(filename)
+	bigrams = getBigrams(filename)
+	avgSentenceLength = getAvgSentenceLength(filename)
+	avgWordLength = getAvgWordLength(filename)
+	avgWordLengthNLTK = getAvgWordLengthNLTK(filename)
+
+	print "Average sentence length in chars: " + str(avgSentenceLength)
+	print "Average word length: " + str(avgWordLength)
+	print "Average word length (NLTK): " + str(avgWordLengthNLTK)
+
+	print "Number of unique unigrams: " + str(len(unigrams))
+	print "Number of 'the' in text: " + str(unigrams["the"])
+	print "Number of unique bigrams: " + str(len(bigrams))
 	
+	# print "POS Tags: " + getPosTags(filename)
+
 def main():
-	# getFeatures("../novels/Historical_Fiction/hf_fold1/success1/1880.txt")
 	parser = argparse.ArgumentParser()
 	parser.add_argument('-f', required = True)
 	

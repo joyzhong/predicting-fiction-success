@@ -2,6 +2,7 @@ from __future__ import division
 import re
 import argparse
 import pickle
+import nltk
 
 # Input: file object
 # Returns as a tuple the avg sentence length in characters and in words
@@ -9,18 +10,37 @@ def getAvgSentenceLength(filename):
 	f = open(filename, 'r')
 
 	# Split by sentences
-	segmenter_file = open('english.pickle', 'r')
-	sentence_segmenter = pickle.Unpickler(segmenter_file).load()
-	sentences = sentence_segmenter.tokenize(f.read())
+	tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+	sentences = tokenizer.tokenize(f.read())
 
 	lengthInChars = 0
+	lengthInWords = 0
 	for i, sentence in enumerate(sentences):
 		lengthInChars += len(sentence)
+		words = nltk.word_tokenize(sentence)
 
-	print "Average sentence length in chars: " + str(lengthInChars / len(sentences))
+	lengthInChars /= len(sentences)
+	lengthInWords /= len(sentences)
+	print "Average sentence length in chars: " + str(lengthInChars)
+	print "Average sentence length in words: " + str(lengthInWords)
 	f.close()
 
-	return lengthInChars / len(sentences)
+	return lengthInChars, lengthInWords
+
+def getAvgWordLengthNLTK(filename):
+	f = open(filename, 'r')
+	words = nltk.word_tokenize(f.read())
+
+	totalNumChars = 0
+	numWords = 0
+	for word in words:
+		if word.isalnum():
+			totalNumChars += len(word)
+			numWords += 1
+
+	f.close()
+
+	return totalNumChars / numWords
 
 def getAvgWordLength(filename):
 	f = open(filename, 'r')
@@ -44,6 +64,7 @@ def getFeatures(filename):
 	# f.close()
 	print getAvgSentenceLength(filename)
 	print "Average word length: " + str(getAvgWordLength(filename))
+	print "Average word length (NLTK): " + str(getAvgWordLengthNLTK(filename))
 	
 def main():
 	# getFeatures("../novels/Historical_Fiction/hf_fold1/success1/1880.txt")

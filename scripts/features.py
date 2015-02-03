@@ -80,9 +80,8 @@ def getBigrams(filename):
 	cleanText = []
 	f = open(filename, 'r')
 
-	segmenter_file = open('english.pickle', 'r')
-	sentence_segmenter = pickle.Unpickler(segmenter_file).load()
-	sentences = sentence_segmenter.tokenize(f.read())
+	tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+	sentences = tokenizer.tokenize(f.read())
 
 	bigrams = defaultdict(int)
 	for i, sentenceStr in enumerate(sentences):

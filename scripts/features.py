@@ -3,6 +3,7 @@ import re
 import argparse
 import pickle
 from collections import defaultdict
+import nltk
 
 # Input: file object
 # Returns as a tuple the avg sentence length in characters and in words
@@ -10,17 +11,35 @@ def getAvgSentenceLength(filename):
 	f = open(filename, 'r')
 
 	# Split by sentences
-	segmenter_file = open('english.pickle', 'r')
-	sentence_segmenter = pickle.Unpickler(segmenter_file).load()
-	sentences = sentence_segmenter.tokenize(f.read())
+	tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+	sentences = tokenizer.tokenize(f.read())
 
 	lengthInChars = 0
+	lengthInWords = 0
 	for i, sentence in enumerate(sentences):
 		lengthInChars += len(sentence)
+		words = nltk.word_tokenize(sentence)
+
+	lengthInChars /= len(sentences)
+	lengthInWords /= len(sentences)
+	f.close()
+
+	return lengthInChars, lengthInWords
+
+def getAvgWordLengthNLTK(filename):
+	f = open(filename, 'r')
+	words = nltk.word_tokenize(f.read())
+
+	totalNumChars = 0
+	numWords = 0
+	for word in words:
+		if word.isalnum():
+			totalNumChars += len(word)
+			numWords += 1
 
 	f.close()
 
-	return lengthInChars / len(sentences)
+	return totalNumChars / numWords
 
 # This code could be combined with 
 # get unigrams for minor efficiency improvements
@@ -79,18 +98,20 @@ def getBigrams(filename):
 
 # Input: file name
 def getFeatures(filename):
+
 	unigrams = getUnigrams(filename)
 	bigrams = getBigrams(filename)
 	avgSentenceLength = getAvgSentenceLength(filename)
 	avgWordLength = getAvgWordLength(filename)
+	avgWordLengthNLTK = getAvgWordLengthNLTK(filename)
 
 	print "Average sentence length in chars: " + str(avgSentenceLength)
 	print "Average word length: " + str(avgWordLength)
+	print "Average word length (NLTK): " + str(avgWordLengthNLTK)
 
 	print "Number of unique unigrams: " + str(len(unigrams))
 	print "Number of 'the' in text: " + str(unigrams["the"])
 	print "Number of unique bigrams: " + str(len(bigrams))
-
 	
 def main():
 	parser = argparse.ArgumentParser()

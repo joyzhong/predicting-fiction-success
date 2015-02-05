@@ -2,7 +2,7 @@ from __future__ import division
 import re
 import argparse
 import pickle
-from collections import defaultdict
+from collections import defaultdict, Counter
 import nltk
 
 # https://github.com/sloria/textblob-aptagger/tree/master
@@ -62,11 +62,17 @@ def getAvgWordLength(filename):
 
 	return totLength / numWords
 
+# Returns as a tuple the POS hard counts (e.g. {'DT': 2, 'NN': 2})
+# and the normalized counts
 def getPosTags(filename):
 	f = open(filename, 'r')
-	text = TextBlob(f.read(), pos_tagger=PerceptronTagger())
+	tagged = TextBlob(f.read(), pos_tagger=PerceptronTagger())
 	f.close()
-	return text.tags
+
+	counts = Counter(tag for word, tag in tagged.tags)
+	total = sum(counts.values())
+	normalizedCounts = dict((word, float(count)/total) for word,count in counts.items())
+	return counts, normalizedCounts
 
 # Gets unigrams in a default dict
 def getUnigrams(filename):
@@ -107,21 +113,23 @@ def getBigrams(filename):
 
 # Input: file name
 def getFeatures(filename):
-	unigrams = getUnigrams(filename)
-	bigrams = getBigrams(filename)
-	avgSentenceLength = getAvgSentenceLength(filename)
-	avgWordLength = getAvgWordLength(filename)
-	avgWordLengthNLTK = getAvgWordLengthNLTK(filename)
+	# unigrams = getUnigrams(filename)
+	# bigrams = getBigrams(filename)
+	# avgSentenceLength = getAvgSentenceLength(filename)
+	# avgWordLength = getAvgWordLength(filename)
+	# avgWordLengthNLTK = getAvgWordLengthNLTK(filename)
 
-	print "Average sentence length in chars: " + str(avgSentenceLength)
-	print "Average word length: " + str(avgWordLength)
-	print "Average word length (NLTK): " + str(avgWordLengthNLTK)
+	# print "Average sentence length in chars: " + str(avgSentenceLength)
+	# print "Average word length: " + str(avgWordLength)
+	# print "Average word length (NLTK): " + str(avgWordLengthNLTK)
 
-	print "Number of unique unigrams: " + str(len(unigrams))
-	print "Number of 'the' in text: " + str(unigrams["the"])
-	print "Number of unique bigrams: " + str(len(bigrams))
+	# print "Number of unique unigrams: " + str(len(unigrams))
+	# print "Number of 'the' in text: " + str(unigrams["the"])
+	# print "Number of unique bigrams: " + str(len(bigrams))
 	
-	# print "POS Tags: " + getPosTags(filename)
+	posTags = getPosTags(filename)
+	print "Hard counts of POS tags: " + str(posTags[0])
+	print "Normalized counts of POS tags: " + str(posTags[1])
 
 def main():
 	parser = argparse.ArgumentParser()

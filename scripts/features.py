@@ -130,7 +130,7 @@ def getFeatures(filename):
 	posTags = getPosTags(filename)
 	print "Hard counts of POS tags: " + str(posTags[0])
 	print "Normalized counts of POS tags: " + str(posTags[1])
-
+	
 def main():
 	parser = argparse.ArgumentParser()
 	parser.add_argument('-f', required = True)

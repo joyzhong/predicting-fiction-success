@@ -10,14 +10,14 @@ import nltk
 from textblob import TextBlob
 from textblob_aptagger import PerceptronTagger
 
+POS_TAGS = ['CC', 'CD', 'DT', 'EX', 'FW', 'IN', 'JJ', 'JJR', 'JJS', 'LS', 'MD',
+'NN', 'NNS', 'NNP', 'NNPS', 'PDT', 'POS', 'PRP', 'PRP$', 'RB', 'RBR', 'RBS', 'RP',
+'SYM', 'TO', 'UH', 'VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ', 'WDT', 'WP', 'WP$', 'WRB']
+
 # Input: file object
 # Returns as a tuple the avg sentence length in characters and in words
 def getAvgSentenceLength(filename):
-	f = open(filename, 'r')
-
-	# Split by sentences
-	tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
-	sentences = tokenizer.tokenize(f.read())
+	sentences = getSentences(filename)
 
 	totCharLength = 0
 	totWords = 0
@@ -26,9 +26,17 @@ def getAvgSentenceLength(filename):
 		words = nltk.word_tokenize(sentence)
 		totWords += len(words)
 
-	f.close()
-
 	return totCharLength / len(sentences), totWords / len(sentences)
+
+def getSentences(filename):
+	f = open(filename, 'r')
+
+	# Split by sentences
+	tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+	sentences = tokenizer.tokenize(f.read())
+
+	f.close()
+	return sentences
 
 def getAvgWordLengthNLTK(filename):
 	f = open(filename, 'r')
@@ -62,21 +70,46 @@ def getAvgWordLength(filename):
 
 	return totLength / numWords
 
-# Returns as a tuple the POS hard counts (e.g. {'DT': 2, 'NN': 2})
-# and the normalized counts
-def getPosTags(filename):
+def getPosTags(string):
+	tagged = TextBlob(string, pos_tagger=PerceptronTagger())
+	return tagged.tags
+
+# Returns as a tuple the POS hard counts and normalized counts.
+def getPosCounts(filename):
 	f = open(filename, 'r')
-	tagged = TextBlob(f.read(), pos_tagger=PerceptronTagger())
+	tags = getPosTags(f.read())
 	f.close()
 
-	counts = Counter(tag for word, tag in tagged.tags)
+	counts = Counter(tag for word, tag in tags)
 	total = sum(counts.values())
 	normalizedCounts = dict((word, float(count)/total) for word,count in counts.items())
 	return counts, normalizedCounts
 
+# Returns an array of the average number of times each
+# POS tag occurs in a sentence
+def getPosCountPerSentence(filename):
+	sentences = getSentences(filename)
+	counts = getPosCounts(filename)[0]
+	for tag in counts:
+		counts[tag] = counts[tag] / len(sentences)
+
+	posDict = getPosDict()
+	countsArr = [0] * len(posDict)
+	for tag in counts:
+		countsArr[posDict[tag]] = counts[tag] 
+
+	return countsArr
+
+def getPosDict():
+	posDict = {}
+	for i, tag in enumerate(POS_TAGS):
+		posDict[tag] = i
+
+	return posDict
+
+
 # Gets unigrams in a default dict
 def getUnigrams(filename):
-
 	unigrams = defaultdict(int)
 	f = open(filename, 'r')
 
@@ -92,7 +125,6 @@ def getUnigrams(filename):
 # Gets bigrams in a default dict
 
 def getBigrams(filename):
-
 	cleanText = []
 	f = open(filename, 'r')
 
@@ -127,10 +159,10 @@ def getFeatures(filename):
 	# print "Number of 'the' in text: " + str(unigrams["the"])
 	# print "Number of unique bigrams: " + str(len(bigrams))
 	
-	posTags = getPosTags(filename)
-	print "Hard counts of POS tags: " + str(posTags[0])
-	print "Normalized counts of POS tags: " + str(posTags[1])
-	
+	poscounts = getPosCountPerSentence(filename)
+	for i, count in enumerate(poscounts):
+		print POS_TAGS[i], count
+
 def main():
 	parser = argparse.ArgumentParser()
 	parser.add_argument('-f', required = True)

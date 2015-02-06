@@ -5,10 +5,13 @@ import pickle
 from collections import defaultdict, Counter
 import nltk
 
+from scipy.sparse import csr_matrix, coo_matrix, hstack
+
 # https://github.com/sloria/textblob-aptagger/tree/master
 # https://honnibal.wordpress.com/2013/09/11/a-good-part-of-speechpos-tagger-in-about-200-lines-of-python/
 from textblob import TextBlob
 from textblob_aptagger import PerceptronTagger
+import numpy as np
 
 # Input: file object
 # Returns as a tuple the avg sentence length in characters and in words
@@ -72,7 +75,7 @@ def getPosTags(filename):
 	counts = Counter(tag for word, tag in tagged.tags)
 	total = sum(counts.values())
 	normalizedCounts = dict((word, float(count)/total) for word,count in counts.items())
-	return counts, normalizedCounts
+	return normalizedCounts
 
 # Gets unigrams in a default dict
 def getUnigrams(filename):
@@ -93,6 +96,7 @@ def getUnigrams(filename):
 
 def getBigrams(filename):
 
+	print filename
 	cleanText = []
 	f = open(filename, 'r')
 
@@ -112,7 +116,7 @@ def getBigrams(filename):
 	return bigrams
 
 # Input: file name
-def getFeatures(filename):
+def getOtherFeatures(filename):
 	# unigrams = getUnigrams(filename)
 	# bigrams = getBigrams(filename)
 	# avgSentenceLength = getAvgSentenceLength(filename)
@@ -127,16 +131,23 @@ def getFeatures(filename):
 	# print "Number of 'the' in text: " + str(unigrams["the"])
 	# print "Number of unique bigrams: " + str(len(bigrams))
 	
-	posTags = getPosTags(filename)
-	print "Hard counts of POS tags: " + str(posTags[0])
-	print "Normalized counts of POS tags: " + str(posTags[1])
+	# posTags = getPosTags(filename)
+	avgSentenceLengthChar, avgSentenceLengthWord = getAvgSentenceLength(filename)
+	avgWordLength = getAvgWordLength(filename)
+
+	features = (avgSentenceLengthChar, avgSentenceLengthWord, avgWordLength)
+	features = np.hstack(features)
+
+	return features
+
+
 	
 def main():
 	parser = argparse.ArgumentParser()
 	parser.add_argument('-f', required = True)
 	
 	argMap = vars(parser.parse_args())
-	getFeatures(argMap['f'])
+	print getOtherFeatures(argMap['f'])
 
 if __name__ == '__main__':
 	main()

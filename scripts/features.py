@@ -5,10 +5,13 @@ import pickle
 from collections import defaultdict, Counter
 import nltk
 
+from scipy.sparse import csr_matrix, coo_matrix, hstack
+
 # https://github.com/sloria/textblob-aptagger/tree/master
 # https://honnibal.wordpress.com/2013/09/11/a-good-part-of-speechpos-tagger-in-about-200-lines-of-python/
 from textblob import TextBlob
 from textblob_aptagger import PerceptronTagger
+import numpy as np
 
 POS_TAGS = ['CC', 'CD', 'DT', 'EX', 'FW', 'IN', 'JJ', 'JJR', 'JJS', 'LS', 'MD',
 'NN', 'NNS', 'NNP', 'NNPS', 'PDT', 'POS', 'PRP', 'PRP$', 'RB', 'RBR', 'RBS', 'RP',
@@ -125,6 +128,9 @@ def getUnigrams(filename):
 # Gets bigrams in a default dict
 
 def getBigrams(filename):
+
+	print filename
+
 	cleanText = []
 	f = open(filename, 'r')
 
@@ -144,7 +150,7 @@ def getBigrams(filename):
 	return bigrams
 
 # Input: file name
-def getFeatures(filename):
+def getOtherFeatures(filename):
 	# unigrams = getUnigrams(filename)
 	# bigrams = getBigrams(filename)
 	# avgSentenceLength = getAvgSentenceLength(filename)
@@ -159,16 +165,27 @@ def getFeatures(filename):
 	# print "Number of 'the' in text: " + str(unigrams["the"])
 	# print "Number of unique bigrams: " + str(len(bigrams))
 	
-	poscounts = getPosCountPerSentence(filename)
-	for i, count in enumerate(poscounts):
-		print POS_TAGS[i], count
+	# posTags = getPosTags(filename)
+	# poscounts = getPosCountPerSentence(filename)
+	# for i, count in enumerate(poscounts):
+	# 	print POS_TAGS[i], count
+
+	avgSentenceLengthChar, avgSentenceLengthWord = getAvgSentenceLength(filename)
+	avgWordLength = getAvgWordLength(filename)
+	POS = getPosCountPerSentence(filename)
+	# POS = []
+
+	features = (avgSentenceLengthChar, avgSentenceLengthWord, avgWordLength, POS)
+	features = np.hstack(features)
+
+	return features
 
 def main():
 	parser = argparse.ArgumentParser()
 	parser.add_argument('-f', required = True)
 	
 	argMap = vars(parser.parse_args())
-	getFeatures(argMap['f'])
+	print getOtherFeatures(argMap['f'])
 
 if __name__ == '__main__':
 	main()

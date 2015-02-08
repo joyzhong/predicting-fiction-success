@@ -86,7 +86,7 @@ def getPosCounts(filename):
 	counts = Counter(tag for word, tag in tags)
 	total = sum(counts.values())
 	normalizedCounts = dict((word, float(count)/total) for word,count in counts.items())
-	return normalizedCounts
+	return counts, normalizedCounts
 
 # Returns an array of the average number of times each
 # POS tag occurs in a sentence
@@ -172,8 +172,10 @@ def getOtherFeatures(filename):
 
 	avgSentenceLengthChar, avgSentenceLengthWord = getAvgSentenceLength(filename)
 	avgWordLength = getAvgWordLength(filename)
+	POS = getPosCountPerSentence(filename)
+	# POS = []
 
-	features = (avgSentenceLengthChar, avgSentenceLengthWord, avgWordLength)
+	features = (avgSentenceLengthChar, avgSentenceLengthWord, avgWordLength, POS)
 	features = np.hstack(features)
 
 	return features

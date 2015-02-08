@@ -2,7 +2,9 @@
 from __future__ import division
 from sklearn.svm import SVC
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.tree import DecisionTreeClassifier
 from scipy.sparse import csr_matrix, coo_matrix, hstack
+from sklearn.feature_selection import SelectKBest, chi2
 import numpy as np
 import math
 
@@ -80,6 +82,7 @@ def getKeyIds(listDict):
 	keyIdMap = {}
 	for i in range(len(allKeys)):
 		keyIdMap[allKeys[i]] = i
+		keyIdMap[i] = allKeys[i]
 
 	return keyIdMap
 
@@ -169,7 +172,7 @@ def main():
 	# collect counts
 	for example in itertools.chain(bigramFeaturesTrain, unigramFeaturesTrain):
 		for gram, count in example.items():
-			idfTrain[gram] += count
+			idfTrain[gram] += 1
 
 	# do tfidf
 	for example in bigramFeaturesTrain:
@@ -184,7 +187,7 @@ def main():
 	# collect counts
 	for example in itertools.chain(bigramFeaturesTest, unigramFeaturesTest):
 		for gram, count in example.items():
-			idfTest[gram] += count
+			idfTest[gram] += 1
 
 	# do tfidf
 	for example in bigramFeaturesTest:
@@ -206,6 +209,39 @@ def main():
 	unigramFeaturesTrain = dictListToCSR(unigramFeaturesTrain, keyIdMap = keyIdMapUnigrams)
 	unigramFeaturesTest = dictListToCSR(unigramFeaturesTest, keyIdMap = keyIdMapUnigrams)
 
+	# Feature selection on unigrams and bigrams
+	numSelect = 100
+	unigramSelector = RandomForestClassifier(n_estimators=100, random_state = 0)
+	unigramSelector = unigramSelector.fit(unigramFeaturesTrain.toarray(), classificationsTrain)
+	unigramMask = unigramSelector.feature_importances_
+	unigramMask = np.argpartition(unigramMask, -numSelect)[-numSelect:]
+
+	bigramSelector = RandomForestClassifier(n_estimators=100, random_state = 0)
+	bigramSelector = bigramSelector.fit(bigramFeaturesTrain.toarray(), classificationsTrain)
+	bigramMask = bigramSelector.feature_importances_
+	bigramMask = np.argpartition(bigramMask, -numSelect)[-numSelect:]
+	
+	print "Indices of most important unigrams " + str(unigramMask)
+	print [keyIdMapUnigrams[x] for x in unigramMask]
+	print "Indices of most important bigrams " + str(bigramMask)
+	print [keyIdMapBigrams[x] for x in bigramMask]
+
+	# print unigramFeaturesTrain.shape
+	# print unigramFeaturesTest.shape
+
+	unigramFeaturesTrain = unigramFeaturesTrain[:, unigramMask]
+	bigramFeaturesTrain = bigramFeaturesTrain[:, bigramMask]
+
+	unigramFeaturesTest = unigramFeaturesTest[:, unigramMask]
+	bigramFeaturesTest = bigramFeaturesTest[:, bigramMask]
+
+	unigramFeaturesTrain = csr_matrix(unigramFeaturesTrain)
+	bigramFeaturesTrain = csr_matrix(bigramFeaturesTrain)
+
+	unigramFeaturesTest = csr_matrix(unigramFeaturesTest)
+	bigramFeaturesTest = csr_matrix(bigramFeaturesTest)
+
+	# Other features
 	otherFeaturesTrain = csr_matrix(otherFeaturesTrain)
 	otherFeaturesTest = csr_matrix(otherFeaturesTest)
 
@@ -213,11 +249,11 @@ def main():
 	print unigramFeaturesTrain.shape
 	print otherFeaturesTrain.shape
 
-	# Xtrain = hstack([otherFeaturesTrain, bigramFeaturesTrain, unigramFeaturesTrain])
-	# Xtest = hstack([otherFeaturesTest, bigramFeaturesTest, unigramFeaturesTest])
+	Xtrain = hstack([otherFeaturesTrain, bigramFeaturesTrain, unigramFeaturesTrain])
+	Xtest = hstack([otherFeaturesTest, bigramFeaturesTest, unigramFeaturesTest])
 
-	Xtrain = otherFeaturesTrain
-	Xtest = otherFeaturesTest
+	# Xtrain = otherFeaturesTrain
+	# Xtest = otherFeaturesTest
 
 	print str(time.clock() - a) + " time elapsed for feature extraction"
 	a = time.clock()
@@ -230,7 +266,7 @@ def main():
 	print str(time.clock() - a) + " time elapsed for SVM"
 
 	a = time.clock()
-	clf = RandomForestClassifier(n_estimators=500)
+	clf = RandomForestClassifier(n_estimators=5000)
 	clf = clf.fit(Xtrain.toarray(), classificationsTrain)
 	classificationGuess = clf.predict(Xtest.toarray())
 	print clf.feature_importances_

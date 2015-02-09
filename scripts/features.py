@@ -4,6 +4,7 @@ import argparse
 import pickle
 from collections import defaultdict, Counter
 import nltk
+import pos_tags
 
 from scipy.sparse import csr_matrix, coo_matrix, hstack
 
@@ -172,7 +173,7 @@ def getOtherFeatures(filename):
 
 	avgSentenceLengthChar, avgSentenceLengthWord = getAvgSentenceLength(filename)
 	avgWordLength = getAvgWordLength(filename)
-	POS = getPosCountPerSentence(filename)
+	POS = pos_tags.loadTagsFromPickle(filename)
 	# POS = []
 
 	features = (avgSentenceLengthChar, avgSentenceLengthWord, avgWordLength, POS)

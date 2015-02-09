@@ -24,12 +24,17 @@ def saveTagsAsPickle(file_in):
 	pickle.dump(counts, f_out)
 	f_out.close()
 
-def loadTagsFromPickle(pickle_in):
-	pkl_file = open(pickle_in, 'rb')
-	tags = pickle.load(pkl_file)
-	pkl_file.close()
-	return tags
+def loadTagsFromPickle(file_in):
+	try:
+		pkl_file = open(file_in.replace(".txt", ".pkl"), 'rb')
+		tags = pickle.load(pkl_file)
+		pkl_file.close()
+		return tags
 
-getPosTags(sys.argv[1])
+	except IOError:
+		print "Cannot find .pkl version of " + file_in
+
+# getPosTags(sys.argv[1])
 # saveTagsAsPickle(sys.argv[1])
+print loadTagsFromPickle(sys.argv[1])
 

@@ -4,7 +4,6 @@
 SUCCESS: FileName: 103.txt ,Title: around the world in 80 days ,Author: "verne, jules, 1828-1905" ,Language: en ,DownloadCount: 3260
 SUCCESS: FileName: 1145.txt ,Title: rupert of hentzau ,Author: "hope, anthony, 1863-1933" ,Language: en ,DownloadCount: 141
 SUCCESS: FileName: 1947.txt ,Title: scaramouche ,Author: "sabatini, rafael, 1875-1950" ,Language: en ,DownloadCount: 434
-SUCCESS: FileName: 19513.txt ,Title: a journey to the center of the earth ,Author: "verne, jules, 1828-1905" ,Language: en ,DownloadCount: 336
 SUCCESS: FileName: 1965.txt ,Title: captain blood ,Author: "sabatini, rafael, 1875-1950" ,Language: en ,DownloadCount: 638
 SUCCESS: FileName: 2166.txt ,Title: king solomon's mines ,Author: "haggard, h. rider (henry rider), 1856-1925" ,Language: en ,DownloadCount: 1667
 SUCCESS: FileName: 24091.txt ,Title: despoilers of the golden empire ,Author: "garrett, randall, 1927-1987" ,Language: en ,DownloadCount: 115

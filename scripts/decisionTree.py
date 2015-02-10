@@ -1,6 +1,6 @@
 from __future__ import division
 import numpy as np
-import TreeNode
+from TreeNode import TreeNode
 import math
 
 # Recursively grow decision trees
@@ -16,7 +16,7 @@ def growDecisionTree(X, y, depth = 0):
 
 	bestFeature, bestSplit = chooseBestFeatureSplit(X, y)
 
-	leftIndices = np.where(X[:,bestFeature] <= bestSplit)
+	leftIndices = np.where(X[:,bestFeature] <= bestSplit)[0]
 	rightIndices =  np.setdiff1d(np.array(range(len(y))), leftIndices)
 
 	node = TreeNode(bestFeature, bestSplit)
@@ -27,10 +27,10 @@ def growDecisionTree(X, y, depth = 0):
 
 def chooseBestFeatureSplit(X, y):
 	bestFeature = 0
-	bestSplit = 0
-	bestInfoGain = 0
-	for feature in len(X[0,:]):
-		infoGain, split = bestSplit(feature, X, y)
+	bestSplit = X[0, 0]
+	bestInfoGain = -np.inf
+	for feature in range(len(X[0,:])):
+		infoGain, split = calcBestSplit(feature, X, y)
 		if bestInfoGain < infoGain:
 			bestInfoGain = infoGain
 			bestFeature = feature
@@ -38,11 +38,13 @@ def chooseBestFeatureSplit(X, y):
 
 	return bestFeature, bestSplit
 
-def bestSplit(feature, X, y):
-	bestSplit = 0
-	bestInfoGain = 0
-	for split in np.unique(X[:, feature]):
-		infoGain, split = calcInfoGain(split, feature, X, y)
+def calcBestSplit(feature, X, y):
+	bestSplit = X[0, feature]
+	bestInfoGain = -np.inf
+	uniqueVals = np.unique(X[:, feature])
+	for i in range(len(uniqueVals) - 1):
+		split = uniqueVals[i]
+		infoGain = calcInfoGain(split, feature, X, y)
 		if bestInfoGain < infoGain:
 			bestInfoGain = infoGain
 			bestSplit = split
@@ -52,7 +54,7 @@ def bestSplit(feature, X, y):
 # Calculates negative entropy, because in maximizing info gain
 # we are really minimizing entropy
 def calcInfoGain(split, feature, X, y):
-	leftIndices = np.where(X[:, feature] <= split)
+	leftIndices = np.where(X[:, feature] <= split)[0]
 	rightIndices =  np.setdiff1d(np.array(range(len(y))), leftIndices)
 
 	labelA = y[leftIndices]
@@ -75,4 +77,25 @@ def calcEntropy(y):
 		return 0
 
 	return -p1 * math.log(p1) - p2 * math.log(p2)
+
+# Input: y, a single text example
+# Output: label, a scalar
+def predictLabels(y, root):
+	if root.category != None:
+		return root.category
+
+	if y[root.feature] <= root.split:
+		return predictLabels(y, root.left)
+	return predictLabels(y, root.right)
+
+
+def main():
+	X = np.array([[0, 1], [1, 1], [0, 0], [1, 0]])
+	y = np.array([0, 0, 1, 1])
+
+	root = growDecisionTree(X, y)
+	print predictLabels(np.array([999, 0]), root)
+
+if __name__ == '__main__':
+	main()
 

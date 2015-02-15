@@ -12,7 +12,6 @@ def getPosTags(root_dir):
 		for f in files:
 			if ".txt" in f and f.replace(".txt", ".pkl") not in files:
 				f_in = os.path.join(subdir, f)
-				print f_in
 				saveTagsAsPickle(f_in)
 
 def saveTagsAsPickle(file_in):
@@ -34,7 +33,10 @@ def loadTagsFromPickle(file_in):
 	except IOError:
 		print "Cannot find .pkl version of " + file_in
 
-# getPosTags(sys.argv[1])
-# saveTagsAsPickle(sys.argv[1])
-print loadTagsFromPickle(sys.argv[1])
+def main():
+	# getPosTags(sys.argv[1])
+	# saveTagsAsPickle(sys.argv[1])
+	print loadTagsFromPickle(sys.argv[1])
 
+if __name__ == '__main__':
+	main()

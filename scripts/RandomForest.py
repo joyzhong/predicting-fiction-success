@@ -2,9 +2,13 @@ from __future__ import division
 import numpy as np
 import decisionTree as dt
 import pickle
+import math
+import time
+from sklearn.svm import SVC
+from sklearn.ensemble import RandomForestClassifier
 
 class RandomForest:
-	def __init__(self, trees = 100, fraction = .2, mtry = 10, replace = True):
+	def __init__(self, trees = 100, fraction = .3, mtry = 10, replace = True):
 	    self.trees = trees
 	    self.fraction = fraction
 	    self.forest = None
@@ -65,28 +69,43 @@ def main():
 	# indices = np.where(y <= 1)
 	# X = X[indices]
 	# y = y[indices]
-	pkl_file = open("Xtrain.pkl", 'rb')
+	pkl_file = open("XtrainFold4.pkl", 'rb')
 	X = pickle.load(pkl_file)
 	pkl_file.close()
-	pkl_file = open("labels.pkl", 'rb')
+	pkl_file = open("ytrainFold4.pkl", 'rb')
 	y = pickle.load(pkl_file)
-	pkl_file.close()
-	y = [int(x == "success") for x in y]
 	y = np.array(y)
+	pkl_file.close()
 
-	pkl_file = open("Xtest.pkl", 'rb')
+	pkl_file = open("XtestFold4.pkl", 'rb')
 	Xtest = pickle.load(pkl_file)
 	pkl_file.close()
-	pkl_file = open("correct.pkl", 'rb')
+	pkl_file = open("correctFold4.pkl", 'rb')
 	correct = pickle.load(pkl_file)
-	correct = [int(x == "success") for x in correct]
 	correct = np.array(correct)
 	pkl_file.close()
 
-	rf = RandomForest(trees = 100, fraction = 1, mtry = 10, replace = False)
+	print "SVM"
+	svm = SVC()
+	svm.fit(X, y)
+	guess = svm.predict(Xtest)
+	printError(guess, correct)
+
+	print "Built-in RF"
+	clf = RandomForestClassifier(n_estimators=5000)
+	clf = clf.fit(X, y)
+	guess = clf.predict(Xtest)
+
+	printError(guess, correct)
+
+	print "Self-built RF"
+	a = time.clock()
+	rf = RandomForest(trees = 1000, fraction = .3, 
+		mtry = int(math.log(Xtest.shape[1])), replace = True)
 	rf.fit(X, y)
 	guess = rf.predict(Xtest)
 	printError(guess, correct)
+	print str(time.clock() - a) + " seconds elapsed for self-built RF construction"
 
 if __name__ == '__main__':
 	main()

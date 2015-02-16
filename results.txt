@@ -1,0 +1,58 @@
+Folds
+Fold 1
+
+SVM
+50/70
+38/70
+
+Built-in RF
+45/70
+56/70
+
+Self-built RF
+50/70
+52/70
+
+Fold 2
+
+SVM
+51/70
+33/70
+
+Built-in RF
+53/70
+50/70
+
+Self-built RF
+53/70
+49/70
+
+Fold 3
+
+SVM
+49/70
+31/70
+
+Built-in RF
+43/70
+47/70
+
+Self-built RF
+43/70
+53/70
+
+Fold 4
+
+SVM
+51/69
+31/70
+
+Built-in RF
+
+48/69
+42/70
+
+Self-built RF
+52/69
+38/70
+

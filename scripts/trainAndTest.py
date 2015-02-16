@@ -2,9 +2,7 @@
 from __future__ import division
 from sklearn.svm import SVC
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.tree import DecisionTreeClassifier
 from scipy.sparse import csr_matrix, coo_matrix, hstack
-from sklearn.feature_selection import SelectKBest, chi2
 import numpy as np
 import math
 
@@ -16,7 +14,10 @@ import time
 import features
 from collections import defaultdict, Counter
 
+import decisionTree as dt
+import pickle
 
+from RandomForest import RandomForest
 
 # Syntax for training an svm using scikit's tool
 # svm = SVC()
@@ -60,7 +61,7 @@ def dictListToCSR(listDict, keyIdMap = None, idLen = None):
 		keyId = lambda x: keyIdMap[x]
 
 	# A[i[k], j[k]] = data[k]
-	for x in range(featureLength):
+	for x in xrange(featureLength):
 		for key in listDict[x]:
 			i.append(x)
 			j.append(keyId(key))
@@ -80,7 +81,7 @@ def getKeyIds(listDict):
 			allKeys.add(key)
 	allKeys = list(allKeys)
 	keyIdMap = {}
-	for i in range(len(allKeys)):
+	for i in xrange(len(allKeys)):
 		keyIdMap[allKeys[i]] = i
 		keyIdMap[i] = allKeys[i]
 
@@ -116,19 +117,50 @@ def dirList(folder):
 
 # ---------------------------------------------------------------------------
 def main():
-
 	# preliminary test, using data in fold1 of short stories as training
 	# and data in fold2 of short stories as test
-	trainingFolders = ["../novels/Fiction/fi_fold1/"]
-	trainingFolders.append("../novels/Fiction/fi_fold3/")
+	trainingFolders = []
+	# trainingFolders.append(["../novels/Fiction/fi_fold1/"])
+	trainingFolders.append("../novels/Fiction/fi_fold2/")
 	trainingFolders.append("../novels/Fiction/fi_fold4/")
 	trainingFolders.append("../novels/Fiction/fi_fold5/")
+	# trainingFolders.append("../novels/Adventure_Stories/as_fold1")
+	trainingFolders.append("../novels/Adventure_Stories/as_fold2")
+	trainingFolders.append("../novels/Adventure_Stories/as_fold4")
+	trainingFolders.append("../novels/Adventure_Stories/as_fold5")
+	# trainingFolders.append("../novels/Historical_Fiction/hf_fold1")
+	trainingFolders.append("../novels/Historical_Fiction/hf_fold2")
+	trainingFolders.append("../novels/Historical_Fiction/hf_fold4")
+	trainingFolders.append("../novels/Historical_Fiction/hf_fold5")
+	# trainingFolders.append("../novels/Love_Stories/ls_fold1")
+	trainingFolders.append("../novels/Love_Stories/ls_fold2")
+	trainingFolders.append("../novels/Love_Stories/ls_fold4")
+	trainingFolders.append("../novels/Love_Stories/ls_fold5")
+	# trainingFolders.append("../novels/Mystery/dm_fold1")
+	trainingFolders.append("../novels/Mystery/dm_fold2")
+	trainingFolders.append("../novels/Mystery/dm_fold4")
+	trainingFolders.append("../novels/Mystery/dm_fold5")
+	# trainingFolders.append("../novels/Science_Fiction/sf_fold1")
+	trainingFolders.append("../novels/Science_Fiction/sf_fold2")
+	trainingFolders.append("../novels/Science_Fiction/sf_fold4")
+	trainingFolders.append("../novels/Science_Fiction/sf_fold5")
+	# trainingFolders.append("../novels/Short_Stories/ss_fold1")
+	trainingFolders.append("../novels/Short_Stories/ss_fold2")
+	trainingFolders.append("../novels/Short_Stories/ss_fold4")
+	trainingFolders.append("../novels/Short_Stories/ss_fold5")
 
-	testFolders = ["../novels/Fiction/fi_fold2/"]
+
+	testFolders = ["../novels/Fiction/fi_fold1/"]
+	testFolders.append("../novels/Adventure_Stories/as_fold1")
+	testFolders.append("../novels/Historical_Fiction/hf_fold1")
+	testFolders.append("../novels/Love_Stories/ls_fold1")
+	testFolders.append("../novels/Mystery/dm_fold1")
+	testFolders.append("../novels/Science_Fiction/sf_fold1")
+	testFolders.append("../novels/Short_Stories/ss_fold1")
 
 	a = time.clock()
 	# Training data
-	bigramFeaturesTrain = []
+	# bigramFeaturesTrain = []
 	unigramFeaturesTrain = []
 	otherFeaturesTrain = []
 	classificationsTrain = []
@@ -137,17 +169,18 @@ def main():
 		for boolDir in dirList(trainingFolder):
 			newPath = os.path.join(trainingFolder, boolDir)
 			for filename in dirList(newPath):
+				if not ".txt" in filename: continue
 				classification = re.sub(r"[^a-z]", "", boolDir)
 
 				fullPath = os.path.join(newPath, filename)
-
-				bigramFeaturesTrain.append(features.getBigrams(fullPath))
+				print fullPath
+				# bigramFeaturesTrain.append(features.getBigrams(fullPath))
 				unigramFeaturesTrain.append(features.getUnigrams(fullPath))
 				otherFeaturesTrain.append(features.getOtherFeatures(fullPath))
 				classificationsTrain.append(classification)
 		
 	# Test data
-	bigramFeaturesTest = []
+	# bigramFeaturesTest = []
 	unigramFeaturesTest = []
 	otherFeaturesTest = []
 	classificationsTest = []
@@ -155,44 +188,45 @@ def main():
 		for boolDir in dirList(testFolder):
 			newPath = os.path.join(testFolder, boolDir)
 			for filename in dirList(newPath):
+				if not ".txt" in filename: continue
 				classification = re.sub(r"[^a-z]", "", boolDir)
 
 				fullPath = os.path.join(newPath, filename)
-
-				bigramFeaturesTest.append(features.getBigrams(fullPath))
+				print fullPath
+				# bigramFeaturesTest.append(features.getBigrams(fullPath))
 				unigramFeaturesTest.append(features.getUnigrams(fullPath))
 				otherFeaturesTest.append(features.getOtherFeatures(fullPath))
 				classificationsTest.append(classification)
-	
+
 	# tf-idf the unigrams and bigrams
 	print "tf-idfing"
 	idfTrain = defaultdict(int)
 	idfTest = defaultdict(int)
 
 	# collect counts
-	for example in itertools.chain(bigramFeaturesTrain, unigramFeaturesTrain):
+	for example in unigramFeaturesTrain: #itertools.chain(bigramFeaturesTrain, unigramFeaturesTrain):
 		for gram, count in example.items():
 			idfTrain[gram] += 1
 
-	# do tfidf
-	for example in bigramFeaturesTrain:
-		for gram, count in example.items():
-			word = gram
-			example[gram] *= math.log(len(bigramFeaturesTrain) / idfTrain[gram])
+	# # do tfidf
+	# for example in bigramFeaturesTrain:
+	# 	for gram, count in example.items():
+	# 		word = gram
+	# 		example[gram] *= math.log(len(bigramFeaturesTrain) / idfTrain[gram])
 
 	for example in unigramFeaturesTrain:
 		for gram, count in example.items():
 			example[gram] *= math.log(len(unigramFeaturesTrain) / idfTrain[gram])
 
 	# collect counts
-	for example in itertools.chain(bigramFeaturesTest, unigramFeaturesTest):
+	for example in unigramFeaturesTest: #fitertools.chain(bigramFeaturesTest, unigramFeaturesTest):
 		for gram, count in example.items():
 			idfTest[gram] += 1
 
-	# do tfidf
-	for example in bigramFeaturesTest:
-		for gram, count in example.items():
-			example[gram] *= math.log(len(bigramFeaturesTest) / idfTest[gram])
+	# # do tfidf
+	# for example in bigramFeaturesTest:
+	# 	for gram, count in example.items():
+	# 		example[gram] *= math.log(len(bigramFeaturesTest) / idfTest[gram])
 
 	for example in unigramFeaturesTest:
 		for gram, count in example.items():
@@ -200,57 +234,71 @@ def main():
 
 	print "finish tf-idfing"
 
-	# Vectorize dictionaries
-	keyIdMapBigrams = getKeyIds(itertools.chain(bigramFeaturesTrain, bigramFeaturesTest))
-	bigramFeaturesTrain = dictListToCSR(bigramFeaturesTrain, keyIdMap = keyIdMapBigrams)
-	bigramFeaturesTest = dictListToCSR(bigramFeaturesTest, keyIdMap = keyIdMapBigrams)
+	# # Vectorize dictionaries
+	# print "vectorizing bigrams"
+	# keyIdMapBigrams = getKeyIds(itertools.chain(bigramFeaturesTrain, bigramFeaturesTest))
+	# bigramFeaturesTrain = dictListToCSR(bigramFeaturesTrain, keyIdMap = keyIdMapBigrams)
+	# bigramFeaturesTest = dictListToCSR(bigramFeaturesTest, keyIdMap = keyIdMapBigrams)
 
+	print "vectorizing unigrams"
 	keyIdMapUnigrams = getKeyIds(itertools.chain(unigramFeaturesTrain, unigramFeaturesTest))
 	unigramFeaturesTrain = dictListToCSR(unigramFeaturesTrain, keyIdMap = keyIdMapUnigrams)
 	unigramFeaturesTest = dictListToCSR(unigramFeaturesTest, keyIdMap = keyIdMapUnigrams)
 
+	print "feature selecting unigrams"
 	# Feature selection on unigrams and bigrams
 	numSelect = 100
 	unigramSelector = RandomForestClassifier(n_estimators=100, random_state = 0)
 	unigramSelector = unigramSelector.fit(unigramFeaturesTrain.toarray(), classificationsTrain)
 	unigramMask = unigramSelector.feature_importances_
 	unigramMask = np.argpartition(unigramMask, -numSelect)[-numSelect:]
+	unigramSelector = None
 
-	bigramSelector = RandomForestClassifier(n_estimators=100, random_state = 0)
-	bigramSelector = bigramSelector.fit(bigramFeaturesTrain.toarray(), classificationsTrain)
-	bigramMask = bigramSelector.feature_importances_
-	bigramMask = np.argpartition(bigramMask, -numSelect)[-numSelect:]
+	# print "feature selecting bigrams"
+	# bigramSelector = RandomForestClassifier(n_estimators=100, random_state = 0)
+	# bigramSelector = bigramSelector.fit(bigramFeaturesTrain.toarray(), classificationsTrain)
+	# bigramMask = bigramSelector.feature_importances_
+	# bigramMask = np.argpartition(bigramMask, -numSelect)[-numSelect:]
+	# bigramSelector = None
 	
 	print "Indices of most important unigrams " + str(unigramMask)
 	print [keyIdMapUnigrams[x] for x in unigramMask]
-	print "Indices of most important bigrams " + str(bigramMask)
-	print [keyIdMapBigrams[x] for x in bigramMask]
+	# print "Indices of most important bigrams " + str(bigramMask)
+	# print [keyIdMapBigrams[x] for x in bigramMask]
 
+	# keyIdMapBigrams = None
+	keyIdMapUnigrams = None
 	# print unigramFeaturesTrain.shape
 	# print unigramFeaturesTest.shape
 
 	unigramFeaturesTrain = unigramFeaturesTrain[:, unigramMask]
-	bigramFeaturesTrain = bigramFeaturesTrain[:, bigramMask]
+	# bigramFeaturesTrain = bigramFeaturesTrain[:, bigramMask]
 
 	unigramFeaturesTest = unigramFeaturesTest[:, unigramMask]
-	bigramFeaturesTest = bigramFeaturesTest[:, bigramMask]
+	# bigramFeaturesTest = bigramFeaturesTest[:, bigramMask]
+
+	unigramMask = None
+	bigramMask = None
 
 	unigramFeaturesTrain = csr_matrix(unigramFeaturesTrain)
-	bigramFeaturesTrain = csr_matrix(bigramFeaturesTrain)
+	# bigramFeaturesTrain = csr_matrix(bigramFeaturesTrain)
 
 	unigramFeaturesTest = csr_matrix(unigramFeaturesTest)
-	bigramFeaturesTest = csr_matrix(bigramFeaturesTest)
+	# bigramFeaturesTest = csr_matrix(bigramFeaturesTest)
 
 	# Other features
 	otherFeaturesTrain = csr_matrix(otherFeaturesTrain)
 	otherFeaturesTest = csr_matrix(otherFeaturesTest)
 
-	print bigramFeaturesTrain.shape
+	# print bigramFeaturesTrain.shape
 	print unigramFeaturesTrain.shape
 	print otherFeaturesTrain.shape
 
-	Xtrain = hstack([otherFeaturesTrain, bigramFeaturesTrain, unigramFeaturesTrain])
-	Xtest = hstack([otherFeaturesTest, bigramFeaturesTest, unigramFeaturesTest])
+	# Xtrain = hstack([otherFeaturesTrain, bigramFeaturesTrain, unigramFeaturesTrain])
+	# Xtest = hstack([otherFeaturesTest, bigramFeaturesTest, unigramFeaturesTest])
+
+	Xtrain = hstack([otherFeaturesTrain, unigramFeaturesTrain])
+	Xtest = hstack([otherFeaturesTest, unigramFeaturesTest])
 
 	# Xtrain = otherFeaturesTrain
 	# Xtest = otherFeaturesTest
@@ -263,6 +311,7 @@ def main():
 	classificationGuess = svm.predict(Xtest)
 
 	printError(classificationGuess, classificationsTest)
+	svm = None
 	print str(time.clock() - a) + " time elapsed for SVM"
 
 	a = time.clock()
@@ -272,7 +321,42 @@ def main():
 	print clf.feature_importances_
 
 	printError(classificationGuess, classificationsTest)
+	clf = None
 	print str(time.clock() - a) + " time elapsed for RF"
+
+	classificationsTrain = [int(x == "success") for x in classificationsTrain]
+	classificationsTest = [int(x == "success") for x in classificationsTest]
+
+	f_out = open("XtrainFold4.pkl", 'wb')
+	pickle.dump(Xtrain.toarray(), f_out)
+	f_out.close()
+
+	f_out = open("ytrainFold4.pkl", 'wb')
+	pickle.dump(classificationsTrain, f_out)
+	f_out.close()
+
+	f_out = open("XtestFold4.pkl", 'wb')
+	pickle.dump(Xtest.toarray(), f_out)
+	f_out.close()
+
+	f_out = open("correctFold4.pkl", 'wb')
+	pickle.dump(classificationsTest, f_out)
+	f_out.close()
+
+	a = time.clock()
+
+	# X = Xtrain.toarray()
+	# y = np.array(classificationsTrain)
+	# rf = RandomForest(trees = 1000, fraction = .3, 
+	# 	mtry = int(math.log(Xtest.shape[1])), replace = True)
+	# print "training our version of RF"
+	# rf.fit(X, y)
+	# print "predicing our version of RF"
+	# classificationGuess = rf.predict(Xtest.toarray())
+	# successFailure = lambda x: "success" if x == 1 else "failure"
+	# classificationGuess = [successFailure(i) for i in classificationGuess]
+	# printError(classificationGuess, classificationsTest)
+	# print str(time.clock() - a) + " time elapsed for our RF implementation"
 
 if __name__ == '__main__':
 	main()

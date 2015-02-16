@@ -129,9 +129,6 @@ def getUnigrams(filename):
 # Gets bigrams in a default dict
 
 def getBigrams(filename):
-
-	print filename
-
 	cleanText = []
 	f = open(filename, 'r')
 

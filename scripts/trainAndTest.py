@@ -2,7 +2,7 @@
 from __future__ import division
 from sklearn.svm import SVC
 from sklearn.ensemble import RandomForestClassifier
-from scipy.sparse import csr_matrix, coo_matrix, hstack
+from scipy.sparse import csr_matrix, coo_matrix, hstack, vstack
 import numpy as np
 import math
 
@@ -18,6 +18,16 @@ import decisionTree as dt
 import pickle
 
 from RandomForest import RandomForest
+
+import lda
+# Requires pip install lda
+# LDA @
+# https://github.com/ariddell/lda/
+# http://pythonhosted.org/lda/
+# http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/
+
+import parseArpa as arpa
+import nltk # I use the word list here, requires nltk.download() wordlist
 
 # Syntax for training an svm using scikit's tool
 # svm = SVC()
@@ -112,60 +122,70 @@ def printError(guesses, tests):
 		failureCorrect, totalFailure)
 
 def dirList(folder):
-
 	return [x for x in os.listdir(folder) if not x.startswith('.')]
 
 # ---------------------------------------------------------------------------
 def main():
-	# preliminary test, using data in fold1 of short stories as training
-	# and data in fold2 of short stories as test
+	
+	# (validUni, zz, zz) = arpa.parseArpa("guten_brown_reuters_state.arpa")
+	wordlist = [w for w in nltk.corpus.words.words('en') if w.islower()]
+	invalidList = [w for w in nltk.corpus.words.words('en') if w[0].isupper()]
+	validUni = set(wordlist)
+	invalidUni = set(invalidList)
 	trainingFolders = []
-	# trainingFolders.append(["../novels/Fiction/fi_fold1/"])
+	trainingFolders.append("../novels/Fiction/fi_fold1/")
 	trainingFolders.append("../novels/Fiction/fi_fold2/")
 	trainingFolders.append("../novels/Fiction/fi_fold4/")
-	trainingFolders.append("../novels/Fiction/fi_fold5/")
-	# trainingFolders.append("../novels/Adventure_Stories/as_fold1")
+	# trainingFolders.append("../novels/Fiction/fi_fold5/")
+	trainingFolders.append("../novels/Adventure_Stories/as_fold1")
 	trainingFolders.append("../novels/Adventure_Stories/as_fold2")
 	trainingFolders.append("../novels/Adventure_Stories/as_fold4")
-	trainingFolders.append("../novels/Adventure_Stories/as_fold5")
-	# trainingFolders.append("../novels/Historical_Fiction/hf_fold1")
+	# trainingFolders.append("../novels/Adventure_Stories/as_fold5")
+	trainingFolders.append("../novels/Historical_Fiction/hf_fold1")
 	trainingFolders.append("../novels/Historical_Fiction/hf_fold2")
 	trainingFolders.append("../novels/Historical_Fiction/hf_fold4")
-	trainingFolders.append("../novels/Historical_Fiction/hf_fold5")
-	# trainingFolders.append("../novels/Love_Stories/ls_fold1")
+	# trainingFolders.append("../novels/Historical_Fiction/hf_fold5")
+	trainingFolders.append("../novels/Love_Stories/ls_fold1")
 	trainingFolders.append("../novels/Love_Stories/ls_fold2")
 	trainingFolders.append("../novels/Love_Stories/ls_fold4")
-	trainingFolders.append("../novels/Love_Stories/ls_fold5")
-	# trainingFolders.append("../novels/Mystery/dm_fold1")
+	# trainingFolders.append("../novels/Love_Stories/ls_fold5")
+	trainingFolders.append("../novels/Mystery/dm_fold1")
 	trainingFolders.append("../novels/Mystery/dm_fold2")
 	trainingFolders.append("../novels/Mystery/dm_fold4")
-	trainingFolders.append("../novels/Mystery/dm_fold5")
-	# trainingFolders.append("../novels/Science_Fiction/sf_fold1")
+	# trainingFolders.append("../novels/Mystery/dm_fold5")
+	trainingFolders.append("../novels/Science_Fiction/sf_fold1")
 	trainingFolders.append("../novels/Science_Fiction/sf_fold2")
 	trainingFolders.append("../novels/Science_Fiction/sf_fold4")
-	trainingFolders.append("../novels/Science_Fiction/sf_fold5")
-	# trainingFolders.append("../novels/Short_Stories/ss_fold1")
+	# trainingFolders.append("../novels/Science_Fiction/sf_fold5")
+	trainingFolders.append("../novels/Short_Stories/ss_fold1")
 	trainingFolders.append("../novels/Short_Stories/ss_fold2")
 	trainingFolders.append("../novels/Short_Stories/ss_fold4")
-	trainingFolders.append("../novels/Short_Stories/ss_fold5")
+	# trainingFolders.append("../novels/Short_Stories/ss_fold5")
 
 
-	testFolders = ["../novels/Fiction/fi_fold1/"]
-	testFolders.append("../novels/Adventure_Stories/as_fold1")
-	testFolders.append("../novels/Historical_Fiction/hf_fold1")
-	testFolders.append("../novels/Love_Stories/ls_fold1")
-	testFolders.append("../novels/Mystery/dm_fold1")
-	testFolders.append("../novels/Science_Fiction/sf_fold1")
-	testFolders.append("../novels/Short_Stories/ss_fold1")
+	testFolders = ["../novels/Fiction/fi_fold5/"]
+	testFolders.append("../novels/Adventure_Stories/as_fold5")
+	testFolders.append("../novels/Historical_Fiction/hf_fold5")
+	testFolders.append("../novels/Love_Stories/ls_fold5")
+	testFolders.append("../novels/Mystery/dm_fold5")
+	testFolders.append("../novels/Science_Fiction/sf_fold5")
+	testFolders.append("../novels/Short_Stories/ss_fold5")
+
+	genreMap = dict([("Fiction", 0), ('Adventure_Stories', 1), ('Historical_Fiction', 2),
+		("Love_Stories", 3), ("Mystery", 4), ("Science_Fiction", 5), 
+		("Short_Stories", 6)])
 
 	a = time.clock()
 	# Training data
+	genreTrain = []
 	# bigramFeaturesTrain = []
 	unigramFeaturesTrain = []
 	otherFeaturesTrain = []
 	classificationsTrain = []
 
 	for trainingFolder in trainingFolders:
+		genre = trainingFolder.split('/')[2]
+		genreIndex = genreMap[genre]
 		for boolDir in dirList(trainingFolder):
 			newPath = os.path.join(trainingFolder, boolDir)
 			for filename in dirList(newPath):
@@ -175,16 +195,22 @@ def main():
 				fullPath = os.path.join(newPath, filename)
 				print fullPath
 				# bigramFeaturesTrain.append(features.getBigrams(fullPath))
-				unigramFeaturesTrain.append(features.getUnigrams(fullPath))
+				unigramFeaturesTrain.append(features.getUnigrams(fullPath, validUni))
 				otherFeaturesTrain.append(features.getOtherFeatures(fullPath))
 				classificationsTrain.append(classification)
+				genreList = [0] * 7;
+				genreList[genreIndex] = 1;
+				genreTrain.append(np.array(genreList));
 		
 	# Test data
+	genreTest = []
 	# bigramFeaturesTest = []
 	unigramFeaturesTest = []
 	otherFeaturesTest = []
 	classificationsTest = []
 	for testFolder in testFolders:
+		genre = testFolder.split('/')[2]
+		genreIndex = genreMap[genre]
 		for boolDir in dirList(testFolder):
 			newPath = os.path.join(testFolder, boolDir)
 			for filename in dirList(newPath):
@@ -194,9 +220,12 @@ def main():
 				fullPath = os.path.join(newPath, filename)
 				print fullPath
 				# bigramFeaturesTest.append(features.getBigrams(fullPath))
-				unigramFeaturesTest.append(features.getUnigrams(fullPath))
+				unigramFeaturesTest.append(features.getUnigrams(fullPath, validUni))
 				otherFeaturesTest.append(features.getOtherFeatures(fullPath))
 				classificationsTest.append(classification)
+				genreList = [0] * 7;
+				genreList[genreIndex] = 1;
+				genreTest.append(np.array(genreList));
 
 	# tf-idf the unigrams and bigrams
 	print "tf-idfing"
@@ -252,7 +281,6 @@ def main():
 	unigramSelector = unigramSelector.fit(unigramFeaturesTrain.toarray(), classificationsTrain)
 	unigramMask = unigramSelector.feature_importances_
 	unigramMask = np.argpartition(unigramMask, -numSelect)[-numSelect:]
-	unigramSelector = None
 
 	# print "feature selecting bigrams"
 	# bigramSelector = RandomForestClassifier(n_estimators=100, random_state = 0)
@@ -266,10 +294,33 @@ def main():
 	# print "Indices of most important bigrams " + str(bigramMask)
 	# print [keyIdMapBigrams[x] for x in bigramMask]
 
-	# keyIdMapBigrams = None
-	keyIdMapUnigrams = None
-	# print unigramFeaturesTrain.shape
-	# print unigramFeaturesTest.shape
+	# LDA
+	print "LDA..."
+	print unigramFeaturesTrain.shape
+	print unigramFeaturesTest.shape
+
+	ldaMask = unigramSelector.feature_importances_
+	numSelect = .1 * len(ldaMask)
+	ldaMask = np.argpartition(ldaMask, -numSelect)[-numSelect:]
+
+	vocab = [keyIdMapUnigrams[key] for key in sorted(keyIdMapUnigrams.keys())]
+	model = lda.LDA(n_topics=7, n_iter=500, random_state=1)
+	model.fit(vstack([unigramFeaturesTrain[:, ldaMask], 
+		unigramFeaturesTest[:,ldaMask]]))
+
+	topic_word = model.topic_word_
+
+	n_top_words = 10
+	for i, topic_dist in enumerate(topic_word):
+		topic_words = np.array(vocab)[np.argsort(topic_dist)][:-n_top_words:-1]
+		print('Topic {}: {}'.format(i, ' '.join(topic_words)))
+
+	numTrain = unigramFeaturesTrain.shape[0]
+	numTest = unigramFeaturesTest.shape[0]
+
+	doc_topic = model.doc_topic_
+	ldaTrain = csr_matrix(doc_topic[:numTrain,:])
+	ldaTest = csr_matrix(doc_topic[-numTest:,:])
 
 	unigramFeaturesTrain = unigramFeaturesTrain[:, unigramMask]
 	# bigramFeaturesTrain = bigramFeaturesTrain[:, bigramMask]
@@ -290,6 +341,9 @@ def main():
 	otherFeaturesTrain = csr_matrix(otherFeaturesTrain)
 	otherFeaturesTest = csr_matrix(otherFeaturesTest)
 
+	genreTrain = csr_matrix(genreTrain)
+	genreTest = csr_matrix(genreTest)
+
 	# print bigramFeaturesTrain.shape
 	print unigramFeaturesTrain.shape
 	print otherFeaturesTrain.shape
@@ -300,8 +354,11 @@ def main():
 	Xtrain = hstack([otherFeaturesTrain, unigramFeaturesTrain])
 	Xtest = hstack([otherFeaturesTest, unigramFeaturesTest])
 
-	# Xtrain = otherFeaturesTrain
-	# Xtest = otherFeaturesTest
+	Xtrain2 = hstack([genreTrain, ldaTrain, otherFeaturesTrain, unigramFeaturesTrain])
+	Xtest2 = hstack([genreTest, ldaTest, otherFeaturesTest, unigramFeaturesTest])
+
+	# Xtrain2 = hstack([ldaTrain, otherFeaturesTrain])
+	# Xtest2 = hstack([ldaTest, otherFeaturesTest])
 
 	print str(time.clock() - a) + " time elapsed for feature extraction"
 	a = time.clock()
@@ -309,6 +366,16 @@ def main():
 	svm.fit(Xtrain, classificationsTrain)
 
 	classificationGuess = svm.predict(Xtest)
+
+	printError(classificationGuess, classificationsTest)
+	svm = None
+	print str(time.clock() - a) + " time elapsed for SVM"
+
+	a = time.clock()
+	svm = SVC()
+	svm.fit(Xtrain2, classificationsTrain)
+
+	classificationGuess = svm.predict(Xtest2)
 
 	printError(classificationGuess, classificationsTest)
 	svm = None
@@ -324,26 +391,36 @@ def main():
 	clf = None
 	print str(time.clock() - a) + " time elapsed for RF"
 
+	a = time.clock()
+	clf = RandomForestClassifier(n_estimators=5000)
+	clf = clf.fit(Xtrain2.toarray(), classificationsTrain)
+	classificationGuess = clf.predict(Xtest2.toarray())
+	print clf.feature_importances_
+
+	printError(classificationGuess, classificationsTest)
+	clf = None
+	print str(time.clock() - a) + " time elapsed for RF"
+
 	classificationsTrain = [int(x == "success") for x in classificationsTrain]
 	classificationsTest = [int(x == "success") for x in classificationsTest]
 
-	f_out = open("XtrainFold4.pkl", 'wb')
-	pickle.dump(Xtrain.toarray(), f_out)
-	f_out.close()
+	# f_out = open("XtrainFold4.pkl", 'wb')
+	# pickle.dump(Xtrain.toarray(), f_out)
+	# f_out.close()
 
-	f_out = open("ytrainFold4.pkl", 'wb')
-	pickle.dump(classificationsTrain, f_out)
-	f_out.close()
+	# f_out = open("ytrainFold4.pkl", 'wb')
+	# pickle.dump(classificationsTrain, f_out)
+	# f_out.close()
 
-	f_out = open("XtestFold4.pkl", 'wb')
-	pickle.dump(Xtest.toarray(), f_out)
-	f_out.close()
+	# f_out = open("XtestFold4.pkl", 'wb')
+	# pickle.dump(Xtest.toarray(), f_out)
+	# f_out.close()
 
-	f_out = open("correctFold4.pkl", 'wb')
-	pickle.dump(classificationsTest, f_out)
-	f_out.close()
+	# f_out = open("correctFold4.pkl", 'wb')
+	# pickle.dump(classificationsTest, f_out)
+	# f_out.close()
 
-	a = time.clock()
+	# a = time.clock()
 
 	# X = Xtrain.toarray()
 	# y = np.array(classificationsTrain)

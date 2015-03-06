@@ -13,6 +13,11 @@ from scipy.sparse import csr_matrix, coo_matrix, hstack
 from textblob import TextBlob
 from textblob_aptagger import PerceptronTagger
 import numpy as np
+import nltk
+from nltk.corpus import cmudict # requires nltk.download()
+import curses
+from curses.ascii import isdigit
+import time
 
 POS_TAGS = ['CC', 'CD', 'DT', 'EX', 'FW', 'IN', 'JJ', 'JJR', 'JJS', 'LS', 'MD',
 'NN', 'NNS', 'NNP', 'NNPS', 'PDT', 'POS', 'PRP', 'PRP$', 'RB', 'RBR', 'RBS', 'RP',
@@ -20,17 +25,28 @@ POS_TAGS = ['CC', 'CD', 'DT', 'EX', 'FW', 'IN', 'JJ', 'JJR', 'JJS', 'LS', 'MD',
 
 # Input: file object
 # Returns as a tuple the avg sentence length in characters and in words
-def getAvgSentenceLength(filename):
+# Flesch readability is
+# 206.835 - 1.015(total words / total sentences) - 84.6 (total syllables / total words)
+d = cmudict.dict();
+def getAvgSentenceLengthAndFleschAndWord(filename):
 	sentences = getSentences(filename)
 
 	totCharLength = 0
 	totWords = 0
+	syllableCt = 0
+	totWordLength = 0
 	for sentence in sentences:
 		totCharLength += len(sentence)
 		words = nltk.word_tokenize(sentence)
+		global d
+		for word in words:
+			if word in d:
+				totWordLength += len(word)
+				syllableCt += [len(list(y for y in x if isdigit(y[-1]))) for x in
+	                d[word.lower()]][0]
 		totWords += len(words)
-
-	return totCharLength / len(sentences), totWords / len(sentences)
+	flesch = 206.835 - 1.105 * (totWords / len(sentences)) - 84.6 * (syllableCt / totWords)
+	return totCharLength / len(sentences), totWords / len(sentences), flesch, totWordLength / totWords
 
 def getSentences(filename):
 	f = open(filename, 'r')
@@ -113,7 +129,10 @@ def getPosDict():
 
 
 # Gets unigrams in a default dict
-def getUnigrams(filename):
+# valid - set of words
+# that unigrams should be limited to
+# invalid - set of words that are removed (invalid)
+def getUnigrams(filename, valid = None, invalid = None):
 	unigrams = defaultdict(int)
 	f = open(filename, 'r')
 
@@ -121,7 +140,10 @@ def getUnigrams(filename):
 		words = line.strip().split()
 		for word in words:
 			cleanWord = re.sub(r"[^a-zA-Z0-9]", "", word)
-			unigrams[cleanWord] += 1
+
+			if valid == None or cleanWord in valid:
+				if invalid == None or cleanWord.capitalize() not in invalid:
+					unigrams[cleanWord] += 1
 	f.close()	
 
 	return unigrams
@@ -168,12 +190,12 @@ def getOtherFeatures(filename):
 	# for i, count in enumerate(poscounts):
 	# 	print POS_TAGS[i], count
 
-	avgSentenceLengthChar, avgSentenceLengthWord = getAvgSentenceLength(filename)
-	avgWordLength = getAvgWordLength(filename)
+	avgSentenceLengthChar, avgSentenceLengthWord, flesch, avgWordLength = getAvgSentenceLengthAndFleschAndWord(filename)
+	# avgWordLength = getAvgWordLength(filename)
 	POS = pos_tags.loadTagsFromPickle(filename)
 	# POS = []
 
-	features = (avgSentenceLengthChar, avgSentenceLengthWord, avgWordLength, POS)
+	features = (flesch, avgSentenceLengthChar, avgSentenceLengthWord, avgWordLength, POS)
 	features = np.hstack(features)
 
 	return features

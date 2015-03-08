@@ -28,13 +28,14 @@ POS_TAGS = ['CC', 'CD', 'DT', 'EX', 'FW', 'IN', 'JJ', 'JJR', 'JJS', 'LS', 'MD',
 # Flesch readability is
 # 206.835 - 1.015(total words / total sentences) - 84.6 (total syllables / total words)
 d = cmudict.dict();
-def getAvgSentenceLengthAndFleschAndWord(filename):
+def getAvgSentenceLengthAndFleschFogAndWord(filename):
 	sentences = getSentences(filename)
 
 	totCharLength = 0
 	totWords = 0
 	syllableCt = 0
 	totWordLength = 0
+	complexWordCt = 0
 	for sentence in sentences:
 		totCharLength += len(sentence)
 		words = nltk.word_tokenize(sentence)
@@ -42,11 +43,30 @@ def getAvgSentenceLengthAndFleschAndWord(filename):
 		for word in words:
 			if word in d:
 				totWordLength += len(word)
-				syllableCt += [len(list(y for y in x if isdigit(y[-1]))) for x in
-	                d[word.lower()]][0]
+				wordSyl = [len(list(y for y in x if isdigit(y[-1]))) 
+					for x in d[word.lower()]][0]
+				syllableCt += wordSyl
+				if wordSyl >= 3: complexWordCt += 1
 		totWords += len(words)
 	flesch = 206.835 - 1.105 * (totWords / len(sentences)) - 84.6 * (syllableCt / totWords)
-	return totCharLength / len(sentences), totWords / len(sentences), flesch, totWordLength / totWords
+	fog = .4 * (totWords / len(sentences) + 100 * complexWordCt / totWords) 
+	return totCharLength / len(sentences), totWords / len(sentences), \
+	flesch, fog, totWordLength / totWords
+
+def getSentiment(filename):
+	a = time.clock()
+	f = open(filename, 'r')
+	blob = TextBlob(f.read())
+	sentenceCt = 0
+	sentiment = 0
+	subjectivity = 0 
+	for sentence in blob.sentences:
+		sentiment += sentence.sentiment.polarity
+		subjectivity += sentence.sentiment.subjectivity
+		sentenceCt += 1
+	f.close()
+	# print time.clock() - a
+	return sentiment / sentenceCt, subjectivity / sentenceCt
 
 def getSentences(filename):
 	f = open(filename, 'r')
@@ -190,12 +210,14 @@ def getOtherFeatures(filename):
 	# for i, count in enumerate(poscounts):
 	# 	print POS_TAGS[i], count
 
-	avgSentenceLengthChar, avgSentenceLengthWord, flesch, avgWordLength = getAvgSentenceLengthAndFleschAndWord(filename)
+	avgSentenceLengthChar, avgSentenceLengthWord, \
+	flesch, fog, avgWordLength = getAvgSentenceLengthAndFleschFogAndWord(filename)
 	# avgWordLength = getAvgWordLength(filename)
 	POS = pos_tags.loadTagsFromPickle(filename)
 	# POS = []
-
-	features = (flesch, avgSentenceLengthChar, avgSentenceLengthWord, avgWordLength, POS)
+	sentiment, subjectivity = getSentiment(filename)
+	features = (sentiment, subjectivity, flesch, fog, avgSentenceLengthChar,
+	 avgSentenceLengthWord, avgWordLength, POS)
 	features = np.hstack(features)
 
 	return features

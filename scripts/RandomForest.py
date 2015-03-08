@@ -5,7 +5,7 @@ import pickle
 import math
 import time
 from sklearn.svm import SVC
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import RandomForestClassifier, BaggingClassifier
 
 class RandomForest:
 	def __init__(self, trees = 100, fraction = .3, mtry = 10, replace = True):
@@ -32,9 +32,7 @@ class RandomForest:
 
 		return np.array(predictions)
 
-
-def printError(guesses, tests):
-
+def calcError(guesses, tests):
 	successCorrect = 0
 	totalSuccess = 0
 	failureCorrect = 0
@@ -51,6 +49,10 @@ def printError(guesses, tests):
 				failureCorrect += 1
 			totalFailure += 1
 
+	return successCorrect, totalSuccess, failureCorrect, totalFailure
+
+def printError(guesses, tests):
+	successCorrect, totalSuccess, failureCorrect, totalFailure = calcError(guesses, tests)
 
 	print "{} successes classified correctly out of {} successes.".format(
 		successCorrect, totalSuccess)
@@ -69,39 +71,125 @@ def main():
 	# indices = np.where(y <= 1)
 	# X = X[indices]
 	# y = y[indices]
-	pkl_file = open("XtrainFold4.pkl", 'rb')
+
+	# numFolds = 4
+	# X = [None] * numFolds
+	# y = [None] * numFolds
+	# Xtest = [None] * numFolds
+	# correct = [None] * numFolds
+
+	# for i in range(1, numFolds + 1):
+	# 	pkl_file = open("Xtrain2Fold" + str(i) + ".pkl", 'rb')
+	# 	X[i - 1] = pickle.load(pkl_file)
+	# 	pkl_file.close()
+	# 	pkl_file = open("ytrainFold" + str(i) + ".pkl", 'rb')
+	# 	y[i - 1] = pickle.load(pkl_file)
+	# 	y = np.array(y)
+	# 	pkl_file.close()
+
+	# 	pkl_file = open("Xtest2Fold" + str(i) + ".pkl", 'rb')
+	# 	Xtest[i - 1] = pickle.load(pkl_file)
+	# 	pkl_file.close()
+	# 	pkl_file = open("correctFold" + str(i) + ".pkl", 'rb')
+	# 	correct[i - 1] = pickle.load(pkl_file)
+	# 	correct = np.array(correct)
+	# 	pkl_file.close()
+
+	i = "Master"
+	pkl_file = open("Xtrain2" + str(i) + ".pkl", 'rb')
 	X = pickle.load(pkl_file)
 	pkl_file.close()
-	pkl_file = open("ytrainFold4.pkl", 'rb')
+	pkl_file = open("ytrain" + str(i) + ".pkl", 'rb')
 	y = pickle.load(pkl_file)
 	y = np.array(y)
 	pkl_file.close()
 
-	pkl_file = open("XtestFold4.pkl", 'rb')
+	pkl_file = open("Xtest2" + str(i) + ".pkl", 'rb')
 	Xtest = pickle.load(pkl_file)
 	pkl_file.close()
-	pkl_file = open("correctFold4.pkl", 'rb')
+	pkl_file = open("correct" + str(i) + ".pkl", 'rb')
 	correct = pickle.load(pkl_file)
 	correct = np.array(correct)
 	pkl_file.close()
 
-	print "SVM"
-	svm = SVC()
-	svm.fit(X, y)
-	guess = svm.predict(Xtest)
-	printError(guess, correct)
+	# clf = RandomForestClassifier(n_estimators=5000, criterion = "entropy", 
+	# 	max_features = .125, max_depth = 10)
+	# clf = RandomForestClassifier(n_estimators=5000)
+	# clf = clf.fit(X, y)
+	# guess = clf.predict(Xtest)
+	# printError(guess, correct)
 
-	print "Built-in RF"
-	clf = RandomForestClassifier(n_estimators=5000)
-	clf = clf.fit(X, y)
-	guess = clf.predict(Xtest)
+	# print "SVM"
+	# svm = SVC()
+	# svm.fit(X, y)
+	# guess = svm.predict(Xtest)
+	# printError(guess, correct)
 
-	printError(guess, correct)
+	# # USE BUILT-IN RF TO TUNE SINCE IT IS SO MUCH FASTER
+	# maxCorrect = 0
+	# bestFrac = -1
+	# bestDepth = -1
+	# # for frac in [.025, .05, .1, .2, .3]:
+	# for frac in [.075, .1, .125, .15]:
+	# 	for depth in [7, 10, 13, 16, 19, 22]:
+	# 		print "Built-in RF feature fraction: {}, depth: {}".format(frac, depth)
+	# 		forestCorrect = 0
+	# 		for i in range(numFolds):
+	# 			clf = RandomForestClassifier(n_estimators=5000, criterion = "entropy", 
+	# 				max_features = frac, max_depth = depth)
+	# 			clf = clf.fit(X[i], y[i])
+	# 			guess = clf.predict(Xtest[i])
+
+	# 			successCorrect, totalSuccess, \
+	# 				failureCorrect, totalFailure = calcError(guess, correct[i])
+
+	# 			forestCorrect += successCorrect + failureCorrect
+	# 			printError(guess, correct[i])
+
+	# 		if forestCorrect > maxCorrect:
+	# 			bestFrac = frac
+	# 			bestDepth = depth
+	# 			maxCorrect = forestCorrect
+
+	# print "Best Fraction: {}, Best Depth {}".format(bestFrac, bestDepth)
+
+	# for frac in [.025, .05, .1, .2, .3, .4]:
+	# 	print "Built-in RF {}".format(frac)
+	# 	clf = RandomForestClassifier(n_estimators=5000, criterion = "entropy", max_features = frac)
+	# 	clf = clf.fit(X, y)
+	# 	guess = clf.predict(Xtest)
+
+	# 	printError(guess, correct)
+
+	# for depth in [5, 10, 20, 40, 80]:
+	# 	print "Built-in RF {}".format(depth)
+	# 	clf = RandomForestClassifier(n_estimators=5000, criterion = "entropy", max_depth = depth)
+	# 	clf = clf.fit(X, y)
+	# 	guess = clf.predict(Xtest)
+
+	# 	printError(guess, correct)
+
+	# for frac in [.1, .2, .3, .4, .5, .6, .7, .8, .9]:
+	# 	print "Built-in RF {}".format(frac)
+	# 	for i in range(numFolds):
+	# 		clf = BaggingClassifier(n_estimators=5000, max_samples = frac)
+	# 		clf = clf.fit(X[i], y[i])
+	# 		guess = clf.predict(Xtest[i])
+
+	# 		printError(guess, correct[i])
+
+	# print "Built-in RF"
+	# clf = RandomForestClassifier(n_estimators=5000)
+	# clf = clf.fit(X, y)
+	# guess = clf.predict(Xtest)
+
+	# printError(guess, correct)
+
 
 	print "Self-built RF"
 	a = time.clock()
-	rf = RandomForest(trees = 1000, fraction = .3, 
-		mtry = int(math.log(Xtest.shape[1])), replace = True)
+	rf = RandomForest(trees = 100, fraction = 1, 
+		mtry = int(.1 * Xtest.shape[1]), replace = True)
 	rf.fit(X, y)
 	guess = rf.predict(Xtest)
 	printError(guess, correct)
